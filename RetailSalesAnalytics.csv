@@ -1,0 +1,1001 @@
+order_id,order_date,order_status,customer_id,customer_segment,product_id,product_name,category,brand,unit_price,quantity_sold,discount,revenue,cost_of_goods_sold,profit,sales_channel,region,city,store_id,salesperson_id
+ORD-10000,2024-10-16,Cancelled,CUST-1044,Loyalty Member,PROD-316,Laptop,Electronics,Sony,518.36,3,0.0,1555.08,962.87,592.21,Online,North,Delhi,STORE-7,SP-114
+ORD-10001,2024-06-01,Cancelled,CUST-1142,Retail,PROD-488,Fiction Novel,Books,Macmillan,13.95,9,0.2,100.44,50.73,49.71,Online,West,Pune,STORE-9,SP-109
+ORD-10002,2023-08-09,Completed,CUST-1235,Loyalty Member,PROD-163,Blender,Home & Kitchen,Philips,170.57,6,0.15,869.91,522.76,347.15,In-Store,North,Chennai,STORE-20,SP-123
+ORD-10003,2024-08-14,Completed,CUST-1194,Wholesale,PROD-332,T-Shirt,Clothing,Nike,139.03,5,0.0,695.15,461.46,233.69,Mobile App,East,Bangalore,STORE-12,SP-122
+ORD-10004,2023-08-03,Returned,CUST-1138,Loyalty Member,PROD-452,Blender,Home & Kitchen,Cuisinart,264.94,9,0.05,2265.24,1111.89,1153.35,Mobile App,South,Pune,STORE-2,SP-114
+ORD-10005,2023-02-02,Returned,CUST-1202,Loyalty Member,PROD-334,Vacuum Cleaner,Home & Kitchen,Instant Pot,54.49,10,0.15,463.16,233.04,230.12,Online,East,Bangalore,STORE-8,SP-147
+ORD-10006,2024-07-28,Completed,CUST-1260,Wholesale,PROD-146,Cookbook,Books,Macmillan,24.28,10,0.2,194.24,104.99,89.25,Online,North,Bangalore,STORE-6,SP-150
+ORD-10007,2024-11-27,Cancelled,CUST-1005,Loyalty Member,PROD-469,Fitness Band,Sports,Nike,124.66,10,0.25,934.95,544.4,390.55,Online,Central,Chennai,STORE-11,SP-107
+ORD-10008,2023-10-28,Completed,CUST-1152,Loyalty Member,PROD-359,Dumbbells,Sports,Reebok,15.92,5,0.0,79.6,45.92,33.68,Mobile App,South,Bangalore,STORE-12,SP-148
+ORD-10009,2023-06-15,Completed,CUST-1157,Retail,PROD-129,Biography,Books,Penguin,31.95,8,0.0,255.6,122.17,133.43,Online,Central,Delhi,STORE-3,SP-146
+ORD-10010,2024-05-12,Cancelled,CUST-1216,Retail,PROD-376,Smartwatch,Electronics,Apple,366.91,8,0.0,2935.28,1515.38,1419.9,Mobile App,South,Chennai,STORE-13,SP-142
+ORD-10011,2024-10-27,Completed,CUST-1283,Retail,PROD-401,Vacuum Cleaner,Home & Kitchen,Cuisinart,197.05,4,0.05,748.79,348.94,399.85,Online,North,Delhi,STORE-2,SP-114
+ORD-10012,2023-03-11,Completed,CUST-1292,Loyalty Member,PROD-342,Headphones,Electronics,Samsung,868.4,5,0.25,3256.5,1639.84,1616.66,Online,West,Kolkata,STORE-7,SP-106
+ORD-10013,2023-04-10,Completed,CUST-1055,Retail,PROD-198,Running Shoes,Sports,Reebok,132.16,1,0.0,132.16,61.47,70.69,Online,Central,Ahmedabad,STORE-5,SP-127
+ORD-10014,2023-07-07,Cancelled,CUST-1050,Retail,PROD-433,Vacuum Cleaner,Home & Kitchen,Bosch,353.56,2,0.25,530.34,345.78,184.56,Mobile App,North,Delhi,STORE-8,SP-110
+ORD-10015,2024-02-21,Returned,CUST-1135,Wholesale,PROD-246,Cycling Helmet,Sports,Puma,261.43,1,0.0,261.43,142.41,119.02,In-Store,Central,Ahmedabad,STORE-5,SP-112
+ORD-10016,2023-10-31,Cancelled,CUST-1244,Loyalty Member,PROD-371,T-Shirt,Clothing,Levi's,152.43,1,0.15,129.57,60.16,69.41,Online,North,Delhi,STORE-6,SP-104
+ORD-10017,2024-09-01,Completed,CUST-1041,Wholesale,PROD-436,Smartphone,Electronics,Dell,355.85,10,0.05,3380.57,2010.53,1370.04,Mobile App,Central,Pune,STORE-9,SP-113
+ORD-10018,2024-11-16,Completed,CUST-1004,Wholesale,PROD-418,Coffee Maker,Home & Kitchen,Instant Pot,176.44,5,0.25,661.65,350.04,311.61,Mobile App,North,Delhi,STORE-18,SP-113
+ORD-10019,2024-06-02,Returned,CUST-1278,Loyalty Member,PROD-254,Coffee Maker,Home & Kitchen,Instant Pot,355.92,4,0.15,1210.13,630.78,579.35,Mobile App,Central,Mumbai,STORE-18,SP-119
+ORD-10020,2024-11-10,Cancelled,CUST-1107,Loyalty Member,PROD-275,Smartphone,Electronics,Sony,350.06,2,0.0,700.12,362.72,337.4,Online,East,Ahmedabad,STORE-9,SP-103
+ORD-10021,2023-04-05,Returned,CUST-1282,Loyalty Member,PROD-318,Running Shoes,Sports,Nike,16.01,3,0.1,43.23,21.2,22.03,Mobile App,North,Delhi,STORE-3,SP-144
+ORD-10022,2023-06-02,Completed,CUST-1186,Retail,PROD-283,Fiction Novel,Books,Random House,31.21,3,0.2,74.9,36.09,38.81,Online,South,Delhi,STORE-12,SP-149
+ORD-10023,2024-07-27,Completed,CUST-1211,Retail,PROD-191,Fitness Band,Sports,Puma,278.84,4,0.0,1115.36,774.12,341.24,Mobile App,East,Kolkata,STORE-8,SP-117
+ORD-10024,2023-06-13,Returned,CUST-1179,Wholesale,PROD-216,Tablet,Electronics,Samsung,1316.17,4,0.05,5001.45,3271.68,1729.77,Online,North,Hyderabad,STORE-13,SP-121
+ORD-10025,2023-10-13,Completed,CUST-1133,Retail,PROD-397,Headphones,Electronics,Sony,1033.93,7,0.15,6151.88,4212.86,1939.02,In-Store,North,Delhi,STORE-20,SP-127
+ORD-10026,2023-12-20,Completed,CUST-1130,Retail,PROD-462,Vacuum Cleaner,Home & Kitchen,Cuisinart,394.17,2,0.2,630.67,425.62,205.05,In-Store,North,Hyderabad,STORE-12,SP-127
+ORD-10027,2023-03-13,Returned,CUST-1167,Wholesale,PROD-456,Toaster,Home & Kitchen,Instant Pot,275.45,2,0.1,495.81,285.97,209.84,In-Store,Central,Bangalore,STORE-7,SP-126
+ORD-10028,2024-11-11,Completed,CUST-1220,Loyalty Member,PROD-410,Dumbbells,Sports,Decathlon,177.19,7,0.0,1240.33,652.37,587.96,Mobile App,East,Ahmedabad,STORE-15,SP-128
+ORD-10029,2024-11-22,Cancelled,CUST-1171,Retail,PROD-484,Dress,Clothing,H&M,162.87,3,0.0,488.61,254.54,234.07,Online,East,Hyderabad,STORE-7,SP-109
+ORD-10030,2023-01-26,Cancelled,CUST-1099,Loyalty Member,PROD-456,Smartphone,Electronics,Dell,994.66,2,0.25,1491.99,825.98,666.01,In-Store,West,Kolkata,STORE-8,SP-109
+ORD-10031,2024-11-02,Completed,CUST-1062,Wholesale,PROD-168,Laptop,Electronics,Dell,484.49,9,0.25,3270.31,1512.7,1757.61,In-Store,Central,Pune,STORE-15,SP-139
+ORD-10032,2024-05-31,Completed,CUST-1141,Loyalty Member,PROD-348,Fitness Band,Sports,Reebok,270.7,8,0.25,1624.2,836.13,788.07,Mobile App,South,Chennai,STORE-15,SP-104
+ORD-10033,2024-12-31,Completed,CUST-1196,Loyalty Member,PROD-178,Coffee Maker,Home & Kitchen,Instant Pot,154.26,9,0.0,1388.34,672.78,715.56,Mobile App,South,Delhi,STORE-14,SP-126
+ORD-10034,2023-12-05,Cancelled,CUST-1010,Loyalty Member,PROD-294,Science Textbook,Books,Scholastic,7.8,7,0.2,43.68,29.54,14.14,In-Store,North,Pune,STORE-10,SP-148
+ORD-10035,2024-02-04,Returned,CUST-1248,Retail,PROD-299,Fitness Band,Sports,Decathlon,242.96,4,0.25,728.88,367.98,360.9,In-Store,West,Bangalore,STORE-15,SP-108
+ORD-10036,2024-09-29,Completed,CUST-1236,Retail,PROD-125,Fiction Novel,Books,Scholastic,31.64,1,0.0,31.64,19.32,12.32,In-Store,West,Pune,STORE-7,SP-129
+ORD-10037,2023-12-01,Returned,CUST-1009,Loyalty Member,PROD-376,Vacuum Cleaner,Home & Kitchen,Instant Pot,308.24,7,0.1,1941.91,1279.19,662.72,Online,East,Hyderabad,STORE-3,SP-149
+ORD-10038,2024-10-29,Returned,CUST-1058,Loyalty Member,PROD-211,Laptop,Electronics,Apple,459.17,1,0.0,459.17,234.01,225.16,In-Store,East,Pune,STORE-6,SP-138
+ORD-10039,2024-09-13,Returned,CUST-1203,Loyalty Member,PROD-201,Smartphone,Electronics,Sony,340.53,1,0.1,306.48,182.03,124.45,Online,Central,Hyderabad,STORE-4,SP-144
+ORD-10040,2023-11-05,Completed,CUST-1259,Loyalty Member,PROD-274,Fiction Novel,Books,Macmillan,40.22,6,0.2,193.06,118.81,74.25,Online,West,Ahmedabad,STORE-4,SP-127
+ORD-10041,2024-01-06,Cancelled,CUST-1247,Wholesale,PROD-323,Dumbbells,Sports,Reebok,65.2,9,0.1,528.12,318.97,209.15,Mobile App,Central,Chennai,STORE-11,SP-115
+ORD-10042,2023-03-30,Returned,CUST-1166,Retail,PROD-349,Vacuum Cleaner,Home & Kitchen,Bosch,307.68,10,0.2,2461.44,1314.65,1146.79,Online,East,Chennai,STORE-11,SP-117
+ORD-10043,2024-09-02,Returned,CUST-1250,Loyalty Member,PROD-488,Toaster,Home & Kitchen,Philips,221.15,4,0.0,884.6,451.45,433.15,Online,West,Ahmedabad,STORE-15,SP-150
+ORD-10044,2023-01-18,Completed,CUST-1242,Loyalty Member,PROD-371,Headphones,Electronics,Apple,725.72,4,0.1,2612.59,1609.33,1003.26,In-Store,West,Pune,STORE-12,SP-144
+ORD-10045,2024-04-09,Cancelled,CUST-1094,Retail,PROD-210,Air Fryer,Home & Kitchen,Instant Pot,115.3,4,0.15,392.02,188.13,203.89,Mobile App,West,Chennai,STORE-19,SP-148
+ORD-10046,2024-06-21,Completed,CUST-1007,Loyalty Member,PROD-373,Cookbook,Books,Penguin,42.47,5,0.05,201.73,108.98,92.75,Online,East,Mumbai,STORE-2,SP-135
+ORD-10047,2023-10-27,Returned,CUST-1174,Retail,PROD-126,Sneakers,Clothing,Nike,177.09,10,0.1,1593.81,904.25,689.56,In-Store,West,Delhi,STORE-3,SP-125
+ORD-10048,2024-05-18,Completed,CUST-1060,Loyalty Member,PROD-491,Smartwatch,Electronics,Samsung,397.25,10,0.1,3575.25,1685.0,1890.25,In-Store,Central,Hyderabad,STORE-17,SP-124
+ORD-10049,2024-04-06,Completed,CUST-1106,Loyalty Member,PROD-208,Running Shoes,Sports,Decathlon,297.16,5,0.0,1485.8,895.06,590.74,In-Store,North,Bangalore,STORE-8,SP-111
+ORD-10050,2024-07-19,Completed,CUST-1147,Loyalty Member,PROD-244,Smartphone,Electronics,Samsung,731.07,10,0.25,5483.03,2866.61,2616.42,Mobile App,West,Delhi,STORE-8,SP-116
+ORD-10051,2024-10-02,Completed,CUST-1036,Retail,PROD-184,Self-Help Book,Books,Scholastic,10.16,4,0.0,40.64,27.52,13.12,In-Store,Central,Chennai,STORE-15,SP-107
+ORD-10052,2024-04-24,Completed,CUST-1221,Loyalty Member,PROD-265,Vacuum Cleaner,Home & Kitchen,Instant Pot,215.17,8,0.25,1291.02,606.92,684.1,Mobile App,East,Mumbai,STORE-3,SP-114
+ORD-10053,2024-11-21,Completed,CUST-1240,Loyalty Member,PROD-433,Biography,Books,Penguin,49.98,5,0.0,249.9,160.13,89.77,In-Store,East,Bangalore,STORE-19,SP-127
+ORD-10054,2024-10-12,Completed,CUST-1168,Wholesale,PROD-455,Yoga Mat,Sports,Reebok,114.17,6,0.15,582.27,359.57,222.7,In-Store,East,Kolkata,STORE-18,SP-102
+ORD-10055,2024-04-10,Cancelled,CUST-1236,Wholesale,PROD-127,Headphones,Electronics,Sony,620.26,7,0.0,4341.82,2667.68,1674.14,Online,Central,Pune,STORE-20,SP-148
+ORD-10056,2024-05-25,Returned,CUST-1062,Retail,PROD-422,Yoga Mat,Sports,Puma,91.11,3,0.1,246.0,137.64,108.36,Mobile App,South,Bangalore,STORE-10,SP-135
+ORD-10057,2023-01-15,Completed,CUST-1255,Loyalty Member,PROD-249,Science Textbook,Books,Penguin,15.11,2,0.25,22.66,15.56,7.1,Mobile App,East,Kolkata,STORE-16,SP-130
+ORD-10058,2023-09-07,Completed,CUST-1212,Wholesale,PROD-359,Fitness Band,Sports,Puma,124.32,10,0.0,1243.2,827.98,415.22,In-Store,North,Chennai,STORE-10,SP-137
+ORD-10059,2024-08-16,Cancelled,CUST-1193,Wholesale,PROD-264,Dumbbells,Sports,Reebok,168.5,6,0.15,859.35,505.28,354.07,Online,South,Kolkata,STORE-8,SP-149
+ORD-10060,2024-02-25,Completed,CUST-1253,Retail,PROD-164,Headphones,Electronics,Dell,1116.8,7,0.2,6254.08,4359.74,1894.34,Mobile App,Central,Pune,STORE-4,SP-128
+ORD-10061,2023-04-13,Completed,CUST-1173,Loyalty Member,PROD-454,Science Textbook,Books,Penguin,37.51,7,0.0,262.57,123.07,139.5,In-Store,North,Pune,STORE-18,SP-124
+ORD-10062,2023-11-21,Completed,CUST-1222,Retail,PROD-489,Fitness Band,Sports,Nike,190.98,4,0.1,687.53,480.83,206.7,Mobile App,North,Ahmedabad,STORE-6,SP-144
+ORD-10063,2023-11-03,Completed,CUST-1125,Loyalty Member,PROD-310,Laptop,Electronics,Sony,1234.99,5,0.15,5248.71,2853.78,2394.93,Mobile App,South,Bangalore,STORE-6,SP-105
+ORD-10064,2024-09-16,Completed,CUST-1235,Wholesale,PROD-441,Fitness Band,Sports,Puma,156.84,10,0.0,1568.4,796.82,771.58,Online,West,Chennai,STORE-18,SP-110
+ORD-10065,2023-03-17,Completed,CUST-1101,Wholesale,PROD-347,Running Shoes,Sports,Decathlon,100.26,7,0.1,631.64,356.38,275.26,Online,South,Kolkata,STORE-19,SP-122
+ORD-10066,2024-08-11,Completed,CUST-1254,Wholesale,PROD-497,Air Fryer,Home & Kitchen,Philips,391.84,7,0.1,2468.59,1115.86,1352.73,Online,Central,Pune,STORE-8,SP-140
+ORD-10067,2023-07-14,Completed,CUST-1296,Wholesale,PROD-474,Cookbook,Books,HarperCollins,33.27,1,0.1,29.94,19.38,10.56,Online,North,Chennai,STORE-11,SP-147
+ORD-10068,2024-03-01,Completed,CUST-1246,Wholesale,PROD-482,Jeans,Clothing,Adidas,161.57,6,0.1,872.48,573.76,298.72,In-Store,North,Ahmedabad,STORE-3,SP-109
+ORD-10069,2023-08-20,Completed,CUST-1232,Wholesale,PROD-444,Fitness Band,Sports,Under Armour,40.74,7,0.0,285.18,147.19,137.99,Mobile App,East,Kolkata,STORE-12,SP-106
+ORD-10070,2024-11-22,Completed,CUST-1032,Loyalty Member,PROD-337,Sneakers,Clothing,Nike,131.52,9,0.15,1006.13,682.98,323.15,Mobile App,East,Kolkata,STORE-4,SP-108
+ORD-10071,2023-02-16,Completed,CUST-1276,Wholesale,PROD-400,Headphones,Electronics,Dell,350.96,4,0.0,1403.84,768.13,635.71,Mobile App,South,Kolkata,STORE-4,SP-131
+ORD-10072,2024-09-22,Completed,CUST-1185,Retail,PROD-451,Running Shoes,Sports,Nike,211.73,4,0.25,635.19,356.45,278.74,In-Store,Central,Pune,STORE-2,SP-125
+ORD-10073,2023-10-10,Completed,CUST-1124,Retail,PROD-389,T-Shirt,Clothing,H&M,36.5,4,0.0,146.0,67.55,78.45,Online,North,Hyderabad,STORE-19,SP-113
+ORD-10074,2023-08-27,Completed,CUST-1056,Loyalty Member,PROD-113,Coffee Maker,Home & Kitchen,Cuisinart,31.05,3,0.0,93.15,54.5,38.65,Online,North,Pune,STORE-8,SP-137
+ORD-10075,2023-11-28,Returned,CUST-1229,Wholesale,PROD-362,Smartphone,Electronics,Sony,268.12,7,0.0,1876.84,1194.45,682.39,Mobile App,North,Ahmedabad,STORE-17,SP-114
+ORD-10076,2024-09-21,Returned,CUST-1218,Loyalty Member,PROD-155,Smartwatch,Electronics,Sony,795.46,1,0.0,795.46,556.54,238.92,In-Store,West,Delhi,STORE-3,SP-120
+ORD-10077,2024-09-14,Cancelled,CUST-1271,Wholesale,PROD-332,T-Shirt,Clothing,Adidas,69.5,10,0.15,590.75,322.09,268.66,Mobile App,Central,Kolkata,STORE-4,SP-150
+ORD-10078,2024-12-19,Returned,CUST-1204,Wholesale,PROD-473,Smartwatch,Electronics,Apple,759.09,4,0.2,2429.09,1298.91,1130.18,Online,East,Kolkata,STORE-11,SP-142
+ORD-10079,2023-09-19,Completed,CUST-1066,Loyalty Member,PROD-130,Coffee Maker,Home & Kitchen,Dyson,54.84,2,0.0,109.68,61.2,48.48,Mobile App,Central,Pune,STORE-4,SP-126
+ORD-10080,2023-12-29,Completed,CUST-1079,Loyalty Member,PROD-346,Yoga Mat,Sports,Under Armour,186.12,6,0.0,1116.72,663.87,452.85,Online,North,Pune,STORE-18,SP-123
+ORD-10081,2023-04-28,Completed,CUST-1014,Retail,PROD-239,Toaster,Home & Kitchen,Bosch,328.67,9,0.0,2958.03,1781.47,1176.56,Mobile App,East,Pune,STORE-12,SP-100
+ORD-10082,2023-07-05,Completed,CUST-1192,Wholesale,PROD-332,Dress,Clothing,H&M,32.53,1,0.0,32.53,20.71,11.82,In-Store,South,Pune,STORE-10,SP-146
+ORD-10083,2023-11-29,Completed,CUST-1041,Wholesale,PROD-326,Biography,Books,Penguin,44.75,3,0.0,134.25,85.73,48.52,Mobile App,West,Ahmedabad,STORE-20,SP-128
+ORD-10084,2024-02-29,Cancelled,CUST-1249,Loyalty Member,PROD-441,Coffee Maker,Home & Kitchen,Cuisinart,72.11,7,0.0,504.77,262.89,241.88,In-Store,North,Hyderabad,STORE-13,SP-138
+ORD-10085,2023-02-26,Completed,CUST-1003,Wholesale,PROD-482,Smartphone,Electronics,Sony,1428.92,3,0.1,3858.08,2015.31,1842.77,In-Store,South,Bangalore,STORE-13,SP-134
+ORD-10086,2024-12-21,Completed,CUST-1223,Retail,PROD-335,Dress,Clothing,Levi's,170.0,6,0.0,1020.0,560.25,459.75,Online,East,Kolkata,STORE-19,SP-125
+ORD-10087,2024-12-27,Cancelled,CUST-1235,Loyalty Member,PROD-285,Running Shoes,Sports,Nike,130.43,6,0.0,782.58,508.94,273.64,Online,West,Delhi,STORE-8,SP-127
+ORD-10088,2024-08-26,Completed,CUST-1039,Loyalty Member,PROD-424,Fitness Band,Sports,Nike,127.79,5,0.15,543.11,274.48,268.63,Online,Central,Hyderabad,STORE-12,SP-122
+ORD-10089,2024-10-22,Completed,CUST-1090,Loyalty Member,PROD-352,Jeans,Clothing,Nike,46.36,4,0.0,185.44,111.38,74.06,In-Store,Central,Ahmedabad,STORE-19,SP-141
+ORD-10090,2024-10-12,Completed,CUST-1140,Loyalty Member,PROD-128,Cookbook,Books,Random House,11.79,2,0.25,17.68,9.91,7.77,In-Store,Central,Delhi,STORE-10,SP-129
+ORD-10091,2024-04-07,Cancelled,CUST-1196,Wholesale,PROD-397,Laptop,Electronics,Sony,1281.21,2,0.0,2562.42,1547.07,1015.35,Mobile App,North,Ahmedabad,STORE-19,SP-141
+ORD-10092,2023-07-12,Completed,CUST-1043,Loyalty Member,PROD-430,Toaster,Home & Kitchen,Dyson,215.51,1,0.25,161.63,76.92,84.71,Online,North,Hyderabad,STORE-15,SP-128
+ORD-10093,2024-06-20,Completed,CUST-1026,Loyalty Member,PROD-431,Biography,Books,HarperCollins,21.38,5,0.2,85.52,47.22,38.3,In-Store,North,Pune,STORE-4,SP-135
+ORD-10094,2024-11-25,Cancelled,CUST-1072,Wholesale,PROD-258,Running Shoes,Sports,Under Armour,221.26,10,0.0,2212.6,1180.07,1032.53,Mobile App,West,Bangalore,STORE-20,SP-145
+ORD-10095,2023-03-28,Cancelled,CUST-1047,Loyalty Member,PROD-443,Toaster,Home & Kitchen,Dyson,268.09,6,0.0,1608.54,993.32,615.22,In-Store,Central,Pune,STORE-1,SP-123
+ORD-10096,2023-11-13,Completed,CUST-1079,Retail,PROD-251,Jeans,Clothing,Zara,190.58,8,0.05,1448.41,733.82,714.59,Online,Central,Mumbai,STORE-11,SP-149
+ORD-10097,2024-09-24,Completed,CUST-1210,Wholesale,PROD-446,Dress,Clothing,H&M,47.77,3,0.0,143.31,90.33,52.98,Mobile App,South,Ahmedabad,STORE-20,SP-118
+ORD-10098,2024-04-04,Cancelled,CUST-1225,Wholesale,PROD-493,Dress,Clothing,Adidas,75.7,8,0.05,575.32,311.8,263.52,In-Store,West,Kolkata,STORE-6,SP-112
+ORD-10099,2024-09-11,Cancelled,CUST-1063,Wholesale,PROD-142,Jacket,Clothing,Nike,135.41,6,0.0,812.46,510.1,302.36,Online,East,Ahmedabad,STORE-17,SP-109
+ORD-10100,2024-03-23,Cancelled,CUST-1191,Retail,PROD-297,Smartphone,Electronics,Dell,1350.02,1,0.2,1080.02,500.39,579.63,Online,East,Hyderabad,STORE-1,SP-120
+ORD-10101,2023-04-12,Returned,CUST-1229,Loyalty Member,PROD-102,Coffee Maker,Home & Kitchen,Bosch,44.17,8,0.0,353.36,226.05,127.31,Online,North,Chennai,STORE-7,SP-109
+ORD-10102,2024-07-15,Completed,CUST-1122,Wholesale,PROD-427,Biography,Books,Scholastic,10.0,5,0.05,47.5,24.95,22.55,Mobile App,West,Delhi,STORE-4,SP-131
+ORD-10103,2024-09-03,Cancelled,CUST-1180,Retail,PROD-392,Fiction Novel,Books,Macmillan,30.88,3,0.1,83.38,46.47,36.91,In-Store,South,Delhi,STORE-17,SP-123
+ORD-10104,2023-03-11,Returned,CUST-1022,Loyalty Member,PROD-298,Biography,Books,Macmillan,40.39,9,0.0,363.51,199.06,164.45,In-Store,East,Mumbai,STORE-12,SP-150
+ORD-10105,2023-03-11,Cancelled,CUST-1173,Loyalty Member,PROD-189,Coffee Maker,Home & Kitchen,Philips,315.46,6,0.0,1892.76,872.72,1020.04,Mobile App,West,Ahmedabad,STORE-6,SP-108
+ORD-10106,2023-03-06,Completed,CUST-1263,Wholesale,PROD-378,Yoga Mat,Sports,Under Armour,72.45,4,0.0,289.8,153.27,136.53,In-Store,East,Mumbai,STORE-7,SP-118
+ORD-10107,2024-01-01,Returned,CUST-1197,Wholesale,PROD-195,Headphones,Electronics,Sony,361.82,6,0.2,1736.74,1167.73,569.01,In-Store,West,Pune,STORE-17,SP-117
+ORD-10108,2023-03-26,Completed,CUST-1167,Loyalty Member,PROD-251,Yoga Mat,Sports,Reebok,186.7,3,0.1,504.09,267.32,236.77,In-Store,West,Kolkata,STORE-6,SP-144
+ORD-10109,2024-03-30,Completed,CUST-1038,Loyalty Member,PROD-426,Vacuum Cleaner,Home & Kitchen,Philips,298.92,6,0.2,1434.82,744.15,690.67,In-Store,East,Bangalore,STORE-1,SP-109
+ORD-10110,2024-09-14,Cancelled,CUST-1016,Loyalty Member,PROD-178,Yoga Mat,Sports,Puma,34.16,6,0.15,174.22,95.07,79.15,Mobile App,West,Pune,STORE-12,SP-128
+ORD-10111,2023-03-20,Completed,CUST-1013,Loyalty Member,PROD-195,Self-Help Book,Books,Macmillan,21.51,6,0.1,116.15,59.52,56.63,In-Store,Central,Kolkata,STORE-18,SP-107
+ORD-10112,2023-09-26,Completed,CUST-1037,Wholesale,PROD-188,Vacuum Cleaner,Home & Kitchen,Bosch,398.66,5,0.25,1494.98,747.56,747.42,Mobile App,West,Delhi,STORE-11,SP-142
+ORD-10113,2023-12-22,Completed,CUST-1185,Loyalty Member,PROD-214,Smartwatch,Electronics,LG,577.47,5,0.0,2887.35,1813.12,1074.23,Online,South,Bangalore,STORE-8,SP-150
+ORD-10114,2024-05-20,Completed,CUST-1033,Wholesale,PROD-303,Headphones,Electronics,LG,943.96,8,0.0,7551.68,4553.57,2998.11,Mobile App,West,Kolkata,STORE-14,SP-136
+ORD-10115,2023-03-17,Cancelled,CUST-1300,Retail,PROD-493,Jacket,Clothing,Nike,101.0,9,0.15,772.65,372.48,400.17,Online,West,Mumbai,STORE-4,SP-133
+ORD-10116,2023-06-06,Cancelled,CUST-1145,Retail,PROD-228,Coffee Maker,Home & Kitchen,Bosch,149.38,4,0.15,507.89,348.85,159.04,Online,Central,Chennai,STORE-5,SP-140
+ORD-10117,2023-11-07,Cancelled,CUST-1172,Loyalty Member,PROD-121,Biography,Books,Penguin,27.62,3,0.0,82.86,40.83,42.03,Online,North,Mumbai,STORE-19,SP-116
+ORD-10118,2024-10-28,Cancelled,CUST-1148,Loyalty Member,PROD-254,Dress,Clothing,H&M,131.26,1,0.25,98.44,66.18,32.26,In-Store,South,Kolkata,STORE-10,SP-129
+ORD-10119,2023-03-16,Completed,CUST-1160,Loyalty Member,PROD-263,Smartphone,Electronics,Dell,740.31,8,0.05,5626.36,3010.37,2615.99,Mobile App,East,Kolkata,STORE-5,SP-148
+ORD-10120,2024-01-15,Completed,CUST-1072,Retail,PROD-125,Biography,Books,Penguin,19.36,8,0.0,154.88,80.05,74.83,In-Store,West,Kolkata,STORE-8,SP-110
+ORD-10121,2023-12-02,Completed,CUST-1254,Retail,PROD-146,Cookbook,Books,HarperCollins,39.34,8,0.25,236.04,135.65,100.39,In-Store,Central,Ahmedabad,STORE-8,SP-113
+ORD-10122,2024-08-20,Completed,CUST-1055,Wholesale,PROD-168,Blender,Home & Kitchen,Philips,134.1,10,0.25,1005.75,524.44,481.31,In-Store,East,Kolkata,STORE-12,SP-102
+ORD-10123,2024-02-15,Cancelled,CUST-1230,Loyalty Member,PROD-243,Smartwatch,Electronics,LG,453.05,9,0.1,3669.71,1718.83,1950.88,Mobile App,Central,Delhi,STORE-5,SP-106
+ORD-10124,2024-02-08,Returned,CUST-1256,Retail,PROD-123,Air Fryer,Home & Kitchen,Cuisinart,377.41,3,0.05,1075.62,646.03,429.59,Online,South,Pune,STORE-16,SP-133
+ORD-10125,2024-04-12,Cancelled,CUST-1153,Loyalty Member,PROD-272,Dress,Clothing,Levi's,45.16,10,0.15,383.86,188.33,195.53,Mobile App,Central,Ahmedabad,STORE-19,SP-119
+ORD-10126,2024-05-01,Completed,CUST-1242,Wholesale,PROD-435,Headphones,Electronics,Sony,1075.95,7,0.1,6778.49,4400.52,2377.97,Mobile App,Central,Hyderabad,STORE-2,SP-137
+ORD-10127,2024-05-06,Completed,CUST-1016,Loyalty Member,PROD-458,Dress,Clothing,Levi's,159.43,7,0.0,1116.01,731.45,384.56,Online,South,Mumbai,STORE-15,SP-120
+ORD-10128,2024-03-04,Completed,CUST-1070,Loyalty Member,PROD-206,Sneakers,Clothing,Adidas,93.87,10,0.25,704.03,470.44,233.59,Mobile App,East,Ahmedabad,STORE-17,SP-124
+ORD-10129,2023-11-18,Completed,CUST-1126,Wholesale,PROD-385,Sneakers,Clothing,Levi's,81.62,6,0.1,440.75,265.56,175.19,In-Store,South,Chennai,STORE-10,SP-145
+ORD-10130,2023-08-01,Cancelled,CUST-1194,Wholesale,PROD-276,Running Shoes,Sports,Reebok,114.41,5,0.1,514.85,247.37,267.48,Online,East,Mumbai,STORE-10,SP-145
+ORD-10131,2023-03-22,Completed,CUST-1287,Loyalty Member,PROD-239,Vacuum Cleaner,Home & Kitchen,Instant Pot,306.52,4,0.05,1164.78,765.25,399.53,Online,North,Hyderabad,STORE-8,SP-103
+ORD-10132,2024-11-16,Completed,CUST-1070,Retail,PROD-381,Self-Help Book,Books,HarperCollins,7.36,7,0.15,43.79,27.56,16.23,Online,West,Ahmedabad,STORE-16,SP-141
+ORD-10133,2023-07-24,Completed,CUST-1089,Wholesale,PROD-190,Air Fryer,Home & Kitchen,Instant Pot,268.98,2,0.05,511.06,298.35,212.71,Online,West,Ahmedabad,STORE-6,SP-147
+ORD-10134,2023-10-24,Cancelled,CUST-1268,Wholesale,PROD-168,Laptop,Electronics,Sony,938.35,2,0.15,1595.19,831.32,763.87,Mobile App,West,Chennai,STORE-7,SP-107
+ORD-10135,2023-12-05,Cancelled,CUST-1098,Retail,PROD-412,Sneakers,Clothing,Zara,149.35,1,0.15,126.95,82.22,44.73,Mobile App,West,Kolkata,STORE-17,SP-120
+ORD-10136,2023-03-30,Completed,CUST-1133,Wholesale,PROD-220,Yoga Mat,Sports,Puma,294.78,8,0.15,2004.5,1370.99,633.51,In-Store,East,Pune,STORE-10,SP-137
+ORD-10137,2024-08-09,Completed,CUST-1207,Loyalty Member,PROD-357,Headphones,Electronics,Sony,1100.6,1,0.0,1100.6,623.32,477.28,Mobile App,East,Delhi,STORE-10,SP-123
+ORD-10138,2024-09-21,Cancelled,CUST-1241,Loyalty Member,PROD-440,Jeans,Clothing,Adidas,106.07,8,0.15,721.28,399.56,321.72,Online,South,Delhi,STORE-17,SP-128
+ORD-10139,2024-06-24,Completed,CUST-1084,Wholesale,PROD-366,Blender,Home & Kitchen,Cuisinart,71.52,9,0.05,611.5,362.73,248.77,In-Store,North,Hyderabad,STORE-19,SP-131
+ORD-10140,2023-04-04,Completed,CUST-1286,Wholesale,PROD-444,Science Textbook,Books,Penguin,25.4,9,0.2,182.88,103.18,79.7,In-Store,North,Kolkata,STORE-9,SP-100
+ORD-10141,2023-08-12,Completed,CUST-1241,Retail,PROD-246,Fiction Novel,Books,Penguin,24.07,2,0.0,48.14,32.91,15.23,In-Store,South,Bangalore,STORE-14,SP-123
+ORD-10142,2024-01-27,Completed,CUST-1060,Retail,PROD-375,Cycling Helmet,Sports,Reebok,37.87,9,0.0,340.83,209.06,131.77,In-Store,Central,Bangalore,STORE-8,SP-100
+ORD-10143,2023-01-24,Completed,CUST-1079,Wholesale,PROD-196,Vacuum Cleaner,Home & Kitchen,Cuisinart,186.93,7,0.05,1243.08,636.31,606.77,Mobile App,North,Mumbai,STORE-14,SP-139
+ORD-10144,2023-01-17,Completed,CUST-1125,Loyalty Member,PROD-122,Jeans,Clothing,Nike,38.16,1,0.25,28.62,17.16,11.46,In-Store,West,Hyderabad,STORE-18,SP-113
+ORD-10145,2023-02-27,Completed,CUST-1121,Wholesale,PROD-173,Dress,Clothing,Zara,62.15,10,0.15,528.27,313.99,214.28,Mobile App,Central,Hyderabad,STORE-14,SP-119
+ORD-10146,2023-10-09,Completed,CUST-1176,Loyalty Member,PROD-443,Smartwatch,Electronics,LG,1343.63,3,0.2,3224.71,1899.23,1325.48,In-Store,Central,Pune,STORE-14,SP-126
+ORD-10147,2023-06-02,Completed,CUST-1073,Wholesale,PROD-129,Vacuum Cleaner,Home & Kitchen,Bosch,309.13,8,0.05,2349.39,1556.08,793.31,Mobile App,West,Kolkata,STORE-18,SP-133
+ORD-10148,2023-05-18,Completed,CUST-1274,Loyalty Member,PROD-197,Dumbbells,Sports,Under Armour,72.95,2,0.25,109.43,72.42,37.01,Online,East,Kolkata,STORE-20,SP-138
+ORD-10149,2023-02-10,Completed,CUST-1155,Retail,PROD-208,Smartphone,Electronics,LG,1141.6,9,0.05,9760.68,5562.11,4198.57,Online,North,Ahmedabad,STORE-8,SP-144
+ORD-10150,2024-09-10,Completed,CUST-1157,Wholesale,PROD-284,Sneakers,Clothing,Adidas,119.37,5,0.2,477.48,270.52,206.96,Mobile App,West,Ahmedabad,STORE-4,SP-146
+ORD-10151,2024-04-25,Completed,CUST-1133,Loyalty Member,PROD-399,Coffee Maker,Home & Kitchen,Instant Pot,145.78,1,0.05,138.49,87.98,50.51,Mobile App,West,Chennai,STORE-5,SP-112
+ORD-10152,2023-12-04,Returned,CUST-1251,Wholesale,PROD-186,Sneakers,Clothing,Levi's,170.01,8,0.15,1156.07,594.6,561.47,Mobile App,East,Bangalore,STORE-5,SP-146
+ORD-10153,2024-07-13,Completed,CUST-1024,Retail,PROD-311,Dumbbells,Sports,Decathlon,297.24,1,0.0,297.24,196.11,101.13,Online,South,Delhi,STORE-5,SP-100
+ORD-10154,2023-08-12,Completed,CUST-1003,Loyalty Member,PROD-382,Science Textbook,Books,Random House,7.72,10,0.25,57.9,35.6,22.3,In-Store,North,Mumbai,STORE-17,SP-146
+ORD-10155,2023-10-09,Completed,CUST-1268,Retail,PROD-223,Cookbook,Books,Penguin,27.6,7,0.0,193.2,92.11,101.09,Online,Central,Chennai,STORE-12,SP-117
+ORD-10156,2024-02-11,Completed,CUST-1016,Retail,PROD-307,Headphones,Electronics,Dell,796.7,4,0.05,3027.46,1589.4,1438.06,In-Store,West,Ahmedabad,STORE-2,SP-140
+ORD-10157,2023-01-10,Completed,CUST-1117,Retail,PROD-454,T-Shirt,Clothing,H&M,172.16,6,0.0,1032.96,695.9,337.06,Mobile App,West,Chennai,STORE-2,SP-104
+ORD-10158,2024-12-01,Completed,CUST-1300,Retail,PROD-485,Toaster,Home & Kitchen,Cuisinart,273.5,3,0.15,697.42,316.57,380.85,Mobile App,West,Delhi,STORE-10,SP-110
+ORD-10159,2024-07-31,Completed,CUST-1040,Loyalty Member,PROD-481,Dress,Clothing,H&M,141.87,9,0.15,1085.31,592.54,492.77,In-Store,North,Delhi,STORE-14,SP-114
+ORD-10160,2023-03-19,Completed,CUST-1230,Wholesale,PROD-216,Toaster,Home & Kitchen,Cuisinart,383.3,7,0.15,2280.63,1043.17,1237.46,In-Store,Central,Kolkata,STORE-14,SP-111
+ORD-10161,2024-11-27,Completed,CUST-1137,Retail,PROD-294,Science Textbook,Books,Penguin,39.75,5,0.05,188.81,118.63,70.18,Mobile App,South,Kolkata,STORE-11,SP-123
+ORD-10162,2023-04-20,Completed,CUST-1220,Wholesale,PROD-385,Laptop,Electronics,Sony,778.16,5,0.0,3890.8,1879.75,2011.05,Mobile App,Central,Kolkata,STORE-4,SP-101
+ORD-10163,2023-04-02,Returned,CUST-1198,Retail,PROD-471,Toaster,Home & Kitchen,Philips,250.86,6,0.2,1204.13,545.57,658.56,Mobile App,South,Bangalore,STORE-13,SP-110
+ORD-10164,2023-05-23,Returned,CUST-1153,Wholesale,PROD-500,Air Fryer,Home & Kitchen,Instant Pot,212.46,2,0.0,424.92,237.39,187.53,Online,East,Chennai,STORE-8,SP-146
+ORD-10165,2024-10-02,Returned,CUST-1170,Loyalty Member,PROD-294,Fitness Band,Sports,Decathlon,70.73,2,0.0,141.46,74.43,67.03,In-Store,West,Pune,STORE-14,SP-141
+ORD-10166,2024-08-31,Returned,CUST-1163,Wholesale,PROD-476,Jacket,Clothing,Zara,128.58,4,0.25,385.74,203.88,181.86,Mobile App,West,Hyderabad,STORE-11,SP-124
+ORD-10167,2023-10-15,Cancelled,CUST-1013,Loyalty Member,PROD-336,Running Shoes,Sports,Nike,280.64,4,0.0,1122.56,696.47,426.09,Mobile App,South,Ahmedabad,STORE-10,SP-144
+ORD-10168,2023-03-12,Returned,CUST-1193,Retail,PROD-329,Cycling Helmet,Sports,Puma,195.5,4,0.1,703.8,432.6,271.2,Mobile App,West,Kolkata,STORE-18,SP-132
+ORD-10169,2024-12-09,Completed,CUST-1181,Retail,PROD-431,Fitness Band,Sports,Nike,240.36,6,0.0,1442.16,688.4,753.76,Mobile App,North,Kolkata,STORE-11,SP-150
+ORD-10170,2024-03-16,Returned,CUST-1237,Loyalty Member,PROD-401,Laptop,Electronics,Samsung,536.36,9,0.05,4585.88,2574.72,2011.16,Mobile App,Central,Bangalore,STORE-12,SP-101
+ORD-10171,2024-05-09,Completed,CUST-1178,Wholesale,PROD-275,Headphones,Electronics,Dell,1396.71,2,0.0,2793.42,1837.59,955.83,In-Store,South,Ahmedabad,STORE-12,SP-130
+ORD-10172,2023-04-10,Completed,CUST-1055,Loyalty Member,PROD-184,Cycling Helmet,Sports,Under Armour,34.14,1,0.0,34.14,15.56,18.58,Mobile App,South,Bangalore,STORE-18,SP-110
+ORD-10173,2023-12-05,Returned,CUST-1202,Retail,PROD-477,Science Textbook,Books,Scholastic,15.43,7,0.0,108.01,53.64,54.37,Mobile App,South,Ahmedabad,STORE-19,SP-127
+ORD-10174,2024-02-03,Cancelled,CUST-1095,Wholesale,PROD-266,Smartphone,Electronics,Apple,561.85,2,0.0,1123.7,730.27,393.43,Online,West,Delhi,STORE-9,SP-142
+ORD-10175,2024-05-16,Returned,CUST-1088,Loyalty Member,PROD-461,Cookbook,Books,Macmillan,22.49,7,0.0,157.43,84.54,72.89,In-Store,Central,Delhi,STORE-5,SP-120
+ORD-10176,2023-05-01,Completed,CUST-1294,Wholesale,PROD-316,Jacket,Clothing,Nike,52.95,3,0.2,127.08,70.47,56.61,Online,West,Bangalore,STORE-18,SP-110
+ORD-10177,2024-05-16,Completed,CUST-1248,Retail,PROD-199,Coffee Maker,Home & Kitchen,Bosch,146.39,8,0.0,1171.12,780.41,390.71,In-Store,Central,Ahmedabad,STORE-14,SP-143
+ORD-10178,2024-05-18,Completed,CUST-1149,Retail,PROD-240,Cycling Helmet,Sports,Reebok,62.67,10,0.0,626.7,406.71,219.99,Online,Central,Chennai,STORE-6,SP-149
+ORD-10179,2024-04-13,Cancelled,CUST-1187,Loyalty Member,PROD-487,Science Textbook,Books,Macmillan,27.99,10,0.0,279.9,144.7,135.2,Online,West,Hyderabad,STORE-14,SP-106
+ORD-10180,2024-10-31,Completed,CUST-1121,Retail,PROD-477,Jacket,Clothing,Nike,100.95,6,0.0,605.7,339.05,266.65,Mobile App,East,Kolkata,STORE-6,SP-139
+ORD-10181,2023-05-23,Completed,CUST-1165,Loyalty Member,PROD-249,Jeans,Clothing,Nike,122.61,9,0.1,993.14,595.1,398.04,In-Store,Central,Chennai,STORE-17,SP-143
+ORD-10182,2023-04-08,Completed,CUST-1126,Loyalty Member,PROD-301,Sneakers,Clothing,Nike,198.65,3,0.0,595.95,305.38,290.57,In-Store,South,Chennai,STORE-14,SP-124
+ORD-10183,2024-04-07,Returned,CUST-1167,Loyalty Member,PROD-101,Laptop,Electronics,Dell,870.3,5,0.15,3698.78,2084.91,1613.87,Mobile App,North,Ahmedabad,STORE-12,SP-104
+ORD-10184,2024-07-01,Completed,CUST-1172,Loyalty Member,PROD-395,Dumbbells,Sports,Reebok,250.08,8,0.1,1800.58,955.6,844.98,Online,Central,Ahmedabad,STORE-11,SP-143
+ORD-10185,2023-02-19,Returned,CUST-1103,Loyalty Member,PROD-167,Laptop,Electronics,Dell,221.17,3,0.25,497.63,280.73,216.9,Mobile App,East,Bangalore,STORE-9,SP-105
+ORD-10186,2024-11-01,Completed,CUST-1119,Wholesale,PROD-435,Air Fryer,Home & Kitchen,Philips,167.58,3,0.0,502.74,276.05,226.69,Online,North,Mumbai,STORE-7,SP-130
+ORD-10187,2023-03-21,Completed,CUST-1061,Wholesale,PROD-455,Dress,Clothing,Adidas,113.5,8,0.0,908.0,410.43,497.57,Online,West,Delhi,STORE-8,SP-124
+ORD-10188,2023-04-02,Completed,CUST-1073,Retail,PROD-371,Laptop,Electronics,Sony,677.83,5,0.0,3389.15,1849.39,1539.76,Mobile App,North,Bangalore,STORE-15,SP-122
+ORD-10189,2023-08-07,Completed,CUST-1063,Loyalty Member,PROD-473,Sneakers,Clothing,Levi's,143.58,4,0.0,574.32,387.18,187.14,In-Store,East,Kolkata,STORE-11,SP-150
+ORD-10190,2023-05-24,Completed,CUST-1154,Retail,PROD-365,Jacket,Clothing,Nike,64.67,10,0.1,582.03,375.26,206.77,Mobile App,Central,Hyderabad,STORE-13,SP-118
+ORD-10191,2024-10-23,Completed,CUST-1270,Retail,PROD-284,Smartphone,Electronics,Dell,701.65,4,0.25,2104.95,1283.01,821.94,In-Store,South,Kolkata,STORE-19,SP-126
+ORD-10192,2024-01-10,Completed,CUST-1134,Retail,PROD-120,Self-Help Book,Books,Scholastic,47.95,2,0.0,95.9,57.24,38.66,Online,West,Chennai,STORE-17,SP-149
+ORD-10193,2024-03-01,Completed,CUST-1040,Loyalty Member,PROD-204,Cycling Helmet,Sports,Nike,197.55,9,0.0,1777.95,923.41,854.54,Online,Central,Pune,STORE-13,SP-137
+ORD-10194,2024-10-11,Returned,CUST-1059,Wholesale,PROD-413,Headphones,Electronics,Dell,1148.95,4,0.0,4595.8,2349.01,2246.79,Mobile App,North,Chennai,STORE-6,SP-107
+ORD-10195,2023-01-13,Completed,CUST-1137,Loyalty Member,PROD-160,T-Shirt,Clothing,Adidas,109.35,6,0.1,590.49,290.37,300.12,Online,East,Kolkata,STORE-9,SP-133
+ORD-10196,2023-03-07,Cancelled,CUST-1085,Wholesale,PROD-180,Toaster,Home & Kitchen,Philips,213.57,9,0.15,1633.81,757.86,875.95,In-Store,North,Delhi,STORE-8,SP-147
+ORD-10197,2024-06-05,Completed,CUST-1091,Retail,PROD-383,Laptop,Electronics,Samsung,517.92,8,0.15,3521.86,1922.04,1599.82,Mobile App,West,Hyderabad,STORE-11,SP-115
+ORD-10198,2024-03-02,Cancelled,CUST-1023,Wholesale,PROD-135,Air Fryer,Home & Kitchen,Philips,241.47,2,0.0,482.94,238.98,243.96,In-Store,East,Chennai,STORE-11,SP-105
+ORD-10199,2024-07-20,Completed,CUST-1237,Wholesale,PROD-402,Yoga Mat,Sports,Under Armour,72.19,10,0.1,649.71,412.5,237.21,In-Store,South,Hyderabad,STORE-5,SP-100
+ORD-10200,2024-02-24,Returned,CUST-1157,Retail,PROD-205,Smartphone,Electronics,LG,650.35,1,0.15,552.8,248.96,303.84,Mobile App,South,Kolkata,STORE-16,SP-103
+ORD-10201,2023-05-26,Completed,CUST-1234,Loyalty Member,PROD-143,Blender,Home & Kitchen,Philips,370.87,9,0.2,2670.26,1669.48,1000.78,Mobile App,North,Bangalore,STORE-13,SP-104
+ORD-10202,2024-08-29,Completed,CUST-1201,Loyalty Member,PROD-476,Fiction Novel,Books,Scholastic,34.81,3,0.05,99.21,51.88,47.33,In-Store,East,Ahmedabad,STORE-9,SP-114
+ORD-10203,2023-03-18,Completed,CUST-1208,Retail,PROD-374,Jeans,Clothing,Levi's,39.62,2,0.0,79.24,44.56,34.68,In-Store,South,Ahmedabad,STORE-10,SP-129
+ORD-10204,2023-09-29,Completed,CUST-1075,Retail,PROD-464,Laptop,Electronics,Apple,1249.88,5,0.0,6249.4,3148.17,3101.23,Online,East,Kolkata,STORE-17,SP-103
+ORD-10205,2024-11-24,Cancelled,CUST-1127,Retail,PROD-336,Air Fryer,Home & Kitchen,Bosch,41.5,7,0.25,217.88,128.33,89.55,Online,South,Delhi,STORE-1,SP-103
+ORD-10206,2023-08-16,Completed,CUST-1011,Retail,PROD-201,Jeans,Clothing,H&M,87.0,2,0.1,156.6,106.39,50.21,Mobile App,West,Bangalore,STORE-3,SP-121
+ORD-10207,2023-05-06,Returned,CUST-1254,Retail,PROD-295,Tablet,Electronics,Samsung,418.39,10,0.2,3347.12,2193.77,1153.35,Mobile App,West,Bangalore,STORE-12,SP-113
+ORD-10208,2023-07-11,Returned,CUST-1210,Loyalty Member,PROD-345,Air Fryer,Home & Kitchen,Dyson,356.87,1,0.05,339.03,207.43,131.6,Online,North,Chennai,STORE-13,SP-108
+ORD-10209,2024-03-05,Completed,CUST-1245,Loyalty Member,PROD-500,Dress,Clothing,Adidas,133.54,9,0.0,1201.86,838.12,363.74,In-Store,East,Pune,STORE-13,SP-117
+ORD-10210,2023-07-04,Returned,CUST-1271,Wholesale,PROD-492,Headphones,Electronics,LG,484.73,5,0.0,2423.65,1580.62,843.03,Mobile App,South,Bangalore,STORE-4,SP-115
+ORD-10211,2024-11-03,Returned,CUST-1181,Retail,PROD-190,Jacket,Clothing,Levi's,166.93,1,0.05,158.58,94.18,64.4,Online,Central,Pune,STORE-12,SP-137
+ORD-10212,2023-01-29,Completed,CUST-1251,Retail,PROD-146,Toaster,Home & Kitchen,Cuisinart,82.58,4,0.25,247.74,145.06,102.68,Online,South,Hyderabad,STORE-1,SP-133
+ORD-10213,2024-05-04,Completed,CUST-1030,Retail,PROD-175,Headphones,Electronics,LG,461.9,3,0.15,1177.84,741.14,436.7,Mobile App,South,Delhi,STORE-17,SP-123
+ORD-10214,2023-03-16,Completed,CUST-1223,Loyalty Member,PROD-349,Vacuum Cleaner,Home & Kitchen,Cuisinart,67.38,5,0.15,286.36,138.63,147.73,Mobile App,East,Bangalore,STORE-18,SP-144
+ORD-10215,2024-09-20,Completed,CUST-1065,Retail,PROD-473,Coffee Maker,Home & Kitchen,Cuisinart,331.35,7,0.1,2087.51,1322.43,765.08,Online,Central,Kolkata,STORE-19,SP-102
+ORD-10216,2023-07-06,Completed,CUST-1169,Loyalty Member,PROD-139,Cookbook,Books,Macmillan,14.94,10,0.0,149.4,102.22,47.18,Online,East,Pune,STORE-6,SP-140
+ORD-10217,2023-04-01,Completed,CUST-1000,Retail,PROD-297,Vacuum Cleaner,Home & Kitchen,Philips,128.13,4,0.0,512.52,275.54,236.98,In-Store,West,Bangalore,STORE-14,SP-131
+ORD-10218,2024-01-23,Completed,CUST-1017,Wholesale,PROD-110,Toaster,Home & Kitchen,Dyson,67.53,8,0.05,513.23,251.82,261.41,In-Store,East,Delhi,STORE-3,SP-121
+ORD-10219,2023-06-24,Cancelled,CUST-1247,Loyalty Member,PROD-115,Dumbbells,Sports,Nike,170.91,2,0.15,290.55,173.9,116.65,In-Store,South,Kolkata,STORE-6,SP-103
+ORD-10220,2023-04-14,Completed,CUST-1121,Retail,PROD-125,Coffee Maker,Home & Kitchen,Bosch,181.43,9,0.1,1469.58,904.01,565.57,In-Store,Central,Ahmedabad,STORE-5,SP-103
+ORD-10221,2024-01-05,Completed,CUST-1105,Retail,PROD-426,Tablet,Electronics,Samsung,582.91,10,0.25,4371.82,2185.55,2186.27,In-Store,North,Ahmedabad,STORE-4,SP-119
+ORD-10222,2024-02-12,Returned,CUST-1189,Retail,PROD-328,Cycling Helmet,Sports,Under Armour,40.97,9,0.2,294.98,146.38,148.6,Online,East,Ahmedabad,STORE-15,SP-116
+ORD-10223,2023-08-20,Cancelled,CUST-1211,Loyalty Member,PROD-216,Toaster,Home & Kitchen,Philips,85.92,2,0.0,171.84,106.03,65.81,Mobile App,North,Kolkata,STORE-17,SP-126
+ORD-10224,2024-07-02,Completed,CUST-1257,Loyalty Member,PROD-364,Fitness Band,Sports,Puma,150.73,2,0.2,241.17,162.96,78.21,Mobile App,Central,Bangalore,STORE-4,SP-148
+ORD-10225,2024-04-04,Returned,CUST-1103,Loyalty Member,PROD-175,Jeans,Clothing,Adidas,165.52,3,0.0,496.56,276.01,220.55,Mobile App,East,Pune,STORE-3,SP-105
+ORD-10226,2024-02-02,Completed,CUST-1300,Loyalty Member,PROD-500,Science Textbook,Books,Macmillan,19.68,5,0.25,73.8,50.13,23.67,In-Store,North,Kolkata,STORE-5,SP-109
+ORD-10227,2024-08-03,Cancelled,CUST-1176,Wholesale,PROD-235,Biography,Books,Penguin,46.62,10,0.0,466.2,301.37,164.83,In-Store,West,Ahmedabad,STORE-2,SP-111
+ORD-10228,2023-10-10,Completed,CUST-1121,Retail,PROD-481,Dumbbells,Sports,Decathlon,188.47,7,0.0,1319.29,724.22,595.07,In-Store,East,Pune,STORE-1,SP-121
+ORD-10229,2023-11-07,Returned,CUST-1164,Wholesale,PROD-473,Air Fryer,Home & Kitchen,Dyson,347.55,2,0.05,660.35,319.34,341.01,In-Store,Central,Delhi,STORE-7,SP-128
+ORD-10230,2023-08-05,Cancelled,CUST-1206,Retail,PROD-499,Cycling Helmet,Sports,Decathlon,262.15,1,0.0,262.15,122.27,139.88,Mobile App,Central,Mumbai,STORE-6,SP-112
+ORD-10231,2023-07-25,Returned,CUST-1258,Wholesale,PROD-425,Smartphone,Electronics,Samsung,793.38,6,0.05,4522.27,2344.77,2177.5,Online,North,Hyderabad,STORE-12,SP-131
+ORD-10232,2024-08-31,Completed,CUST-1046,Wholesale,PROD-114,Dumbbells,Sports,Reebok,182.26,6,0.15,929.53,456.29,473.24,In-Store,North,Bangalore,STORE-19,SP-149
+ORD-10233,2023-08-08,Completed,CUST-1242,Retail,PROD-431,Jeans,Clothing,Adidas,68.44,7,0.0,479.08,319.14,159.94,Online,Central,Mumbai,STORE-8,SP-116
+ORD-10234,2024-09-14,Returned,CUST-1154,Loyalty Member,PROD-366,Air Fryer,Home & Kitchen,Dyson,361.33,6,0.25,1625.99,834.13,791.86,Mobile App,West,Delhi,STORE-1,SP-132
+ORD-10235,2024-11-09,Completed,CUST-1141,Loyalty Member,PROD-266,Toaster,Home & Kitchen,Cuisinart,255.35,5,0.0,1276.75,728.3,548.45,In-Store,East,Chennai,STORE-7,SP-109
+ORD-10236,2024-06-13,Returned,CUST-1151,Wholesale,PROD-314,T-Shirt,Clothing,Levi's,92.74,6,0.0,556.44,350.74,205.7,In-Store,West,Mumbai,STORE-19,SP-145
+ORD-10237,2024-08-08,Completed,CUST-1285,Retail,PROD-250,Jacket,Clothing,Adidas,143.54,8,0.15,976.07,563.03,413.04,Online,West,Bangalore,STORE-9,SP-146
+ORD-10238,2024-07-26,Completed,CUST-1190,Wholesale,PROD-399,Jacket,Clothing,Nike,60.01,4,0.1,216.04,119.93,96.11,In-Store,West,Delhi,STORE-16,SP-103
+ORD-10239,2024-10-11,Returned,CUST-1271,Wholesale,PROD-311,Biography,Books,Macmillan,8.2,4,0.0,32.8,21.87,10.93,Online,South,Bangalore,STORE-7,SP-121
+ORD-10240,2024-02-24,Completed,CUST-1160,Loyalty Member,PROD-129,Science Textbook,Books,HarperCollins,19.24,3,0.0,57.72,33.01,24.71,Online,West,Chennai,STORE-7,SP-148
+ORD-10241,2023-06-22,Returned,CUST-1206,Wholesale,PROD-344,Self-Help Book,Books,Scholastic,40.33,2,0.0,80.66,48.69,31.97,In-Store,North,Mumbai,STORE-18,SP-112
+ORD-10242,2024-01-18,Completed,CUST-1159,Retail,PROD-152,Headphones,Electronics,LG,447.75,1,0.05,425.36,215.47,209.89,In-Store,Central,Chennai,STORE-6,SP-104
+ORD-10243,2023-02-16,Completed,CUST-1175,Wholesale,PROD-283,Air Fryer,Home & Kitchen,Dyson,299.3,10,0.15,2544.05,1420.64,1123.41,Online,South,Kolkata,STORE-1,SP-114
+ORD-10244,2023-08-18,Completed,CUST-1192,Loyalty Member,PROD-230,Jeans,Clothing,Nike,126.14,3,0.0,378.42,204.97,173.45,Mobile App,Central,Mumbai,STORE-20,SP-103
+ORD-10245,2024-11-08,Cancelled,CUST-1129,Wholesale,PROD-459,Laptop,Electronics,Samsung,1096.67,7,0.25,5757.52,3138.21,2619.31,Online,South,Mumbai,STORE-10,SP-126
+ORD-10246,2024-11-08,Completed,CUST-1261,Loyalty Member,PROD-416,Smartwatch,Electronics,Sony,1009.64,3,0.2,2423.14,1593.61,829.53,Online,East,Delhi,STORE-4,SP-131
+ORD-10247,2023-07-23,Completed,CUST-1082,Retail,PROD-380,Self-Help Book,Books,Random House,42.42,4,0.15,144.23,90.27,53.96,In-Store,South,Ahmedabad,STORE-11,SP-115
+ORD-10248,2023-01-03,Cancelled,CUST-1038,Loyalty Member,PROD-470,Laptop,Electronics,Samsung,1285.8,8,0.0,10286.4,7070.48,3215.92,Online,East,Hyderabad,STORE-15,SP-118
+ORD-10249,2023-09-28,Completed,CUST-1218,Loyalty Member,PROD-159,Yoga Mat,Sports,Nike,246.76,1,0.1,222.08,119.94,102.14,Online,North,Mumbai,STORE-5,SP-142
+ORD-10250,2024-10-24,Completed,CUST-1190,Wholesale,PROD-193,Jacket,Clothing,Zara,181.01,10,0.1,1629.09,1090.87,538.22,Online,West,Kolkata,STORE-15,SP-117
+ORD-10251,2024-01-30,Cancelled,CUST-1247,Loyalty Member,PROD-447,Cycling Helmet,Sports,Puma,47.22,1,0.0,47.22,22.47,24.75,In-Store,South,Kolkata,STORE-12,SP-139
+ORD-10252,2023-01-30,Completed,CUST-1160,Retail,PROD-460,Sneakers,Clothing,H&M,40.33,7,0.25,211.73,97.71,114.02,Mobile App,Central,Hyderabad,STORE-11,SP-133
+ORD-10253,2024-06-19,Returned,CUST-1076,Loyalty Member,PROD-413,Fiction Novel,Books,Scholastic,34.78,4,0.25,104.34,55.97,48.37,Online,North,Bangalore,STORE-17,SP-130
+ORD-10254,2024-05-22,Completed,CUST-1281,Loyalty Member,PROD-293,T-Shirt,Clothing,H&M,77.71,6,0.1,419.63,194.12,225.51,In-Store,South,Delhi,STORE-15,SP-128
+ORD-10255,2024-08-09,Completed,CUST-1052,Wholesale,PROD-311,Yoga Mat,Sports,Reebok,142.41,2,0.25,213.62,135.93,77.69,Online,Central,Mumbai,STORE-3,SP-150
+ORD-10256,2024-09-10,Completed,CUST-1114,Wholesale,PROD-269,Cookbook,Books,Macmillan,30.3,8,0.15,206.04,111.43,94.61,Mobile App,Central,Ahmedabad,STORE-12,SP-145
+ORD-10257,2024-04-08,Completed,CUST-1054,Retail,PROD-184,Laptop,Electronics,Apple,202.86,6,0.1,1095.44,642.94,452.5,In-Store,South,Kolkata,STORE-4,SP-116
+ORD-10258,2024-09-17,Completed,CUST-1173,Retail,PROD-487,Jeans,Clothing,Nike,187.44,7,0.05,1246.48,703.34,543.14,In-Store,North,Delhi,STORE-15,SP-129
+ORD-10259,2024-11-05,Returned,CUST-1299,Wholesale,PROD-360,Biography,Books,HarperCollins,48.37,1,0.0,48.37,28.46,19.91,Online,Central,Bangalore,STORE-5,SP-106
+ORD-10260,2024-02-01,Completed,CUST-1140,Wholesale,PROD-275,Biography,Books,Random House,27.68,7,0.2,155.01,107.71,47.3,In-Store,West,Bangalore,STORE-5,SP-126
+ORD-10261,2024-09-08,Cancelled,CUST-1148,Loyalty Member,PROD-276,Cookbook,Books,Macmillan,43.73,9,0.05,373.89,187.03,186.86,Mobile App,South,Bangalore,STORE-17,SP-134
+ORD-10262,2024-12-11,Cancelled,CUST-1146,Wholesale,PROD-106,Blender,Home & Kitchen,Instant Pot,238.04,10,0.2,1904.32,1177.94,726.38,Mobile App,North,Mumbai,STORE-13,SP-109
+ORD-10263,2023-02-24,Completed,CUST-1031,Loyalty Member,PROD-251,Smartphone,Electronics,Sony,1175.24,3,0.1,3173.15,1970.04,1203.11,Online,Central,Mumbai,STORE-12,SP-128
+ORD-10264,2023-04-15,Completed,CUST-1024,Wholesale,PROD-298,Biography,Books,HarperCollins,38.41,9,0.2,276.55,140.87,135.68,In-Store,East,Mumbai,STORE-1,SP-147
+ORD-10265,2023-09-15,Completed,CUST-1150,Wholesale,PROD-190,Dress,Clothing,H&M,169.4,6,0.05,965.58,621.87,343.71,Mobile App,North,Bangalore,STORE-6,SP-147
+ORD-10266,2024-06-10,Cancelled,CUST-1130,Retail,PROD-269,Tablet,Electronics,Samsung,757.06,9,0.1,6132.19,2958.88,3173.31,In-Store,South,Mumbai,STORE-5,SP-120
+ORD-10267,2024-09-03,Completed,CUST-1269,Retail,PROD-194,Smartwatch,Electronics,Sony,837.72,10,0.15,7120.62,3334.02,3786.6,Mobile App,North,Bangalore,STORE-14,SP-134
+ORD-10268,2024-07-03,Completed,CUST-1111,Loyalty Member,PROD-371,Yoga Mat,Sports,Under Armour,78.04,4,0.15,265.34,141.36,123.98,In-Store,Central,Mumbai,STORE-4,SP-142
+ORD-10269,2023-12-21,Completed,CUST-1195,Retail,PROD-297,Dumbbells,Sports,Decathlon,276.8,4,0.0,1107.2,687.17,420.03,In-Store,Central,Chennai,STORE-1,SP-133
+ORD-10270,2024-01-19,Completed,CUST-1049,Retail,PROD-495,Biography,Books,Scholastic,26.91,5,0.05,127.82,67.75,60.07,Mobile App,Central,Mumbai,STORE-3,SP-113
+ORD-10271,2024-11-17,Completed,CUST-1012,Wholesale,PROD-467,Sneakers,Clothing,Nike,57.0,7,0.0,399.0,254.05,144.95,In-Store,North,Delhi,STORE-3,SP-103
+ORD-10272,2023-07-02,Returned,CUST-1207,Wholesale,PROD-261,Toaster,Home & Kitchen,Philips,242.74,4,0.1,873.86,482.29,391.57,Online,West,Delhi,STORE-18,SP-100
+ORD-10273,2024-10-18,Completed,CUST-1148,Loyalty Member,PROD-254,Fiction Novel,Books,Macmillan,7.05,2,0.15,11.98,8.17,3.81,Mobile App,North,Chennai,STORE-15,SP-124
+ORD-10274,2024-02-09,Cancelled,CUST-1151,Loyalty Member,PROD-173,Tablet,Electronics,Apple,893.51,3,0.2,2144.42,1392.14,752.28,In-Store,East,Mumbai,STORE-18,SP-135
+ORD-10275,2023-05-25,Completed,CUST-1108,Wholesale,PROD-430,Laptop,Electronics,Samsung,944.53,7,0.0,6611.71,3478.9,3132.81,Mobile App,South,Bangalore,STORE-6,SP-114
+ORD-10276,2024-09-23,Cancelled,CUST-1236,Loyalty Member,PROD-381,Coffee Maker,Home & Kitchen,Philips,97.1,10,0.0,971.0,643.62,327.38,Online,East,Delhi,STORE-9,SP-106
+ORD-10277,2023-07-22,Completed,CUST-1099,Wholesale,PROD-348,Science Textbook,Books,Random House,21.07,4,0.0,84.28,43.93,40.35,In-Store,East,Chennai,STORE-19,SP-109
+ORD-10278,2024-08-02,Completed,CUST-1223,Wholesale,PROD-284,Cookbook,Books,Random House,48.14,3,0.0,144.42,76.3,68.12,Online,East,Ahmedabad,STORE-15,SP-128
+ORD-10279,2024-01-03,Completed,CUST-1275,Retail,PROD-234,Vacuum Cleaner,Home & Kitchen,Cuisinart,70.27,10,0.0,702.7,464.1,238.6,Mobile App,North,Delhi,STORE-1,SP-132
+ORD-10280,2024-10-08,Cancelled,CUST-1133,Loyalty Member,PROD-376,Smartwatch,Electronics,LG,726.67,10,0.05,6903.36,4670.65,2232.71,In-Store,South,Pune,STORE-13,SP-114
+ORD-10281,2024-08-26,Completed,CUST-1122,Loyalty Member,PROD-450,Coffee Maker,Home & Kitchen,Dyson,215.42,2,0.2,344.67,186.45,158.22,Online,Central,Bangalore,STORE-15,SP-110
+ORD-10282,2023-07-03,Returned,CUST-1118,Retail,PROD-235,Biography,Books,HarperCollins,38.12,8,0.15,259.22,119.27,139.95,In-Store,South,Mumbai,STORE-7,SP-133
+ORD-10283,2024-01-05,Cancelled,CUST-1140,Loyalty Member,PROD-234,Cycling Helmet,Sports,Reebok,266.24,1,0.15,226.3,107.67,118.63,Mobile App,Central,Bangalore,STORE-13,SP-141
+ORD-10284,2024-01-23,Completed,CUST-1176,Wholesale,PROD-346,Toaster,Home & Kitchen,Philips,221.17,7,0.05,1470.78,851.72,619.06,Mobile App,North,Bangalore,STORE-15,SP-110
+ORD-10285,2023-08-24,Completed,CUST-1117,Wholesale,PROD-269,Smartwatch,Electronics,Sony,474.97,3,0.0,1424.91,770.24,654.67,Mobile App,North,Ahmedabad,STORE-16,SP-130
+ORD-10286,2023-08-04,Completed,CUST-1068,Loyalty Member,PROD-362,Self-Help Book,Books,Scholastic,6.01,1,0.0,6.01,3.57,2.44,Online,Central,Bangalore,STORE-2,SP-110
+ORD-10287,2023-09-22,Completed,CUST-1043,Retail,PROD-329,Dress,Clothing,H&M,127.88,10,0.0,1278.8,856.32,422.48,Mobile App,West,Ahmedabad,STORE-6,SP-114
+ORD-10288,2024-02-25,Completed,CUST-1232,Loyalty Member,PROD-402,Self-Help Book,Books,Macmillan,41.92,3,0.1,113.18,55.68,57.5,Online,South,Kolkata,STORE-13,SP-108
+ORD-10289,2023-04-22,Cancelled,CUST-1049,Retail,PROD-343,Smartphone,Electronics,LG,1317.47,9,0.2,9485.78,6228.63,3257.15,Mobile App,Central,Mumbai,STORE-18,SP-132
+ORD-10290,2023-05-01,Returned,CUST-1267,Wholesale,PROD-289,Tablet,Electronics,Apple,1372.58,9,0.0,12353.22,8329.06,4024.16,Online,Central,Kolkata,STORE-8,SP-130
+ORD-10291,2024-01-26,Completed,CUST-1042,Wholesale,PROD-406,Toaster,Home & Kitchen,Cuisinart,66.16,3,0.1,178.63,101.69,76.94,Mobile App,West,Chennai,STORE-7,SP-100
+ORD-10292,2024-12-27,Completed,CUST-1209,Wholesale,PROD-154,Smartwatch,Electronics,LG,353.18,1,0.2,282.54,173.38,109.16,Online,West,Chennai,STORE-9,SP-134
+ORD-10293,2024-03-09,Cancelled,CUST-1247,Retail,PROD-289,Cookbook,Books,Macmillan,17.4,7,0.05,115.71,64.02,51.69,Mobile App,Central,Ahmedabad,STORE-9,SP-119
+ORD-10294,2024-08-14,Completed,CUST-1051,Retail,PROD-360,Vacuum Cleaner,Home & Kitchen,Bosch,346.35,2,0.05,658.07,369.6,288.47,In-Store,East,Mumbai,STORE-6,SP-124
+ORD-10295,2024-10-13,Completed,CUST-1113,Wholesale,PROD-140,Laptop,Electronics,Apple,813.17,10,0.2,6505.36,3070.76,3434.6,Mobile App,North,Kolkata,STORE-13,SP-139
+ORD-10296,2024-11-02,Completed,CUST-1265,Wholesale,PROD-199,Cookbook,Books,Macmillan,7.59,3,0.25,17.08,9.56,7.52,Online,Central,Hyderabad,STORE-20,SP-110
+ORD-10297,2024-11-21,Returned,CUST-1180,Loyalty Member,PROD-302,Headphones,Electronics,Apple,1051.52,3,0.0,3154.56,2205.68,948.88,In-Store,Central,Hyderabad,STORE-17,SP-100
+ORD-10298,2024-12-21,Completed,CUST-1115,Loyalty Member,PROD-199,Laptop,Electronics,LG,569.84,9,0.15,4359.28,2340.36,2018.92,In-Store,West,Mumbai,STORE-9,SP-111
+ORD-10299,2024-02-21,Cancelled,CUST-1131,Loyalty Member,PROD-394,Fiction Novel,Books,Macmillan,8.26,5,0.15,35.1,24.11,10.99,In-Store,West,Kolkata,STORE-19,SP-130
+ORD-10300,2023-09-07,Completed,CUST-1195,Loyalty Member,PROD-212,Vacuum Cleaner,Home & Kitchen,Dyson,361.71,1,0.25,271.28,129.96,141.32,Mobile App,South,Pune,STORE-14,SP-122
+ORD-10301,2024-06-12,Completed,CUST-1038,Loyalty Member,PROD-191,Fiction Novel,Books,Random House,16.17,2,0.2,25.87,16.0,9.87,In-Store,East,Pune,STORE-7,SP-136
+ORD-10302,2023-10-03,Completed,CUST-1117,Retail,PROD-227,Jeans,Clothing,H&M,152.68,4,0.05,580.18,387.67,192.51,Mobile App,East,Bangalore,STORE-4,SP-107
+ORD-10303,2023-03-22,Completed,CUST-1161,Wholesale,PROD-394,Fitness Band,Sports,Nike,232.81,9,0.0,2095.29,1387.09,708.2,In-Store,West,Bangalore,STORE-17,SP-117
+ORD-10304,2024-02-12,Completed,CUST-1257,Wholesale,PROD-301,Dress,Clothing,Adidas,29.75,7,0.25,156.19,106.98,49.21,Mobile App,South,Ahmedabad,STORE-4,SP-144
+ORD-10305,2024-06-14,Completed,CUST-1185,Loyalty Member,PROD-232,Running Shoes,Sports,Nike,18.37,4,0.2,58.78,34.99,23.79,Online,Central,Chennai,STORE-8,SP-117
+ORD-10306,2024-04-27,Completed,CUST-1186,Wholesale,PROD-243,Cookbook,Books,Random House,13.28,7,0.05,88.31,48.99,39.32,In-Store,South,Bangalore,STORE-19,SP-143
+ORD-10307,2023-08-23,Completed,CUST-1242,Retail,PROD-190,Headphones,Electronics,Apple,921.94,7,0.05,6130.9,2982.44,3148.46,In-Store,West,Bangalore,STORE-17,SP-134
+ORD-10308,2023-11-20,Completed,CUST-1030,Retail,PROD-230,Running Shoes,Sports,Under Armour,175.21,10,0.0,1752.1,962.95,789.15,In-Store,North,Ahmedabad,STORE-11,SP-116
+ORD-10309,2024-01-05,Completed,CUST-1179,Loyalty Member,PROD-410,Toaster,Home & Kitchen,Cuisinart,374.78,5,0.15,1592.81,724.66,868.15,Online,Central,Bangalore,STORE-10,SP-122
+ORD-10310,2023-11-29,Completed,CUST-1085,Loyalty Member,PROD-272,Science Textbook,Books,Scholastic,45.03,7,0.1,283.69,160.55,123.14,In-Store,Central,Kolkata,STORE-3,SP-105
+ORD-10311,2023-06-15,Returned,CUST-1138,Wholesale,PROD-499,Coffee Maker,Home & Kitchen,Instant Pot,147.24,5,0.1,662.58,398.44,264.14,In-Store,Central,Ahmedabad,STORE-14,SP-110
+ORD-10312,2023-07-08,Completed,CUST-1048,Retail,PROD-342,Smartphone,Electronics,Apple,1060.63,2,0.05,2015.2,990.93,1024.27,Mobile App,North,Mumbai,STORE-13,SP-133
+ORD-10313,2023-03-27,Completed,CUST-1226,Loyalty Member,PROD-164,Headphones,Electronics,LG,401.86,7,0.1,2531.72,1284.44,1247.28,Online,Central,Bangalore,STORE-1,SP-102
+ORD-10314,2024-11-10,Completed,CUST-1276,Retail,PROD-402,Air Fryer,Home & Kitchen,Dyson,202.86,9,0.1,1643.17,964.76,678.41,Mobile App,West,Kolkata,STORE-17,SP-140
+ORD-10315,2024-10-16,Completed,CUST-1211,Wholesale,PROD-179,Cookbook,Books,Random House,26.67,4,0.0,106.68,59.79,46.89,In-Store,North,Mumbai,STORE-17,SP-148
+ORD-10316,2023-05-20,Returned,CUST-1149,Loyalty Member,PROD-218,Air Fryer,Home & Kitchen,Dyson,227.99,8,0.25,1367.94,718.04,649.9,Online,Central,Pune,STORE-7,SP-126
+ORD-10317,2024-07-28,Completed,CUST-1216,Loyalty Member,PROD-222,Cycling Helmet,Sports,Puma,61.53,7,0.2,344.57,174.06,170.51,Mobile App,Central,Chennai,STORE-10,SP-141
+ORD-10318,2024-06-28,Returned,CUST-1231,Wholesale,PROD-458,Vacuum Cleaner,Home & Kitchen,Bosch,345.79,3,0.0,1037.37,541.92,495.45,Mobile App,West,Hyderabad,STORE-11,SP-101
+ORD-10319,2023-06-05,Returned,CUST-1004,Retail,PROD-146,Smartwatch,Electronics,Samsung,441.72,2,0.1,795.1,411.3,383.8,Online,North,Ahmedabad,STORE-7,SP-121
+ORD-10320,2024-03-06,Completed,CUST-1028,Wholesale,PROD-497,Vacuum Cleaner,Home & Kitchen,Instant Pot,201.56,1,0.15,171.33,80.53,90.8,In-Store,North,Ahmedabad,STORE-6,SP-112
+ORD-10321,2023-09-14,Returned,CUST-1126,Loyalty Member,PROD-117,Yoga Mat,Sports,Nike,292.76,4,0.2,936.83,602.2,334.63,Online,West,Delhi,STORE-17,SP-142
+ORD-10322,2023-08-02,Cancelled,CUST-1266,Retail,PROD-229,Cycling Helmet,Sports,Under Armour,281.82,3,0.0,845.46,537.87,307.59,In-Store,East,Hyderabad,STORE-12,SP-103
+ORD-10323,2024-11-13,Completed,CUST-1299,Retail,PROD-302,T-Shirt,Clothing,Adidas,133.92,6,0.0,803.52,395.2,408.32,Online,North,Mumbai,STORE-19,SP-150
+ORD-10324,2024-12-08,Completed,CUST-1173,Loyalty Member,PROD-130,Fitness Band,Sports,Puma,120.85,2,0.05,229.61,112.38,117.23,Online,East,Bangalore,STORE-18,SP-150
+ORD-10325,2023-04-20,Returned,CUST-1098,Retail,PROD-452,Sneakers,Clothing,Adidas,77.01,9,0.15,589.13,383.75,205.38,In-Store,East,Bangalore,STORE-9,SP-102
+ORD-10326,2024-05-11,Cancelled,CUST-1178,Wholesale,PROD-474,Fitness Band,Sports,Under Armour,169.68,8,0.05,1289.57,763.01,526.56,In-Store,East,Bangalore,STORE-3,SP-133
+ORD-10327,2023-06-08,Cancelled,CUST-1194,Loyalty Member,PROD-194,Running Shoes,Sports,Under Armour,169.36,8,0.0,1354.88,872.51,482.37,Online,Central,Pune,STORE-20,SP-115
+ORD-10328,2023-11-25,Completed,CUST-1209,Loyalty Member,PROD-264,Smartwatch,Electronics,Dell,446.83,8,0.0,3574.64,2156.44,1418.2,Online,North,Delhi,STORE-2,SP-108
+ORD-10329,2023-07-02,Returned,CUST-1250,Loyalty Member,PROD-419,Smartphone,Electronics,Samsung,830.98,2,0.0,1661.96,985.13,676.83,Mobile App,Central,Chennai,STORE-2,SP-123
+ORD-10330,2023-08-15,Completed,CUST-1239,Loyalty Member,PROD-131,Fiction Novel,Books,Penguin,46.86,4,0.25,140.58,95.89,44.69,In-Store,Central,Kolkata,STORE-12,SP-150
+ORD-10331,2024-12-26,Completed,CUST-1265,Retail,PROD-151,Smartwatch,Electronics,Sony,887.73,2,0.1,1597.91,750.19,847.72,Mobile App,South,Kolkata,STORE-7,SP-112
+ORD-10332,2024-06-22,Cancelled,CUST-1183,Loyalty Member,PROD-334,Dress,Clothing,Adidas,120.52,9,0.2,867.74,552.34,315.4,Mobile App,West,Delhi,STORE-6,SP-150
+ORD-10333,2023-07-04,Completed,CUST-1281,Wholesale,PROD-290,Science Textbook,Books,Macmillan,20.19,3,0.25,45.43,31.05,14.38,In-Store,West,Pune,STORE-20,SP-115
+ORD-10334,2024-07-30,Returned,CUST-1203,Retail,PROD-471,Self-Help Book,Books,Scholastic,39.46,5,0.15,167.71,115.79,51.92,Online,East,Mumbai,STORE-17,SP-108
+ORD-10335,2023-11-06,Completed,CUST-1283,Loyalty Member,PROD-384,Headphones,Electronics,Apple,479.27,6,0.0,2875.62,1848.68,1026.94,Mobile App,Central,Bangalore,STORE-4,SP-102
+ORD-10336,2024-04-16,Completed,CUST-1047,Loyalty Member,PROD-304,Coffee Maker,Home & Kitchen,Bosch,128.05,10,0.05,1216.47,618.27,598.2,Mobile App,South,Delhi,STORE-11,SP-150
+ORD-10337,2024-05-09,Cancelled,CUST-1195,Retail,PROD-499,Sneakers,Clothing,Levi's,167.51,2,0.1,301.52,138.5,163.02,Online,East,Pune,STORE-14,SP-126
+ORD-10338,2023-05-04,Completed,CUST-1163,Loyalty Member,PROD-389,Dress,Clothing,Nike,134.1,7,0.0,938.7,493.94,444.76,Online,East,Hyderabad,STORE-5,SP-103
+ORD-10339,2024-11-20,Returned,CUST-1075,Retail,PROD-272,Cycling Helmet,Sports,Decathlon,178.95,2,0.05,340.0,189.71,150.29,Online,West,Mumbai,STORE-18,SP-125
+ORD-10340,2023-09-26,Completed,CUST-1249,Wholesale,PROD-433,Tablet,Electronics,LG,764.84,3,0.0,2294.52,1308.41,986.11,Mobile App,South,Hyderabad,STORE-8,SP-104
+ORD-10341,2023-09-30,Completed,CUST-1164,Wholesale,PROD-404,Running Shoes,Sports,Decathlon,40.53,7,0.2,226.97,122.86,104.11,Mobile App,North,Chennai,STORE-6,SP-122
+ORD-10342,2024-09-23,Completed,CUST-1043,Retail,PROD-478,Fitness Band,Sports,Puma,140.53,4,0.05,534.01,331.8,202.21,Online,South,Bangalore,STORE-10,SP-100
+ORD-10343,2023-12-18,Completed,CUST-1104,Loyalty Member,PROD-367,Headphones,Electronics,Dell,812.55,6,0.05,4631.53,2941.04,1690.49,In-Store,Central,Ahmedabad,STORE-20,SP-146
+ORD-10344,2023-05-25,Completed,CUST-1145,Retail,PROD-456,Tablet,Electronics,LG,1377.85,9,0.0,12400.65,6372.25,6028.4,Mobile App,East,Mumbai,STORE-15,SP-141
+ORD-10345,2023-01-09,Returned,CUST-1118,Wholesale,PROD-360,Tablet,Electronics,Sony,1061.88,6,0.0,6371.28,2897.46,3473.82,Mobile App,North,Pune,STORE-16,SP-138
+ORD-10346,2024-06-28,Cancelled,CUST-1156,Wholesale,PROD-350,Smartphone,Electronics,Apple,850.85,8,0.0,6806.8,3130.71,3676.09,In-Store,South,Mumbai,STORE-12,SP-143
+ORD-10347,2023-12-27,Completed,CUST-1198,Retail,PROD-384,Air Fryer,Home & Kitchen,Bosch,398.52,9,0.1,3228.01,2107.8,1120.21,In-Store,South,Bangalore,STORE-11,SP-125
+ORD-10348,2024-11-03,Cancelled,CUST-1078,Wholesale,PROD-259,T-Shirt,Clothing,H&M,113.73,10,0.05,1080.43,598.92,481.51,Mobile App,East,Ahmedabad,STORE-18,SP-108
+ORD-10349,2023-07-31,Cancelled,CUST-1069,Wholesale,PROD-494,Dress,Clothing,Levi's,143.13,4,0.0,572.52,301.86,270.66,Online,Central,Bangalore,STORE-11,SP-104
+ORD-10350,2024-07-24,Returned,CUST-1210,Wholesale,PROD-326,Fiction Novel,Books,HarperCollins,19.29,3,0.0,57.87,37.12,20.75,Mobile App,East,Bangalore,STORE-7,SP-106
+ORD-10351,2023-05-15,Completed,CUST-1013,Wholesale,PROD-140,T-Shirt,Clothing,Levi's,131.05,10,0.05,1244.97,745.85,499.12,Mobile App,West,Bangalore,STORE-17,SP-138
+ORD-10352,2024-04-25,Completed,CUST-1209,Retail,PROD-238,Coffee Maker,Home & Kitchen,Dyson,211.83,3,0.0,635.49,316.67,318.82,In-Store,South,Hyderabad,STORE-7,SP-104
+ORD-10353,2023-07-01,Completed,CUST-1194,Loyalty Member,PROD-260,Fitness Band,Sports,Reebok,211.04,8,0.05,1603.9,893.19,710.71,In-Store,Central,Mumbai,STORE-17,SP-106
+ORD-10354,2024-04-07,Cancelled,CUST-1025,Retail,PROD-249,Yoga Mat,Sports,Puma,162.83,7,0.0,1139.81,671.83,467.98,In-Store,West,Chennai,STORE-10,SP-129
+ORD-10355,2023-06-20,Returned,CUST-1046,Loyalty Member,PROD-356,Running Shoes,Sports,Decathlon,276.92,9,0.0,2492.28,1410.37,1081.91,Online,South,Bangalore,STORE-13,SP-126
+ORD-10356,2023-11-28,Completed,CUST-1083,Loyalty Member,PROD-475,Yoga Mat,Sports,Puma,144.3,4,0.25,432.9,204.56,228.34,Online,North,Delhi,STORE-15,SP-140
+ORD-10357,2024-01-07,Returned,CUST-1022,Retail,PROD-271,Smartwatch,Electronics,Dell,1144.94,9,0.0,10304.46,5612.53,4691.93,Mobile App,South,Bangalore,STORE-5,SP-111
+ORD-10358,2024-12-30,Completed,CUST-1067,Retail,PROD-101,Tablet,Electronics,Sony,602.37,8,0.1,4337.06,2630.92,1706.14,Mobile App,East,Mumbai,STORE-15,SP-131
+ORD-10359,2024-05-25,Returned,CUST-1232,Wholesale,PROD-326,Fiction Novel,Books,Macmillan,44.72,4,0.05,169.94,101.49,68.45,Online,Central,Mumbai,STORE-8,SP-135
+ORD-10360,2023-10-12,Completed,CUST-1074,Retail,PROD-441,Biography,Books,HarperCollins,7.2,3,0.0,21.6,13.25,8.35,Mobile App,Central,Chennai,STORE-11,SP-105
+ORD-10361,2023-02-20,Cancelled,CUST-1184,Retail,PROD-147,Tablet,Electronics,Apple,409.74,5,0.0,2048.7,1416.83,631.87,In-Store,East,Pune,STORE-13,SP-104
+ORD-10362,2024-03-13,Returned,CUST-1268,Retail,PROD-456,Fiction Novel,Books,Random House,26.19,2,0.1,47.14,25.09,22.05,Online,Central,Mumbai,STORE-4,SP-136
+ORD-10363,2024-10-06,Completed,CUST-1132,Loyalty Member,PROD-394,Fiction Novel,Books,Scholastic,37.58,10,0.1,338.22,188.31,149.91,Mobile App,East,Bangalore,STORE-20,SP-136
+ORD-10364,2024-05-23,Completed,CUST-1000,Retail,PROD-112,Science Textbook,Books,Scholastic,41.36,10,0.05,392.92,246.42,146.5,In-Store,North,Hyderabad,STORE-20,SP-126
+ORD-10365,2024-02-28,Completed,CUST-1130,Retail,PROD-257,Headphones,Electronics,Sony,928.54,4,0.0,3714.16,2266.21,1447.95,In-Store,Central,Pune,STORE-1,SP-107
+ORD-10366,2024-12-03,Completed,CUST-1169,Wholesale,PROD-444,Air Fryer,Home & Kitchen,Dyson,298.03,10,0.0,2980.3,1961.07,1019.23,In-Store,West,Mumbai,STORE-5,SP-130
+ORD-10367,2023-06-09,Completed,CUST-1289,Loyalty Member,PROD-447,Fitness Band,Sports,Under Armour,146.8,7,0.0,1027.6,676.96,350.64,In-Store,Central,Mumbai,STORE-7,SP-136
+ORD-10368,2024-12-02,Returned,CUST-1273,Retail,PROD-392,Air Fryer,Home & Kitchen,Philips,388.76,5,0.0,1943.8,1039.52,904.28,Mobile App,West,Bangalore,STORE-20,SP-107
+ORD-10369,2023-11-12,Completed,CUST-1110,Loyalty Member,PROD-254,Blender,Home & Kitchen,Instant Pot,183.13,8,0.05,1391.79,755.6,636.19,Online,North,Pune,STORE-2,SP-149
+ORD-10370,2023-07-26,Returned,CUST-1268,Wholesale,PROD-497,Tablet,Electronics,LG,232.42,8,0.0,1859.36,925.13,934.23,In-Store,South,Delhi,STORE-17,SP-143
+ORD-10371,2023-05-16,Completed,CUST-1044,Wholesale,PROD-339,T-Shirt,Clothing,H&M,89.77,9,0.0,807.93,364.4,443.53,Online,North,Chennai,STORE-1,SP-136
+ORD-10372,2023-11-16,Completed,CUST-1139,Retail,PROD-180,Jacket,Clothing,Adidas,54.66,5,0.15,232.3,149.41,82.89,In-Store,North,Mumbai,STORE-20,SP-135
+ORD-10373,2024-06-10,Completed,CUST-1293,Retail,PROD-187,Smartphone,Electronics,LG,655.41,6,0.1,3539.21,1717.89,1821.32,Online,East,Pune,STORE-18,SP-128
+ORD-10374,2023-02-21,Completed,CUST-1218,Wholesale,PROD-191,T-Shirt,Clothing,H&M,182.59,1,0.0,182.59,99.68,82.91,Mobile App,Central,Ahmedabad,STORE-20,SP-122
+ORD-10375,2023-11-16,Returned,CUST-1049,Wholesale,PROD-258,Coffee Maker,Home & Kitchen,Cuisinart,59.06,8,0.0,472.48,223.59,248.89,Mobile App,West,Ahmedabad,STORE-8,SP-114
+ORD-10376,2023-05-28,Completed,CUST-1033,Wholesale,PROD-157,Cookbook,Books,Random House,22.64,6,0.15,115.46,65.04,50.42,In-Store,West,Ahmedabad,STORE-6,SP-118
+ORD-10377,2023-12-23,Completed,CUST-1154,Loyalty Member,PROD-336,Biography,Books,HarperCollins,27.86,7,0.0,195.02,103.65,91.37,In-Store,Central,Kolkata,STORE-8,SP-139
+ORD-10378,2023-09-07,Cancelled,CUST-1220,Wholesale,PROD-390,Self-Help Book,Books,Scholastic,22.27,6,0.05,126.94,82.95,43.99,In-Store,Central,Hyderabad,STORE-6,SP-142
+ORD-10379,2024-11-16,Completed,CUST-1227,Retail,PROD-257,Smartwatch,Electronics,Dell,348.62,10,0.25,2614.65,1389.28,1225.37,In-Store,North,Delhi,STORE-20,SP-149
+ORD-10380,2024-01-24,Completed,CUST-1231,Loyalty Member,PROD-249,Vacuum Cleaner,Home & Kitchen,Philips,63.5,3,0.0,190.5,121.78,68.72,In-Store,Central,Ahmedabad,STORE-7,SP-113
+ORD-10381,2024-11-28,Completed,CUST-1045,Loyalty Member,PROD-104,Air Fryer,Home & Kitchen,Cuisinart,323.91,5,0.2,1295.64,815.54,480.1,Mobile App,Central,Kolkata,STORE-5,SP-118
+ORD-10382,2023-03-05,Completed,CUST-1015,Retail,PROD-321,Toaster,Home & Kitchen,Philips,30.31,9,0.15,231.87,110.7,121.17,Mobile App,Central,Kolkata,STORE-11,SP-145
+ORD-10383,2024-01-27,Cancelled,CUST-1196,Wholesale,PROD-313,Cycling Helmet,Sports,Reebok,170.36,3,0.25,383.31,185.82,197.49,Online,East,Bangalore,STORE-5,SP-100
+ORD-10384,2023-03-15,Returned,CUST-1233,Loyalty Member,PROD-409,Smartphone,Electronics,Dell,1055.3,3,0.0,3165.9,1533.26,1632.64,In-Store,Central,Bangalore,STORE-15,SP-132
+ORD-10385,2024-03-10,Cancelled,CUST-1255,Loyalty Member,PROD-221,Science Textbook,Books,Scholastic,20.99,3,0.2,50.38,30.29,20.09,Mobile App,Central,Chennai,STORE-14,SP-134
+ORD-10386,2024-08-13,Completed,CUST-1072,Loyalty Member,PROD-474,Blender,Home & Kitchen,Philips,240.22,6,0.0,1441.32,857.68,583.64,Mobile App,East,Ahmedabad,STORE-17,SP-105
+ORD-10387,2024-06-19,Completed,CUST-1273,Retail,PROD-340,Fiction Novel,Books,HarperCollins,26.26,2,0.1,47.27,28.52,18.75,In-Store,Central,Ahmedabad,STORE-19,SP-146
+ORD-10388,2023-12-06,Cancelled,CUST-1133,Retail,PROD-422,Running Shoes,Sports,Under Armour,97.42,1,0.1,87.68,55.39,32.29,In-Store,Central,Bangalore,STORE-19,SP-103
+ORD-10389,2024-11-03,Completed,CUST-1129,Retail,PROD-415,Toaster,Home & Kitchen,Philips,136.12,2,0.0,272.24,156.92,115.32,In-Store,East,Chennai,STORE-1,SP-147
+ORD-10390,2023-04-25,Completed,CUST-1120,Wholesale,PROD-192,Self-Help Book,Books,Macmillan,38.25,8,0.15,260.1,169.57,90.53,Mobile App,North,Pune,STORE-3,SP-109
+ORD-10391,2024-09-01,Completed,CUST-1107,Loyalty Member,PROD-475,Sneakers,Clothing,H&M,158.67,4,0.25,476.01,300.6,175.41,In-Store,North,Chennai,STORE-4,SP-103
+ORD-10392,2023-06-21,Returned,CUST-1242,Wholesale,PROD-174,Cycling Helmet,Sports,Reebok,100.89,9,0.05,862.61,470.08,392.53,Mobile App,West,Mumbai,STORE-10,SP-128
+ORD-10393,2024-01-27,Returned,CUST-1139,Wholesale,PROD-238,Toaster,Home & Kitchen,Philips,66.02,9,0.15,505.05,348.0,157.05,In-Store,North,Chennai,STORE-19,SP-125
+ORD-10394,2024-04-17,Completed,CUST-1034,Retail,PROD-310,Dress,Clothing,Adidas,113.59,3,0.15,289.65,170.0,119.65,Online,Central,Delhi,STORE-15,SP-122
+ORD-10395,2023-08-13,Cancelled,CUST-1111,Loyalty Member,PROD-426,Air Fryer,Home & Kitchen,Bosch,42.6,10,0.0,426.0,197.76,228.24,Online,North,Delhi,STORE-20,SP-108
+ORD-10396,2024-01-20,Completed,CUST-1232,Wholesale,PROD-493,Self-Help Book,Books,Penguin,36.3,5,0.1,163.35,92.58,70.77,In-Store,East,Chennai,STORE-6,SP-149
+ORD-10397,2023-03-17,Completed,CUST-1091,Wholesale,PROD-135,Blender,Home & Kitchen,Dyson,173.78,1,0.1,156.4,107.74,48.66,In-Store,South,Kolkata,STORE-6,SP-141
+ORD-10398,2024-05-18,Completed,CUST-1052,Retail,PROD-137,Smartphone,Electronics,LG,1199.32,4,0.0,4797.28,3253.29,1543.99,Online,Central,Chennai,STORE-15,SP-101
+ORD-10399,2024-05-24,Returned,CUST-1294,Retail,PROD-363,T-Shirt,Clothing,Nike,139.63,5,0.0,698.15,436.35,261.8,Mobile App,West,Ahmedabad,STORE-14,SP-125
+ORD-10400,2023-03-13,Completed,CUST-1170,Loyalty Member,PROD-255,Self-Help Book,Books,Penguin,22.3,8,0.0,178.4,105.58,72.82,In-Store,North,Delhi,STORE-12,SP-134
+ORD-10401,2023-12-15,Completed,CUST-1153,Loyalty Member,PROD-299,Tablet,Electronics,Sony,1042.13,3,0.0,3126.39,2163.08,963.31,Online,East,Ahmedabad,STORE-3,SP-140
+ORD-10402,2024-03-24,Completed,CUST-1276,Loyalty Member,PROD-257,Jeans,Clothing,Nike,54.76,10,0.05,520.22,297.73,222.49,In-Store,Central,Ahmedabad,STORE-1,SP-102
+ORD-10403,2023-12-14,Cancelled,CUST-1076,Loyalty Member,PROD-396,Headphones,Electronics,Samsung,727.16,4,0.25,2181.48,1494.36,687.12,Online,North,Mumbai,STORE-5,SP-131
+ORD-10404,2024-10-31,Completed,CUST-1157,Retail,PROD-333,Tablet,Electronics,LG,259.54,3,0.0,778.62,383.91,394.71,Mobile App,South,Delhi,STORE-4,SP-107
+ORD-10405,2024-05-24,Returned,CUST-1166,Retail,PROD-450,Biography,Books,HarperCollins,7.84,4,0.2,25.09,13.41,11.68,Mobile App,Central,Bangalore,STORE-11,SP-150
+ORD-10406,2023-08-07,Returned,CUST-1086,Loyalty Member,PROD-289,Smartwatch,Electronics,Apple,636.15,2,0.1,1145.07,555.71,589.36,Mobile App,South,Ahmedabad,STORE-8,SP-137
+ORD-10407,2023-02-11,Completed,CUST-1003,Retail,PROD-191,T-Shirt,Clothing,Levi's,87.7,3,0.0,263.1,176.25,86.85,Online,Central,Chennai,STORE-14,SP-144
+ORD-10408,2024-05-02,Completed,CUST-1019,Loyalty Member,PROD-192,Jeans,Clothing,Adidas,135.17,9,0.25,912.4,504.56,407.84,Mobile App,West,Delhi,STORE-10,SP-122
+ORD-10409,2024-03-04,Cancelled,CUST-1259,Retail,PROD-337,Smartwatch,Electronics,Apple,449.47,9,0.0,4045.23,2446.27,1598.96,Mobile App,South,Chennai,STORE-2,SP-112
+ORD-10410,2023-04-26,Completed,CUST-1107,Wholesale,PROD-228,Sneakers,Clothing,H&M,51.74,1,0.0,51.74,31.62,20.12,In-Store,Central,Ahmedabad,STORE-2,SP-106
+ORD-10411,2023-02-23,Completed,CUST-1227,Loyalty Member,PROD-396,Self-Help Book,Books,HarperCollins,40.35,8,0.0,322.8,150.98,171.82,In-Store,West,Hyderabad,STORE-11,SP-114
+ORD-10412,2023-04-23,Completed,CUST-1037,Wholesale,PROD-399,Coffee Maker,Home & Kitchen,Philips,117.73,7,0.05,782.9,425.81,357.09,In-Store,North,Kolkata,STORE-5,SP-113
+ORD-10413,2024-09-16,Completed,CUST-1103,Wholesale,PROD-165,Dumbbells,Sports,Reebok,121.44,8,0.05,922.94,561.15,361.79,Online,Central,Mumbai,STORE-9,SP-108
+ORD-10414,2023-04-24,Cancelled,CUST-1080,Loyalty Member,PROD-413,Cycling Helmet,Sports,Reebok,63.79,6,0.05,363.6,244.19,119.41,Online,Central,Hyderabad,STORE-3,SP-126
+ORD-10415,2024-06-18,Returned,CUST-1126,Retail,PROD-267,Dumbbells,Sports,Decathlon,149.94,8,0.1,1079.57,489.72,589.85,In-Store,Central,Hyderabad,STORE-19,SP-109
+ORD-10416,2024-08-10,Returned,CUST-1245,Loyalty Member,PROD-150,Tablet,Electronics,Samsung,252.08,8,0.0,2016.64,1122.11,894.53,In-Store,West,Hyderabad,STORE-3,SP-135
+ORD-10417,2023-01-13,Completed,CUST-1082,Loyalty Member,PROD-335,Dumbbells,Sports,Puma,117.15,4,0.0,468.6,212.74,255.86,Mobile App,Central,Mumbai,STORE-15,SP-129
+ORD-10418,2023-05-22,Completed,CUST-1271,Retail,PROD-251,Dumbbells,Sports,Under Armour,193.64,1,0.0,193.64,105.77,87.87,In-Store,East,Hyderabad,STORE-3,SP-139
+ORD-10419,2023-12-10,Cancelled,CUST-1020,Wholesale,PROD-287,Smartwatch,Electronics,Sony,1354.37,2,0.2,2166.99,1173.2,993.79,Online,Central,Delhi,STORE-18,SP-145
+ORD-10420,2023-07-29,Completed,CUST-1164,Wholesale,PROD-236,Jacket,Clothing,Adidas,117.13,8,0.05,890.19,568.2,321.99,Mobile App,West,Chennai,STORE-2,SP-104
+ORD-10421,2024-01-17,Cancelled,CUST-1149,Wholesale,PROD-417,Vacuum Cleaner,Home & Kitchen,Dyson,215.54,2,0.25,323.31,202.86,120.45,In-Store,North,Hyderabad,STORE-15,SP-105
+ORD-10422,2023-03-24,Completed,CUST-1075,Wholesale,PROD-177,Dumbbells,Sports,Under Armour,288.1,2,0.0,576.2,283.02,293.18,Online,Central,Mumbai,STORE-10,SP-126
+ORD-10423,2024-11-29,Completed,CUST-1011,Retail,PROD-366,Self-Help Book,Books,Scholastic,20.6,8,0.0,164.8,86.17,78.63,Mobile App,East,Kolkata,STORE-19,SP-121
+ORD-10424,2024-11-02,Cancelled,CUST-1067,Wholesale,PROD-187,Vacuum Cleaner,Home & Kitchen,Cuisinart,276.37,9,0.25,1865.5,1053.08,812.42,In-Store,South,Ahmedabad,STORE-12,SP-118
+ORD-10425,2023-02-18,Completed,CUST-1093,Retail,PROD-462,Jacket,Clothing,Zara,102.07,3,0.0,306.21,192.29,113.92,Mobile App,South,Bangalore,STORE-8,SP-107
+ORD-10426,2023-02-12,Completed,CUST-1162,Wholesale,PROD-175,Toaster,Home & Kitchen,Bosch,193.13,6,0.0,1158.78,580.88,577.9,In-Store,West,Bangalore,STORE-18,SP-119
+ORD-10427,2023-05-05,Cancelled,CUST-1259,Wholesale,PROD-431,Tablet,Electronics,Dell,1199.07,8,0.15,8153.68,3987.26,4166.42,Mobile App,East,Ahmedabad,STORE-10,SP-148
+ORD-10428,2024-08-10,Completed,CUST-1282,Retail,PROD-257,Dress,Clothing,H&M,80.96,2,0.25,121.44,81.98,39.46,Online,West,Hyderabad,STORE-15,SP-122
+ORD-10429,2023-04-05,Completed,CUST-1100,Retail,PROD-142,Blender,Home & Kitchen,Cuisinart,267.29,10,0.05,2539.26,1638.64,900.62,Mobile App,West,Delhi,STORE-17,SP-125
+ORD-10430,2023-07-19,Returned,CUST-1189,Wholesale,PROD-290,Running Shoes,Sports,Decathlon,187.45,1,0.15,159.33,87.53,71.8,Online,East,Pune,STORE-12,SP-119
+ORD-10431,2024-04-01,Completed,CUST-1083,Loyalty Member,PROD-317,Fiction Novel,Books,HarperCollins,37.75,8,0.2,241.6,157.26,84.34,Mobile App,West,Bangalore,STORE-19,SP-138
+ORD-10432,2023-03-30,Cancelled,CUST-1192,Retail,PROD-103,Jeans,Clothing,Zara,105.43,9,0.15,806.54,376.27,430.27,In-Store,East,Kolkata,STORE-6,SP-135
+ORD-10433,2024-04-18,Completed,CUST-1154,Loyalty Member,PROD-255,Self-Help Book,Books,HarperCollins,13.37,7,0.1,84.23,49.57,34.66,In-Store,Central,Ahmedabad,STORE-8,SP-101
+ORD-10434,2023-01-03,Completed,CUST-1213,Retail,PROD-351,Jacket,Clothing,Zara,192.08,8,0.0,1536.64,942.66,593.98,Mobile App,South,Mumbai,STORE-4,SP-148
+ORD-10435,2023-10-11,Completed,CUST-1243,Loyalty Member,PROD-161,Yoga Mat,Sports,Decathlon,227.49,10,0.25,1706.18,1009.02,697.16,In-Store,Central,Mumbai,STORE-9,SP-110
+ORD-10436,2024-08-18,Completed,CUST-1184,Wholesale,PROD-425,Smartphone,Electronics,Sony,799.36,3,0.15,2038.37,1000.49,1037.88,In-Store,North,Chennai,STORE-10,SP-133
+ORD-10437,2024-10-16,Completed,CUST-1278,Wholesale,PROD-261,Smartwatch,Electronics,Apple,1196.38,3,0.0,3589.14,2152.37,1436.77,Mobile App,East,Chennai,STORE-12,SP-106
+ORD-10438,2024-07-01,Returned,CUST-1210,Wholesale,PROD-183,Cookbook,Books,HarperCollins,5.58,9,0.1,45.2,24.56,20.64,Online,South,Bangalore,STORE-17,SP-114
+ORD-10439,2023-07-12,Completed,CUST-1059,Retail,PROD-108,Biography,Books,Macmillan,43.07,9,0.0,387.63,214.88,172.75,In-Store,East,Chennai,STORE-12,SP-108
+ORD-10440,2024-03-28,Completed,CUST-1113,Retail,PROD-455,Biography,Books,Random House,12.75,5,0.0,63.75,40.55,23.2,Online,South,Chennai,STORE-5,SP-113
+ORD-10441,2023-05-14,Completed,CUST-1016,Loyalty Member,PROD-362,Tablet,Electronics,Samsung,301.06,8,0.2,1926.78,887.53,1039.25,Mobile App,North,Ahmedabad,STORE-4,SP-116
+ORD-10442,2023-02-14,Completed,CUST-1094,Loyalty Member,PROD-279,Headphones,Electronics,Samsung,1180.92,2,0.05,2243.75,1339.3,904.45,Online,North,Bangalore,STORE-9,SP-137
+ORD-10443,2023-12-23,Completed,CUST-1050,Loyalty Member,PROD-490,Coffee Maker,Home & Kitchen,Cuisinart,318.9,10,0.05,3029.55,1745.71,1283.84,Online,Central,Hyderabad,STORE-7,SP-118
+ORD-10444,2023-06-25,Cancelled,CUST-1094,Wholesale,PROD-444,Fiction Novel,Books,Penguin,46.59,9,0.25,314.48,170.33,144.15,Online,South,Pune,STORE-13,SP-127
+ORD-10445,2023-08-08,Cancelled,CUST-1069,Wholesale,PROD-490,Self-Help Book,Books,Scholastic,10.08,6,0.0,60.48,34.26,26.22,In-Store,East,Mumbai,STORE-3,SP-120
+ORD-10446,2024-05-20,Returned,CUST-1148,Wholesale,PROD-196,Tablet,Electronics,Sony,794.03,5,0.25,2977.61,1508.07,1469.54,Online,West,Pune,STORE-6,SP-100
+ORD-10447,2024-11-21,Returned,CUST-1052,Loyalty Member,PROD-186,Yoga Mat,Sports,Reebok,139.85,2,0.0,279.7,135.89,143.81,Online,East,Hyderabad,STORE-11,SP-112
+ORD-10448,2024-09-01,Cancelled,CUST-1139,Loyalty Member,PROD-304,Yoga Mat,Sports,Puma,253.86,8,0.1,1827.79,1171.99,655.8,In-Store,West,Kolkata,STORE-16,SP-132
+ORD-10449,2023-10-13,Completed,CUST-1015,Retail,PROD-477,Sneakers,Clothing,Nike,41.99,8,0.25,251.94,127.91,124.03,Online,North,Ahmedabad,STORE-1,SP-111
+ORD-10450,2024-01-27,Cancelled,CUST-1252,Wholesale,PROD-203,Cookbook,Books,HarperCollins,18.62,10,0.0,186.2,119.18,67.02,In-Store,West,Ahmedabad,STORE-17,SP-116
+ORD-10451,2024-07-09,Completed,CUST-1196,Wholesale,PROD-261,Toaster,Home & Kitchen,Cuisinart,36.54,1,0.2,29.23,19.59,9.64,In-Store,West,Ahmedabad,STORE-2,SP-102
+ORD-10452,2023-07-01,Returned,CUST-1056,Loyalty Member,PROD-445,Cookbook,Books,HarperCollins,27.12,3,0.1,73.22,46.05,27.17,In-Store,Central,Ahmedabad,STORE-16,SP-135
+ORD-10453,2023-06-10,Completed,CUST-1145,Wholesale,PROD-131,Fiction Novel,Books,Scholastic,16.85,10,0.2,134.8,81.45,53.35,Online,Central,Mumbai,STORE-5,SP-123
+ORD-10454,2023-12-24,Returned,CUST-1179,Retail,PROD-438,Fiction Novel,Books,Random House,22.13,7,0.15,131.67,91.9,39.77,Online,South,Hyderabad,STORE-10,SP-137
+ORD-10455,2023-03-28,Returned,CUST-1290,Loyalty Member,PROD-315,Headphones,Electronics,Samsung,638.87,1,0.15,543.04,249.44,293.6,In-Store,North,Ahmedabad,STORE-19,SP-101
+ORD-10456,2023-11-21,Completed,CUST-1172,Wholesale,PROD-357,Fitness Band,Sports,Reebok,106.89,2,0.25,160.34,76.16,84.18,Mobile App,East,Bangalore,STORE-20,SP-119
+ORD-10457,2024-01-08,Completed,CUST-1152,Loyalty Member,PROD-305,Dumbbells,Sports,Reebok,196.1,2,0.05,372.59,194.43,178.16,Online,Central,Delhi,STORE-19,SP-106
+ORD-10458,2024-08-29,Completed,CUST-1039,Loyalty Member,PROD-254,Air Fryer,Home & Kitchen,Philips,239.58,9,0.25,1617.17,900.4,716.77,Mobile App,East,Kolkata,STORE-18,SP-120
+ORD-10459,2023-07-24,Cancelled,CUST-1095,Loyalty Member,PROD-355,Cycling Helmet,Sports,Under Armour,193.11,8,0.0,1544.88,1035.42,509.46,Online,West,Chennai,STORE-18,SP-139
+ORD-10460,2024-03-20,Completed,CUST-1222,Wholesale,PROD-263,Fiction Novel,Books,Macmillan,14.03,8,0.0,112.24,57.25,54.99,Online,South,Kolkata,STORE-9,SP-118
+ORD-10461,2024-10-23,Completed,CUST-1125,Wholesale,PROD-337,Jacket,Clothing,Levi's,62.5,4,0.0,250.0,121.87,128.13,In-Store,Central,Kolkata,STORE-14,SP-141
+ORD-10462,2023-02-07,Completed,CUST-1021,Loyalty Member,PROD-348,Jeans,Clothing,Zara,44.56,5,0.1,200.52,123.25,77.27,Online,North,Delhi,STORE-11,SP-138
+ORD-10463,2023-11-02,Completed,CUST-1120,Retail,PROD-392,Tablet,Electronics,Sony,1073.17,2,0.2,1717.07,1177.55,539.52,Mobile App,Central,Delhi,STORE-17,SP-142
+ORD-10464,2024-08-17,Completed,CUST-1168,Loyalty Member,PROD-477,Cookbook,Books,Scholastic,44.81,4,0.0,179.24,115.3,63.94,In-Store,South,Kolkata,STORE-7,SP-109
+ORD-10465,2023-04-20,Completed,CUST-1057,Wholesale,PROD-379,Jeans,Clothing,Zara,99.11,5,0.0,495.55,283.75,211.8,In-Store,West,Hyderabad,STORE-9,SP-150
+ORD-10466,2023-05-29,Completed,CUST-1122,Wholesale,PROD-382,Vacuum Cleaner,Home & Kitchen,Instant Pot,333.91,1,0.0,333.91,220.5,113.41,In-Store,East,Pune,STORE-4,SP-134
+ORD-10467,2023-08-31,Completed,CUST-1152,Retail,PROD-182,Cycling Helmet,Sports,Nike,274.29,7,0.1,1728.03,907.6,820.43,In-Store,East,Kolkata,STORE-2,SP-117
+ORD-10468,2023-03-24,Completed,CUST-1082,Loyalty Member,PROD-233,Cycling Helmet,Sports,Reebok,279.05,6,0.2,1339.44,896.34,443.1,Mobile App,North,Pune,STORE-14,SP-138
+ORD-10469,2024-07-14,Completed,CUST-1001,Wholesale,PROD-202,Vacuum Cleaner,Home & Kitchen,Philips,311.93,3,0.25,701.84,454.62,247.22,Mobile App,East,Pune,STORE-19,SP-105
+ORD-10470,2023-04-24,Completed,CUST-1231,Wholesale,PROD-476,Jeans,Clothing,Levi's,148.44,3,0.2,356.26,230.91,125.35,Online,East,Bangalore,STORE-19,SP-120
+ORD-10471,2023-10-16,Cancelled,CUST-1114,Retail,PROD-111,T-Shirt,Clothing,H&M,86.17,7,0.2,482.55,331.12,151.43,Mobile App,Central,Hyderabad,STORE-3,SP-129
+ORD-10472,2023-07-23,Completed,CUST-1087,Loyalty Member,PROD-160,Coffee Maker,Home & Kitchen,Philips,178.38,7,0.1,1123.79,547.64,576.15,Online,Central,Kolkata,STORE-15,SP-143
+ORD-10473,2024-05-21,Returned,CUST-1066,Wholesale,PROD-205,Smartphone,Electronics,Apple,447.71,5,0.1,2014.69,1282.57,732.12,Mobile App,South,Chennai,STORE-7,SP-126
+ORD-10474,2023-07-04,Completed,CUST-1189,Loyalty Member,PROD-450,Dumbbells,Sports,Nike,97.7,5,0.05,464.07,280.49,183.58,Mobile App,West,Delhi,STORE-1,SP-130
+ORD-10475,2023-05-17,Cancelled,CUST-1030,Retail,PROD-270,Vacuum Cleaner,Home & Kitchen,Bosch,293.93,7,0.1,1851.76,867.11,984.65,Online,West,Pune,STORE-20,SP-142
+ORD-10476,2024-09-04,Completed,CUST-1067,Loyalty Member,PROD-121,Laptop,Electronics,Sony,855.9,7,0.1,5392.17,3744.22,1647.95,Mobile App,South,Chennai,STORE-6,SP-132
+ORD-10477,2024-05-19,Completed,CUST-1160,Retail,PROD-165,Vacuum Cleaner,Home & Kitchen,Bosch,63.17,9,0.2,454.82,220.79,234.03,In-Store,East,Pune,STORE-14,SP-118
+ORD-10478,2023-09-27,Returned,CUST-1077,Loyalty Member,PROD-436,Cookbook,Books,Macmillan,19.09,3,0.15,48.68,30.87,17.81,Mobile App,West,Mumbai,STORE-7,SP-109
+ORD-10479,2023-02-25,Returned,CUST-1020,Wholesale,PROD-282,Jeans,Clothing,Nike,104.64,3,0.25,235.44,131.64,103.8,Mobile App,Central,Ahmedabad,STORE-15,SP-131
+ORD-10480,2023-04-26,Cancelled,CUST-1139,Loyalty Member,PROD-439,T-Shirt,Clothing,Zara,36.84,5,0.0,184.2,121.34,62.86,Mobile App,South,Mumbai,STORE-17,SP-149
+ORD-10481,2024-08-07,Completed,CUST-1145,Loyalty Member,PROD-448,Sneakers,Clothing,Nike,64.31,8,0.0,514.48,345.65,168.83,Online,West,Pune,STORE-19,SP-106
+ORD-10482,2023-11-28,Completed,CUST-1002,Wholesale,PROD-122,T-Shirt,Clothing,Nike,102.84,8,0.25,617.04,374.6,242.44,Mobile App,Central,Ahmedabad,STORE-11,SP-146
+ORD-10483,2024-08-05,Completed,CUST-1280,Loyalty Member,PROD-295,Jeans,Clothing,Nike,164.28,5,0.15,698.19,453.5,244.69,Online,West,Chennai,STORE-6,SP-115
+ORD-10484,2024-02-13,Completed,CUST-1061,Wholesale,PROD-351,Laptop,Electronics,Apple,411.82,7,0.1,2594.47,1587.28,1007.19,In-Store,East,Bangalore,STORE-12,SP-142
+ORD-10485,2023-04-09,Cancelled,CUST-1216,Retail,PROD-487,Toaster,Home & Kitchen,Bosch,211.16,7,0.25,1108.59,573.27,535.32,In-Store,East,Bangalore,STORE-14,SP-140
+ORD-10486,2024-03-12,Completed,CUST-1253,Loyalty Member,PROD-422,Laptop,Electronics,LG,644.27,8,0.05,4896.45,2996.15,1900.3,Mobile App,Central,Delhi,STORE-10,SP-129
+ORD-10487,2024-03-23,Cancelled,CUST-1218,Wholesale,PROD-391,Tablet,Electronics,Sony,393.19,3,0.1,1061.61,701.07,360.54,Online,Central,Delhi,STORE-2,SP-132
+ORD-10488,2023-04-21,Cancelled,CUST-1041,Loyalty Member,PROD-108,Science Textbook,Books,Scholastic,9.25,10,0.1,83.25,44.86,38.39,Online,West,Bangalore,STORE-6,SP-125
+ORD-10489,2023-02-16,Completed,CUST-1174,Retail,PROD-208,Tablet,Electronics,Sony,608.13,8,0.25,3648.78,2210.99,1437.79,Online,North,Chennai,STORE-4,SP-127
+ORD-10490,2024-07-01,Returned,CUST-1249,Wholesale,PROD-416,Laptop,Electronics,Dell,351.68,3,0.25,791.28,447.11,344.17,Mobile App,East,Kolkata,STORE-10,SP-105
+ORD-10491,2023-05-09,Completed,CUST-1246,Loyalty Member,PROD-174,T-Shirt,Clothing,Adidas,40.14,1,0.05,38.13,25.35,12.78,Mobile App,South,Kolkata,STORE-18,SP-112
+ORD-10492,2023-03-30,Completed,CUST-1227,Wholesale,PROD-341,Vacuum Cleaner,Home & Kitchen,Bosch,205.38,1,0.0,205.38,100.95,104.43,Online,West,Hyderabad,STORE-7,SP-118
+ORD-10493,2024-08-06,Cancelled,CUST-1283,Wholesale,PROD-118,Yoga Mat,Sports,Under Armour,17.24,7,0.2,96.54,63.92,32.62,In-Store,West,Ahmedabad,STORE-17,SP-137
+ORD-10494,2024-09-18,Completed,CUST-1213,Wholesale,PROD-159,Dumbbells,Sports,Nike,165.57,7,0.15,985.14,579.57,405.57,In-Store,Central,Pune,STORE-15,SP-144
+ORD-10495,2024-03-22,Cancelled,CUST-1112,Loyalty Member,PROD-450,Smartphone,Electronics,Sony,1144.07,8,0.15,7779.68,4352.95,3426.73,In-Store,Central,Ahmedabad,STORE-5,SP-118
+ORD-10496,2024-12-29,Completed,CUST-1247,Retail,PROD-188,Cycling Helmet,Sports,Under Armour,241.85,3,0.05,689.27,358.84,330.43,Online,South,Ahmedabad,STORE-4,SP-150
+ORD-10497,2024-03-01,Completed,CUST-1182,Loyalty Member,PROD-181,Running Shoes,Sports,Puma,74.69,1,0.0,74.69,40.31,34.38,Online,Central,Mumbai,STORE-3,SP-121
+ORD-10498,2024-03-16,Completed,CUST-1181,Retail,PROD-494,Smartwatch,Electronics,Apple,356.89,4,0.25,1070.67,550.81,519.86,Mobile App,East,Bangalore,STORE-17,SP-138
+ORD-10499,2024-11-16,Cancelled,CUST-1052,Loyalty Member,PROD-121,Laptop,Electronics,Dell,1238.68,2,0.0,2477.36,1598.92,878.44,Mobile App,North,Bangalore,STORE-4,SP-113
+ORD-10500,2024-01-06,Completed,CUST-1171,Retail,PROD-162,Jacket,Clothing,H&M,157.15,8,0.0,1257.2,614.24,642.96,Online,West,Kolkata,STORE-1,SP-115
+ORD-10501,2024-04-30,Returned,CUST-1184,Loyalty Member,PROD-440,Air Fryer,Home & Kitchen,Cuisinart,93.37,5,0.15,396.82,249.52,147.3,Online,South,Kolkata,STORE-8,SP-108
+ORD-10502,2024-03-15,Returned,CUST-1074,Retail,PROD-467,Cycling Helmet,Sports,Reebok,286.27,9,0.15,2189.97,1502.18,687.79,Mobile App,North,Delhi,STORE-11,SP-120
+ORD-10503,2024-02-16,Completed,CUST-1266,Wholesale,PROD-314,Sneakers,Clothing,Nike,90.79,1,0.0,90.79,61.34,29.45,In-Store,Central,Chennai,STORE-11,SP-122
+ORD-10504,2023-01-09,Cancelled,CUST-1226,Loyalty Member,PROD-276,Toaster,Home & Kitchen,Cuisinart,370.57,7,0.25,1945.49,1188.64,756.85,Mobile App,West,Hyderabad,STORE-10,SP-105
+ORD-10505,2023-02-07,Cancelled,CUST-1282,Wholesale,PROD-366,Cookbook,Books,Scholastic,37.63,3,0.1,101.6,51.15,50.45,In-Store,South,Mumbai,STORE-1,SP-150
+ORD-10506,2024-07-06,Completed,CUST-1030,Wholesale,PROD-232,Cookbook,Books,HarperCollins,42.45,5,0.2,169.8,118.31,51.49,Mobile App,Central,Pune,STORE-4,SP-103
+ORD-10507,2024-10-28,Completed,CUST-1297,Loyalty Member,PROD-465,Tablet,Electronics,Sony,944.17,1,0.25,708.13,378.67,329.46,Mobile App,Central,Hyderabad,STORE-12,SP-119
+ORD-10508,2023-10-19,Cancelled,CUST-1098,Wholesale,PROD-332,Self-Help Book,Books,Scholastic,28.38,4,0.0,113.52,60.39,53.13,Online,South,Kolkata,STORE-14,SP-105
+ORD-10509,2023-04-05,Cancelled,CUST-1206,Loyalty Member,PROD-386,Tablet,Electronics,Apple,819.13,8,0.0,6553.04,3553.87,2999.17,Mobile App,West,Chennai,STORE-19,SP-131
+ORD-10510,2024-10-13,Completed,CUST-1248,Loyalty Member,PROD-334,Cycling Helmet,Sports,Reebok,223.54,7,0.0,1564.78,760.62,804.16,Online,Central,Delhi,STORE-7,SP-129
+ORD-10511,2024-04-29,Completed,CUST-1292,Wholesale,PROD-120,Smartphone,Electronics,LG,680.13,2,0.2,1088.21,519.71,568.5,Mobile App,South,Delhi,STORE-12,SP-119
+ORD-10512,2024-01-19,Returned,CUST-1024,Wholesale,PROD-245,Air Fryer,Home & Kitchen,Dyson,40.35,3,0.0,121.05,78.19,42.86,Online,South,Ahmedabad,STORE-1,SP-107
+ORD-10513,2024-07-14,Completed,CUST-1193,Wholesale,PROD-468,Blender,Home & Kitchen,Philips,184.5,10,0.1,1660.5,982.09,678.41,Mobile App,South,Bangalore,STORE-17,SP-140
+ORD-10514,2024-04-16,Cancelled,CUST-1209,Wholesale,PROD-219,Cycling Helmet,Sports,Puma,261.91,6,0.0,1571.46,1021.37,550.09,In-Store,East,Mumbai,STORE-15,SP-147
+ORD-10515,2023-10-12,Completed,CUST-1098,Loyalty Member,PROD-377,Smartphone,Electronics,Samsung,943.59,5,0.0,4717.95,2882.57,1835.38,Mobile App,North,Hyderabad,STORE-16,SP-132
+ORD-10516,2023-01-20,Cancelled,CUST-1227,Retail,PROD-373,Smartwatch,Electronics,Apple,1451.09,5,0.05,6892.68,3524.38,3368.3,Mobile App,East,Kolkata,STORE-19,SP-102
+ORD-10517,2024-05-18,Completed,CUST-1058,Retail,PROD-377,Headphones,Electronics,Dell,434.66,1,0.15,369.46,201.54,167.92,Online,East,Bangalore,STORE-6,SP-116
+ORD-10518,2023-04-02,Completed,CUST-1152,Wholesale,PROD-150,Jacket,Clothing,H&M,142.15,1,0.15,120.83,59.85,60.98,In-Store,South,Kolkata,STORE-11,SP-116
+ORD-10519,2024-01-20,Cancelled,CUST-1197,Retail,PROD-237,Laptop,Electronics,Apple,511.51,10,0.05,4859.35,2785.6,2073.75,Online,East,Ahmedabad,STORE-18,SP-126
+ORD-10520,2023-03-09,Cancelled,CUST-1051,Retail,PROD-490,Yoga Mat,Sports,Reebok,195.56,1,0.1,176.0,103.58,72.42,Mobile App,South,Chennai,STORE-19,SP-126
+ORD-10521,2024-04-01,Completed,CUST-1125,Loyalty Member,PROD-316,Smartwatch,Electronics,Apple,1217.75,3,0.15,3105.26,1816.92,1288.34,Mobile App,West,Mumbai,STORE-1,SP-129
+ORD-10522,2024-09-27,Returned,CUST-1179,Loyalty Member,PROD-208,Coffee Maker,Home & Kitchen,Philips,52.26,8,0.1,376.27,225.56,150.71,Mobile App,Central,Chennai,STORE-2,SP-110
+ORD-10523,2024-06-30,Completed,CUST-1221,Retail,PROD-412,Fiction Novel,Books,Random House,9.04,2,0.0,18.08,11.41,6.67,Mobile App,East,Pune,STORE-9,SP-148
+ORD-10524,2024-12-25,Cancelled,CUST-1168,Retail,PROD-454,Running Shoes,Sports,Puma,203.75,6,0.15,1039.12,522.32,516.8,Online,North,Ahmedabad,STORE-1,SP-100
+ORD-10525,2024-11-19,Completed,CUST-1275,Retail,PROD-443,Sneakers,Clothing,Levi's,181.15,8,0.2,1159.36,677.68,481.68,In-Store,North,Pune,STORE-13,SP-138
+ORD-10526,2024-01-02,Completed,CUST-1010,Wholesale,PROD-448,Dumbbells,Sports,Nike,50.56,6,0.05,288.19,161.72,126.47,Mobile App,East,Hyderabad,STORE-3,SP-139
+ORD-10527,2024-10-02,Cancelled,CUST-1107,Retail,PROD-200,Coffee Maker,Home & Kitchen,Bosch,392.64,6,0.0,2355.84,1225.48,1130.36,Mobile App,West,Delhi,STORE-9,SP-136
+ORD-10528,2024-05-27,Completed,CUST-1033,Retail,PROD-232,Dumbbells,Sports,Decathlon,70.22,10,0.0,702.2,327.46,374.74,Mobile App,South,Chennai,STORE-7,SP-143
+ORD-10529,2023-01-24,Completed,CUST-1165,Wholesale,PROD-308,Biography,Books,Random House,35.63,8,0.0,285.04,195.1,89.94,In-Store,North,Ahmedabad,STORE-16,SP-123
+ORD-10530,2024-06-13,Returned,CUST-1099,Wholesale,PROD-141,Smartphone,Electronics,Samsung,561.31,7,0.25,2946.88,1559.08,1387.8,Mobile App,North,Hyderabad,STORE-14,SP-104
+ORD-10531,2023-09-13,Completed,CUST-1171,Wholesale,PROD-226,Jeans,Clothing,Zara,75.95,2,0.0,151.9,86.58,65.32,Online,West,Hyderabad,STORE-11,SP-103
+ORD-10532,2023-12-08,Returned,CUST-1296,Retail,PROD-143,Self-Help Book,Books,Penguin,39.91,10,0.25,299.32,191.87,107.45,Online,North,Kolkata,STORE-11,SP-144
+ORD-10533,2023-03-08,Completed,CUST-1286,Retail,PROD-250,T-Shirt,Clothing,H&M,29.86,10,0.2,238.88,111.42,127.46,In-Store,West,Delhi,STORE-20,SP-148
+ORD-10534,2024-02-25,Cancelled,CUST-1051,Wholesale,PROD-433,Dress,Clothing,Levi's,21.91,7,0.25,115.03,74.63,40.4,Mobile App,North,Ahmedabad,STORE-17,SP-121
+ORD-10535,2024-08-24,Completed,CUST-1260,Wholesale,PROD-281,T-Shirt,Clothing,Nike,22.21,2,0.05,42.2,28.53,13.67,In-Store,West,Ahmedabad,STORE-6,SP-115
+ORD-10536,2023-05-21,Cancelled,CUST-1074,Retail,PROD-340,Laptop,Electronics,Apple,605.17,7,0.15,3600.76,1900.47,1700.29,In-Store,Central,Pune,STORE-10,SP-123
+ORD-10537,2023-01-09,Completed,CUST-1102,Loyalty Member,PROD-203,Biography,Books,HarperCollins,7.58,9,0.0,68.22,37.9,30.32,Online,East,Hyderabad,STORE-16,SP-144
+ORD-10538,2024-12-09,Returned,CUST-1168,Retail,PROD-153,Fitness Band,Sports,Under Armour,257.82,10,0.15,2191.47,1323.7,867.77,In-Store,North,Ahmedabad,STORE-8,SP-100
+ORD-10539,2024-10-16,Completed,CUST-1192,Retail,PROD-304,Jeans,Clothing,H&M,132.31,4,0.25,396.93,251.51,145.42,Online,North,Pune,STORE-1,SP-104
+ORD-10540,2024-01-02,Completed,CUST-1022,Retail,PROD-201,Smartwatch,Electronics,Samsung,385.12,8,0.05,2926.91,1779.07,1147.84,Online,East,Bangalore,STORE-8,SP-116
+ORD-10541,2023-06-28,Completed,CUST-1010,Loyalty Member,PROD-170,Toaster,Home & Kitchen,Bosch,96.06,1,0.0,96.06,63.47,32.59,In-Store,North,Pune,STORE-7,SP-119
+ORD-10542,2024-04-12,Completed,CUST-1060,Retail,PROD-166,Jacket,Clothing,Zara,138.96,9,0.2,1000.51,669.94,330.57,Online,South,Kolkata,STORE-12,SP-120
+ORD-10543,2024-09-05,Completed,CUST-1076,Wholesale,PROD-226,Dumbbells,Sports,Nike,232.48,10,0.05,2208.56,1465.62,742.94,Online,East,Bangalore,STORE-17,SP-137
+ORD-10544,2024-05-15,Returned,CUST-1260,Wholesale,PROD-355,T-Shirt,Clothing,H&M,162.38,10,0.0,1623.8,798.68,825.12,Mobile App,West,Bangalore,STORE-11,SP-145
+ORD-10545,2024-01-18,Cancelled,CUST-1018,Retail,PROD-212,Science Textbook,Books,Scholastic,26.32,10,0.2,210.56,128.34,82.22,Online,West,Hyderabad,STORE-13,SP-113
+ORD-10546,2023-11-10,Completed,CUST-1043,Wholesale,PROD-327,Cycling Helmet,Sports,Decathlon,59.8,6,0.1,322.92,189.76,133.16,Mobile App,East,Hyderabad,STORE-19,SP-102
+ORD-10547,2024-04-21,Returned,CUST-1162,Wholesale,PROD-295,Biography,Books,Random House,24.17,8,0.2,154.69,85.43,69.26,Online,South,Ahmedabad,STORE-8,SP-116
+ORD-10548,2024-10-22,Completed,CUST-1050,Retail,PROD-136,Headphones,Electronics,Samsung,582.87,9,0.0,5245.83,3391.26,1854.57,In-Store,North,Hyderabad,STORE-11,SP-112
+ORD-10549,2024-11-22,Completed,CUST-1278,Wholesale,PROD-104,Air Fryer,Home & Kitchen,Instant Pot,305.73,5,0.05,1452.22,909.69,542.53,In-Store,East,Pune,STORE-13,SP-125
+ORD-10550,2024-08-16,Completed,CUST-1242,Retail,PROD-364,Tablet,Electronics,LG,1486.06,3,0.2,3566.54,1807.86,1758.68,Mobile App,Central,Ahmedabad,STORE-15,SP-121
+ORD-10551,2023-03-29,Cancelled,CUST-1015,Wholesale,PROD-171,Coffee Maker,Home & Kitchen,Dyson,314.95,7,0.05,2094.42,1172.18,922.24,Mobile App,South,Chennai,STORE-1,SP-131
+ORD-10552,2024-11-05,Completed,CUST-1290,Retail,PROD-171,Air Fryer,Home & Kitchen,Bosch,185.08,7,0.1,1166.0,619.75,546.25,Online,East,Kolkata,STORE-13,SP-113
+ORD-10553,2024-02-05,Returned,CUST-1155,Retail,PROD-187,Smartwatch,Electronics,Dell,444.84,2,0.15,756.23,447.97,308.26,Online,Central,Bangalore,STORE-2,SP-144
+ORD-10554,2024-09-09,Completed,CUST-1268,Retail,PROD-332,Yoga Mat,Sports,Puma,71.71,7,0.1,451.77,226.55,225.22,Online,East,Mumbai,STORE-6,SP-120
+ORD-10555,2024-02-25,Returned,CUST-1105,Retail,PROD-205,Dumbbells,Sports,Nike,51.8,7,0.25,271.95,172.9,99.05,In-Store,West,Ahmedabad,STORE-6,SP-138
+ORD-10556,2024-08-11,Completed,CUST-1228,Retail,PROD-304,Toaster,Home & Kitchen,Bosch,215.92,8,0.1,1554.62,777.97,776.65,Mobile App,South,Pune,STORE-19,SP-131
+ORD-10557,2024-04-16,Completed,CUST-1200,Loyalty Member,PROD-189,Fitness Band,Sports,Nike,225.13,5,0.25,844.24,453.1,391.14,In-Store,South,Bangalore,STORE-20,SP-146
+ORD-10558,2024-03-18,Completed,CUST-1122,Retail,PROD-240,Cycling Helmet,Sports,Puma,214.08,2,0.2,342.53,213.97,128.56,Mobile App,Central,Chennai,STORE-3,SP-144
+ORD-10559,2023-08-11,Cancelled,CUST-1166,Wholesale,PROD-330,Cycling Helmet,Sports,Decathlon,49.55,6,0.0,297.3,189.93,107.37,Online,East,Hyderabad,STORE-17,SP-102
+ORD-10560,2024-04-18,Completed,CUST-1128,Retail,PROD-463,Laptop,Electronics,Dell,695.5,7,0.05,4625.07,2539.94,2085.13,Online,East,Ahmedabad,STORE-16,SP-129
+ORD-10561,2023-03-11,Completed,CUST-1082,Retail,PROD-109,Smartwatch,Electronics,Apple,1127.66,8,0.0,9021.28,5121.35,3899.93,Mobile App,North,Bangalore,STORE-10,SP-107
+ORD-10562,2024-07-01,Completed,CUST-1091,Retail,PROD-465,Dumbbells,Sports,Nike,206.35,1,0.1,185.72,90.7,95.02,Online,Central,Hyderabad,STORE-15,SP-144
+ORD-10563,2023-02-18,Completed,CUST-1193,Retail,PROD-227,Fiction Novel,Books,Scholastic,36.07,8,0.0,288.56,173.01,115.55,In-Store,South,Hyderabad,STORE-3,SP-101
+ORD-10564,2024-03-07,Completed,CUST-1085,Loyalty Member,PROD-185,Laptop,Electronics,Sony,1266.68,2,0.05,2406.69,1659.86,746.83,Online,West,Delhi,STORE-11,SP-120
+ORD-10565,2024-07-29,Completed,CUST-1054,Wholesale,PROD-265,Dress,Clothing,Adidas,188.18,7,0.2,1053.81,506.04,547.77,Online,North,Kolkata,STORE-11,SP-100
+ORD-10566,2024-02-03,Completed,CUST-1210,Wholesale,PROD-492,Sneakers,Clothing,Adidas,31.88,5,0.15,135.49,62.46,73.03,Mobile App,West,Delhi,STORE-18,SP-150
+ORD-10567,2024-08-05,Completed,CUST-1246,Retail,PROD-271,Jacket,Clothing,Nike,127.98,7,0.0,895.86,477.5,418.36,Online,Central,Ahmedabad,STORE-13,SP-132
+ORD-10568,2024-10-17,Completed,CUST-1158,Retail,PROD-477,Dress,Clothing,Levi's,146.83,1,0.05,139.49,63.51,75.98,In-Store,South,Delhi,STORE-2,SP-108
+ORD-10569,2024-01-19,Cancelled,CUST-1227,Loyalty Member,PROD-268,Running Shoes,Sports,Puma,58.23,4,0.0,232.92,118.68,114.24,Online,East,Pune,STORE-2,SP-133
+ORD-10570,2024-02-29,Cancelled,CUST-1027,Loyalty Member,PROD-227,Blender,Home & Kitchen,Bosch,343.37,6,0.15,1751.19,894.09,857.1,Mobile App,South,Kolkata,STORE-17,SP-120
+ORD-10571,2023-07-07,Completed,CUST-1104,Retail,PROD-146,Yoga Mat,Sports,Nike,262.91,2,0.05,499.53,231.3,268.23,Online,Central,Hyderabad,STORE-8,SP-132
+ORD-10572,2023-03-22,Cancelled,CUST-1127,Wholesale,PROD-246,Cycling Helmet,Sports,Under Armour,61.79,4,0.05,234.8,130.55,104.25,Mobile App,West,Hyderabad,STORE-9,SP-150
+ORD-10573,2024-05-07,Cancelled,CUST-1221,Retail,PROD-346,Headphones,Electronics,Dell,691.03,8,0.25,4146.18,2303.93,1842.25,Online,West,Kolkata,STORE-3,SP-148
+ORD-10574,2023-11-04,Completed,CUST-1232,Wholesale,PROD-292,Biography,Books,HarperCollins,29.88,3,0.1,80.68,43.98,36.7,Mobile App,Central,Ahmedabad,STORE-3,SP-121
+ORD-10575,2023-05-20,Completed,CUST-1251,Wholesale,PROD-312,Dumbbells,Sports,Puma,276.1,1,0.0,276.1,183.72,92.38,In-Store,East,Kolkata,STORE-16,SP-119
+ORD-10576,2024-10-18,Completed,CUST-1099,Wholesale,PROD-230,Fiction Novel,Books,Scholastic,44.82,2,0.2,71.71,48.98,22.73,Mobile App,East,Ahmedabad,STORE-12,SP-144
+ORD-10577,2023-03-01,Completed,CUST-1075,Wholesale,PROD-409,Cycling Helmet,Sports,Puma,84.07,1,0.15,71.46,43.43,28.03,In-Store,South,Chennai,STORE-8,SP-138
+ORD-10578,2024-08-15,Completed,CUST-1265,Retail,PROD-316,T-Shirt,Clothing,Nike,158.77,7,0.2,889.11,557.04,332.07,Online,West,Chennai,STORE-10,SP-132
+ORD-10579,2024-06-29,Completed,CUST-1073,Wholesale,PROD-483,Fitness Band,Sports,Under Armour,224.17,2,0.0,448.34,273.06,175.28,Online,West,Chennai,STORE-1,SP-110
+ORD-10580,2024-05-18,Returned,CUST-1087,Retail,PROD-291,Laptop,Electronics,Samsung,1205.87,7,0.2,6752.87,4143.77,2609.1,Online,South,Hyderabad,STORE-16,SP-111
+ORD-10581,2024-05-29,Completed,CUST-1098,Wholesale,PROD-309,Tablet,Electronics,LG,1258.68,3,0.05,3587.24,1667.15,1920.09,In-Store,Central,Delhi,STORE-6,SP-105
+ORD-10582,2023-10-28,Returned,CUST-1248,Loyalty Member,PROD-489,Tablet,Electronics,Samsung,559.79,6,0.0,3358.74,2003.19,1355.55,Online,North,Mumbai,STORE-9,SP-148
+ORD-10583,2023-01-08,Completed,CUST-1248,Wholesale,PROD-487,Fiction Novel,Books,Penguin,14.5,1,0.2,11.6,6.97,4.63,In-Store,Central,Kolkata,STORE-11,SP-123
+ORD-10584,2024-11-29,Completed,CUST-1169,Retail,PROD-101,Air Fryer,Home & Kitchen,Bosch,378.17,7,0.2,2117.75,1276.37,841.38,In-Store,West,Bangalore,STORE-1,SP-138
+ORD-10585,2023-05-06,Completed,CUST-1001,Loyalty Member,PROD-264,Cookbook,Books,HarperCollins,21.58,10,0.25,161.85,93.67,68.18,Online,East,Mumbai,STORE-11,SP-143
+ORD-10586,2024-03-30,Returned,CUST-1051,Loyalty Member,PROD-297,Dress,Clothing,H&M,92.03,10,0.0,920.3,494.28,426.02,In-Store,Central,Hyderabad,STORE-5,SP-133
+ORD-10587,2024-08-08,Cancelled,CUST-1239,Retail,PROD-328,Fiction Novel,Books,HarperCollins,27.41,2,0.1,49.34,32.47,16.87,Online,West,Hyderabad,STORE-8,SP-113
+ORD-10588,2023-06-24,Completed,CUST-1196,Wholesale,PROD-212,Laptop,Electronics,Dell,1491.37,1,0.0,1491.37,1017.49,473.88,Mobile App,East,Ahmedabad,STORE-4,SP-142
+ORD-10589,2023-05-20,Cancelled,CUST-1033,Loyalty Member,PROD-275,Science Textbook,Books,Penguin,40.8,6,0.05,232.56,158.83,73.73,In-Store,West,Kolkata,STORE-8,SP-114
+ORD-10590,2023-09-23,Completed,CUST-1293,Wholesale,PROD-165,Headphones,Electronics,Samsung,344.8,6,0.05,1965.36,1250.27,715.09,In-Store,West,Mumbai,STORE-10,SP-103
+ORD-10591,2024-08-27,Completed,CUST-1266,Loyalty Member,PROD-408,Self-Help Book,Books,Scholastic,49.09,6,0.15,250.36,162.58,87.78,Mobile App,South,Delhi,STORE-13,SP-100
+ORD-10592,2024-07-05,Returned,CUST-1075,Loyalty Member,PROD-245,Running Shoes,Sports,Puma,247.6,5,0.05,1176.1,676.21,499.89,Online,North,Pune,STORE-10,SP-132
+ORD-10593,2024-12-06,Returned,CUST-1030,Wholesale,PROD-178,Headphones,Electronics,LG,821.77,4,0.25,2465.31,1289.05,1176.26,Mobile App,South,Hyderabad,STORE-2,SP-149
+ORD-10594,2023-07-03,Completed,CUST-1216,Loyalty Member,PROD-342,Cycling Helmet,Sports,Under Armour,295.55,3,0.0,886.65,520.45,366.2,In-Store,West,Kolkata,STORE-3,SP-133
+ORD-10595,2023-10-17,Cancelled,CUST-1027,Loyalty Member,PROD-255,Coffee Maker,Home & Kitchen,Cuisinart,175.7,3,0.15,448.03,285.87,162.16,In-Store,South,Bangalore,STORE-15,SP-144
+ORD-10596,2024-05-09,Cancelled,CUST-1052,Loyalty Member,PROD-175,Coffee Maker,Home & Kitchen,Bosch,110.71,4,0.0,442.84,239.38,203.46,In-Store,West,Bangalore,STORE-2,SP-106
+ORD-10597,2023-12-31,Completed,CUST-1206,Retail,PROD-117,Dumbbells,Sports,Nike,48.44,9,0.15,370.57,221.73,148.84,Online,South,Kolkata,STORE-16,SP-119
+ORD-10598,2024-12-05,Returned,CUST-1140,Loyalty Member,PROD-434,Self-Help Book,Books,Scholastic,39.91,2,0.25,59.86,39.88,19.98,In-Store,East,Mumbai,STORE-4,SP-107
+ORD-10599,2023-03-26,Completed,CUST-1092,Wholesale,PROD-347,Tablet,Electronics,LG,492.42,10,0.25,3693.15,1914.64,1778.51,Mobile App,West,Chennai,STORE-19,SP-108
+ORD-10600,2023-04-12,Cancelled,CUST-1271,Wholesale,PROD-132,Blender,Home & Kitchen,Cuisinart,98.41,1,0.2,78.73,46.37,32.36,Mobile App,Central,Delhi,STORE-7,SP-142
+ORD-10601,2023-05-01,Completed,CUST-1294,Retail,PROD-434,Dress,Clothing,Adidas,20.96,8,0.15,142.53,68.52,74.01,Online,North,Chennai,STORE-2,SP-105
+ORD-10602,2023-05-08,Completed,CUST-1127,Wholesale,PROD-123,Cookbook,Books,Random House,48.48,3,0.2,116.35,80.78,35.57,Mobile App,East,Ahmedabad,STORE-5,SP-136
+ORD-10603,2024-05-17,Completed,CUST-1121,Retail,PROD-196,Toaster,Home & Kitchen,Instant Pot,254.28,9,0.05,2174.09,1352.25,821.84,Online,East,Hyderabad,STORE-5,SP-138
+ORD-10604,2024-07-19,Completed,CUST-1133,Wholesale,PROD-432,Dress,Clothing,Zara,69.93,10,0.2,559.44,262.15,297.29,Online,West,Ahmedabad,STORE-3,SP-116
+ORD-10605,2024-11-23,Cancelled,CUST-1261,Loyalty Member,PROD-183,Dumbbells,Sports,Decathlon,73.07,5,0.05,347.08,218.18,128.9,In-Store,South,Pune,STORE-14,SP-124
+ORD-10606,2023-01-27,Returned,CUST-1033,Wholesale,PROD-427,Self-Help Book,Books,Penguin,17.16,9,0.0,154.44,95.91,58.53,Online,East,Pune,STORE-9,SP-109
+ORD-10607,2023-08-20,Completed,CUST-1089,Loyalty Member,PROD-472,Blender,Home & Kitchen,Philips,169.55,4,0.2,542.56,373.25,169.31,In-Store,Central,Ahmedabad,STORE-4,SP-133
+ORD-10608,2023-12-24,Returned,CUST-1092,Wholesale,PROD-479,Cookbook,Books,Macmillan,17.2,2,0.0,34.4,16.95,17.45,Mobile App,Central,Kolkata,STORE-16,SP-137
+ORD-10609,2023-05-11,Completed,CUST-1027,Loyalty Member,PROD-427,Blender,Home & Kitchen,Cuisinart,293.89,3,0.0,881.67,480.25,401.42,In-Store,South,Kolkata,STORE-15,SP-111
+ORD-10610,2024-03-25,Completed,CUST-1156,Wholesale,PROD-494,Vacuum Cleaner,Home & Kitchen,Cuisinart,136.12,7,0.05,905.2,476.4,428.8,In-Store,North,Delhi,STORE-3,SP-146
+ORD-10611,2023-09-03,Completed,CUST-1217,Loyalty Member,PROD-360,Smartphone,Electronics,LG,274.63,5,0.25,1029.86,671.56,358.3,Mobile App,South,Ahmedabad,STORE-16,SP-132
+ORD-10612,2024-12-02,Cancelled,CUST-1176,Retail,PROD-478,Fiction Novel,Books,Scholastic,5.63,4,0.0,22.52,14.15,8.37,Mobile App,Central,Mumbai,STORE-20,SP-128
+ORD-10613,2023-06-22,Returned,CUST-1253,Wholesale,PROD-187,Self-Help Book,Books,HarperCollins,8.38,3,0.15,21.37,14.71,6.66,In-Store,North,Pune,STORE-8,SP-134
+ORD-10614,2023-05-01,Cancelled,CUST-1201,Retail,PROD-256,Air Fryer,Home & Kitchen,Dyson,138.61,4,0.0,554.44,351.8,202.64,Mobile App,Central,Mumbai,STORE-15,SP-139
+ORD-10615,2024-05-14,Completed,CUST-1179,Loyalty Member,PROD-195,Headphones,Electronics,Samsung,1000.19,6,0.1,5401.03,2908.31,2492.72,In-Store,East,Mumbai,STORE-4,SP-127
+ORD-10616,2024-05-18,Returned,CUST-1003,Retail,PROD-493,T-Shirt,Clothing,Levi's,112.58,3,0.2,270.19,129.95,140.24,Mobile App,East,Hyderabad,STORE-16,SP-125
+ORD-10617,2024-01-19,Returned,CUST-1224,Retail,PROD-171,Air Fryer,Home & Kitchen,Dyson,360.11,9,0.1,2916.89,1391.86,1525.03,In-Store,West,Mumbai,STORE-12,SP-145
+ORD-10618,2023-07-23,Completed,CUST-1082,Loyalty Member,PROD-201,Smartphone,Electronics,Sony,252.33,7,0.2,1413.05,898.67,514.38,In-Store,East,Delhi,STORE-14,SP-131
+ORD-10619,2024-07-17,Completed,CUST-1010,Retail,PROD-179,Dumbbells,Sports,Under Armour,229.06,7,0.2,1282.74,619.38,663.36,In-Store,Central,Mumbai,STORE-8,SP-103
+ORD-10620,2024-11-25,Returned,CUST-1042,Wholesale,PROD-226,Vacuum Cleaner,Home & Kitchen,Cuisinart,302.85,7,0.25,1589.96,830.54,759.42,Mobile App,South,Bangalore,STORE-8,SP-117
+ORD-10621,2023-04-28,Cancelled,CUST-1076,Retail,PROD-161,Coffee Maker,Home & Kitchen,Dyson,103.41,2,0.0,206.82,102.82,104.0,Online,West,Mumbai,STORE-9,SP-112
+ORD-10622,2023-05-30,Completed,CUST-1118,Retail,PROD-272,Yoga Mat,Sports,Decathlon,71.9,1,0.2,57.52,31.74,25.78,In-Store,West,Mumbai,STORE-17,SP-127
+ORD-10623,2024-10-21,Completed,CUST-1163,Retail,PROD-193,Headphones,Electronics,Samsung,550.02,5,0.15,2337.59,1467.76,869.83,Online,North,Mumbai,STORE-11,SP-113
+ORD-10624,2023-10-20,Completed,CUST-1171,Wholesale,PROD-157,Running Shoes,Sports,Decathlon,43.72,3,0.1,118.04,81.1,36.94,Online,North,Bangalore,STORE-11,SP-123
+ORD-10625,2024-01-06,Completed,CUST-1054,Retail,PROD-422,Biography,Books,Macmillan,21.72,5,0.05,103.17,61.5,41.67,Mobile App,Central,Delhi,STORE-2,SP-137
+ORD-10626,2024-11-01,Returned,CUST-1103,Loyalty Member,PROD-469,Jeans,Clothing,H&M,186.59,2,0.15,317.2,166.65,150.55,Online,North,Bangalore,STORE-7,SP-126
+ORD-10627,2024-07-17,Completed,CUST-1247,Wholesale,PROD-368,Toaster,Home & Kitchen,Instant Pot,361.12,8,0.0,2888.96,1957.88,931.08,Mobile App,North,Bangalore,STORE-20,SP-117
+ORD-10628,2024-12-14,Returned,CUST-1253,Loyalty Member,PROD-372,Jacket,Clothing,Nike,192.04,1,0.05,182.44,115.88,66.56,Mobile App,North,Bangalore,STORE-15,SP-148
+ORD-10629,2024-06-05,Completed,CUST-1292,Retail,PROD-403,Fitness Band,Sports,Reebok,129.24,5,0.05,613.89,304.5,309.39,Mobile App,North,Ahmedabad,STORE-17,SP-145
+ORD-10630,2024-06-21,Completed,CUST-1273,Retail,PROD-249,Air Fryer,Home & Kitchen,Bosch,139.65,5,0.0,698.25,344.08,354.17,Online,South,Chennai,STORE-5,SP-117
+ORD-10631,2023-02-22,Cancelled,CUST-1135,Loyalty Member,PROD-168,Jeans,Clothing,Levi's,40.91,6,0.15,208.64,110.82,97.82,In-Store,Central,Chennai,STORE-11,SP-103
+ORD-10632,2024-10-02,Completed,CUST-1275,Loyalty Member,PROD-498,Headphones,Electronics,Apple,1149.62,5,0.0,5748.1,2954.51,2793.59,Mobile App,North,Kolkata,STORE-9,SP-140
+ORD-10633,2024-10-11,Cancelled,CUST-1202,Retail,PROD-328,Biography,Books,HarperCollins,41.76,4,0.15,141.98,73.43,68.55,Online,West,Pune,STORE-5,SP-130
+ORD-10634,2023-04-06,Completed,CUST-1144,Retail,PROD-258,Dumbbells,Sports,Reebok,67.73,3,0.05,193.03,114.35,78.68,Online,South,Kolkata,STORE-20,SP-112
+ORD-10635,2023-03-13,Completed,CUST-1006,Loyalty Member,PROD-151,T-Shirt,Clothing,H&M,64.15,7,0.0,449.05,283.39,165.66,In-Store,West,Mumbai,STORE-4,SP-100
+ORD-10636,2024-10-21,Cancelled,CUST-1006,Retail,PROD-154,Smartphone,Electronics,Apple,1201.15,5,0.0,6005.75,4111.83,1893.92,Mobile App,East,Delhi,STORE-7,SP-108
+ORD-10637,2024-05-06,Cancelled,CUST-1136,Loyalty Member,PROD-378,Science Textbook,Books,HarperCollins,18.83,8,0.0,150.64,76.97,73.67,Online,North,Mumbai,STORE-4,SP-134
+ORD-10638,2023-10-31,Returned,CUST-1075,Wholesale,PROD-435,Smartwatch,Electronics,Dell,384.39,4,0.0,1537.56,779.03,758.53,In-Store,South,Kolkata,STORE-4,SP-131
+ORD-10639,2023-06-23,Completed,CUST-1060,Wholesale,PROD-143,Smartphone,Electronics,Samsung,1443.41,5,0.15,6134.49,2877.52,3256.97,Online,Central,Bangalore,STORE-6,SP-127
+ORD-10640,2024-06-27,Completed,CUST-1178,Retail,PROD-238,Toaster,Home & Kitchen,Bosch,281.39,3,0.1,759.75,460.55,299.2,In-Store,East,Chennai,STORE-3,SP-150
+ORD-10641,2023-01-03,Completed,CUST-1295,Wholesale,PROD-472,Jeans,Clothing,Zara,46.6,8,0.25,279.6,182.76,96.84,In-Store,South,Delhi,STORE-11,SP-108
+ORD-10642,2023-07-06,Completed,CUST-1070,Loyalty Member,PROD-225,Running Shoes,Sports,Under Armour,155.85,8,0.2,997.44,598.9,398.54,In-Store,West,Ahmedabad,STORE-18,SP-134
+ORD-10643,2024-05-19,Completed,CUST-1044,Retail,PROD-285,Biography,Books,HarperCollins,22.31,10,0.2,178.48,103.83,74.65,Online,South,Mumbai,STORE-12,SP-135
+ORD-10644,2024-04-30,Completed,CUST-1282,Wholesale,PROD-224,T-Shirt,Clothing,Nike,184.05,6,0.0,1104.3,578.29,526.01,Online,South,Mumbai,STORE-5,SP-107
+ORD-10645,2024-12-13,Completed,CUST-1297,Retail,PROD-344,Sneakers,Clothing,Nike,145.3,7,0.15,864.54,400.73,463.81,Mobile App,South,Mumbai,STORE-5,SP-123
+ORD-10646,2023-05-25,Returned,CUST-1071,Loyalty Member,PROD-370,Smartphone,Electronics,Samsung,216.22,7,0.0,1513.54,970.72,542.82,Mobile App,East,Ahmedabad,STORE-14,SP-146
+ORD-10647,2023-12-12,Completed,CUST-1257,Retail,PROD-105,Yoga Mat,Sports,Under Armour,46.71,1,0.0,46.71,28.07,18.64,In-Store,West,Ahmedabad,STORE-18,SP-145
+ORD-10648,2023-09-22,Completed,CUST-1267,Wholesale,PROD-164,Biography,Books,Random House,36.92,7,0.0,258.44,133.86,124.58,Mobile App,South,Kolkata,STORE-20,SP-103
+ORD-10649,2023-08-13,Returned,CUST-1194,Retail,PROD-127,Dumbbells,Sports,Decathlon,187.45,2,0.25,281.17,160.09,121.08,In-Store,West,Hyderabad,STORE-9,SP-106
+ORD-10650,2023-04-17,Completed,CUST-1277,Retail,PROD-133,Headphones,Electronics,LG,1212.44,6,0.0,7274.64,3709.21,3565.43,Online,Central,Mumbai,STORE-10,SP-112
+ORD-10651,2024-07-18,Returned,CUST-1023,Retail,PROD-261,T-Shirt,Clothing,Adidas,68.45,10,0.0,684.5,404.49,280.01,Online,East,Mumbai,STORE-12,SP-148
+ORD-10652,2023-10-17,Completed,CUST-1169,Wholesale,PROD-479,Fitness Band,Sports,Puma,104.62,7,0.15,622.49,431.67,190.82,Mobile App,North,Bangalore,STORE-1,SP-137
+ORD-10653,2024-01-27,Completed,CUST-1118,Retail,PROD-448,Fitness Band,Sports,Nike,97.68,3,0.25,219.78,103.23,116.55,Mobile App,South,Bangalore,STORE-17,SP-133
+ORD-10654,2024-09-15,Returned,CUST-1020,Loyalty Member,PROD-496,Cookbook,Books,Scholastic,40.34,6,0.1,217.84,117.65,100.19,Mobile App,West,Hyderabad,STORE-7,SP-139
+ORD-10655,2024-09-13,Completed,CUST-1158,Loyalty Member,PROD-500,Smartphone,Electronics,LG,1016.13,8,0.0,8129.04,5293.48,2835.56,Online,West,Delhi,STORE-15,SP-120
+ORD-10656,2023-06-23,Completed,CUST-1235,Wholesale,PROD-342,Coffee Maker,Home & Kitchen,Philips,133.64,6,0.15,681.56,321.91,359.65,In-Store,West,Bangalore,STORE-4,SP-136
+ORD-10657,2024-05-14,Cancelled,CUST-1160,Wholesale,PROD-142,Headphones,Electronics,Sony,721.22,10,0.0,7212.2,4040.32,3171.88,Mobile App,West,Ahmedabad,STORE-9,SP-143
+ORD-10658,2023-02-13,Completed,CUST-1148,Wholesale,PROD-181,Fiction Novel,Books,HarperCollins,36.49,9,0.0,328.41,160.47,167.94,Mobile App,West,Delhi,STORE-8,SP-124
+ORD-10659,2024-04-18,Completed,CUST-1055,Wholesale,PROD-493,Headphones,Electronics,Dell,809.04,9,0.25,5461.02,2606.43,2854.59,In-Store,South,Kolkata,STORE-11,SP-104
+ORD-10660,2023-11-21,Completed,CUST-1279,Retail,PROD-340,Toaster,Home & Kitchen,Dyson,108.68,8,0.0,869.44,451.76,417.68,Online,South,Pune,STORE-19,SP-102
+ORD-10661,2024-09-07,Completed,CUST-1216,Wholesale,PROD-229,Yoga Mat,Sports,Under Armour,240.02,8,0.05,1824.15,845.53,978.62,Mobile App,South,Delhi,STORE-5,SP-104
+ORD-10662,2023-10-08,Completed,CUST-1094,Retail,PROD-147,Yoga Mat,Sports,Under Armour,264.03,8,0.2,1689.79,982.1,707.69,In-Store,East,Chennai,STORE-6,SP-112
+ORD-10663,2023-12-24,Cancelled,CUST-1199,Retail,PROD-387,Cycling Helmet,Sports,Reebok,167.62,3,0.2,402.29,216.7,185.59,Mobile App,South,Delhi,STORE-19,SP-139
+ORD-10664,2023-05-29,Completed,CUST-1058,Loyalty Member,PROD-308,Air Fryer,Home & Kitchen,Philips,85.69,8,0.0,685.52,394.08,291.44,In-Store,Central,Mumbai,STORE-15,SP-108
+ORD-10665,2024-10-11,Completed,CUST-1193,Retail,PROD-278,Fitness Band,Sports,Nike,25.4,4,0.2,81.28,50.73,30.55,Online,South,Mumbai,STORE-12,SP-123
+ORD-10666,2023-01-17,Returned,CUST-1211,Wholesale,PROD-280,Air Fryer,Home & Kitchen,Cuisinart,333.05,2,0.25,499.58,305.86,193.72,In-Store,Central,Kolkata,STORE-17,SP-148
+ORD-10667,2023-12-10,Returned,CUST-1145,Loyalty Member,PROD-452,Smartphone,Electronics,Dell,756.9,3,0.0,2270.7,1329.93,940.77,Mobile App,West,Chennai,STORE-20,SP-106
+ORD-10668,2023-03-31,Cancelled,CUST-1278,Retail,PROD-424,Laptop,Electronics,Samsung,1001.14,7,0.0,7007.98,4023.29,2984.69,In-Store,Central,Mumbai,STORE-10,SP-126
+ORD-10669,2023-08-05,Completed,CUST-1237,Wholesale,PROD-430,Sneakers,Clothing,Levi's,88.59,4,0.25,265.77,182.75,83.02,Mobile App,West,Mumbai,STORE-12,SP-150
+ORD-10670,2023-08-18,Returned,CUST-1123,Retail,PROD-312,Cookbook,Books,Random House,44.58,5,0.1,200.61,132.33,68.28,Online,North,Mumbai,STORE-5,SP-150
+ORD-10671,2024-01-19,Returned,CUST-1098,Loyalty Member,PROD-429,Biography,Books,Random House,20.08,10,0.2,160.64,82.0,78.64,In-Store,North,Kolkata,STORE-5,SP-140
+ORD-10672,2024-02-04,Completed,CUST-1258,Retail,PROD-423,Sneakers,Clothing,Zara,113.11,7,0.05,752.18,357.21,394.97,Mobile App,West,Chennai,STORE-18,SP-110
+ORD-10673,2023-11-27,Cancelled,CUST-1040,Loyalty Member,PROD-295,T-Shirt,Clothing,Nike,24.62,1,0.0,24.62,11.25,13.37,Online,South,Ahmedabad,STORE-12,SP-111
+ORD-10674,2023-09-03,Completed,CUST-1140,Retail,PROD-173,Jacket,Clothing,Adidas,116.38,4,0.2,372.42,239.32,133.1,Mobile App,North,Delhi,STORE-4,SP-129
+ORD-10675,2024-09-02,Completed,CUST-1106,Wholesale,PROD-151,Laptop,Electronics,Apple,567.2,3,0.0,1701.6,798.64,902.96,In-Store,North,Kolkata,STORE-3,SP-131
+ORD-10676,2024-10-02,Completed,CUST-1152,Retail,PROD-191,Smartphone,Electronics,Dell,687.83,6,0.25,3095.24,2018.52,1076.72,Mobile App,Central,Mumbai,STORE-4,SP-121
+ORD-10677,2023-12-22,Completed,CUST-1015,Loyalty Member,PROD-111,Fitness Band,Sports,Decathlon,170.75,3,0.1,461.03,314.26,146.77,Mobile App,Central,Bangalore,STORE-7,SP-123
+ORD-10678,2023-04-28,Returned,CUST-1102,Retail,PROD-278,T-Shirt,Clothing,Zara,44.94,2,0.0,89.88,46.46,43.42,Mobile App,Central,Chennai,STORE-15,SP-147
+ORD-10679,2024-05-22,Completed,CUST-1201,Retail,PROD-398,Fitness Band,Sports,Reebok,277.87,5,0.0,1389.35,693.94,695.41,Mobile App,East,Bangalore,STORE-7,SP-146
+ORD-10680,2024-05-14,Cancelled,CUST-1196,Wholesale,PROD-202,Cycling Helmet,Sports,Reebok,184.95,5,0.15,786.04,476.13,309.91,Mobile App,East,Pune,STORE-3,SP-128
+ORD-10681,2023-06-21,Completed,CUST-1092,Wholesale,PROD-319,Smartwatch,Electronics,Sony,962.93,5,0.15,4092.45,2249.12,1843.33,Online,East,Hyderabad,STORE-3,SP-113
+ORD-10682,2024-11-03,Completed,CUST-1168,Retail,PROD-338,Air Fryer,Home & Kitchen,Bosch,318.42,2,0.0,636.84,337.3,299.54,Mobile App,East,Hyderabad,STORE-18,SP-104
+ORD-10683,2024-01-30,Completed,CUST-1293,Loyalty Member,PROD-315,Toaster,Home & Kitchen,Bosch,225.09,2,0.1,405.16,254.87,150.29,Mobile App,West,Pune,STORE-11,SP-112
+ORD-10684,2023-07-21,Returned,CUST-1087,Loyalty Member,PROD-267,Tablet,Electronics,Dell,260.83,5,0.2,1043.32,500.6,542.72,Mobile App,West,Hyderabad,STORE-19,SP-101
+ORD-10685,2023-10-19,Returned,CUST-1018,Loyalty Member,PROD-370,Smartwatch,Electronics,Samsung,1385.14,5,0.0,6925.7,4573.81,2351.89,Online,East,Mumbai,STORE-3,SP-130
+ORD-10686,2023-04-08,Completed,CUST-1252,Loyalty Member,PROD-124,Running Shoes,Sports,Under Armour,105.4,6,0.2,505.92,237.75,268.17,In-Store,East,Ahmedabad,STORE-16,SP-141
+ORD-10687,2023-05-05,Completed,CUST-1223,Retail,PROD-187,Toaster,Home & Kitchen,Philips,40.84,1,0.0,40.84,19.79,21.05,Online,South,Pune,STORE-18,SP-100
+ORD-10688,2024-12-05,Cancelled,CUST-1194,Wholesale,PROD-457,Headphones,Electronics,Samsung,344.04,5,0.0,1720.2,887.51,832.69,Online,South,Ahmedabad,STORE-4,SP-108
+ORD-10689,2023-11-23,Returned,CUST-1143,Wholesale,PROD-495,Dress,Clothing,H&M,134.64,2,0.05,255.82,152.08,103.74,Mobile App,West,Hyderabad,STORE-3,SP-116
+ORD-10690,2023-10-31,Completed,CUST-1253,Retail,PROD-208,Headphones,Electronics,LG,1286.2,4,0.05,4887.56,3048.57,1838.99,Online,South,Ahmedabad,STORE-13,SP-112
+ORD-10691,2024-05-14,Completed,CUST-1232,Loyalty Member,PROD-178,Headphones,Electronics,Apple,1258.19,9,0.15,9625.15,6161.27,3463.88,Mobile App,North,Bangalore,STORE-8,SP-123
+ORD-10692,2024-01-30,Returned,CUST-1084,Loyalty Member,PROD-257,Fitness Band,Sports,Decathlon,72.86,7,0.05,484.52,226.35,258.17,Mobile App,North,Bangalore,STORE-15,SP-106
+ORD-10693,2023-04-23,Returned,CUST-1180,Wholesale,PROD-160,T-Shirt,Clothing,H&M,53.67,1,0.25,40.25,24.77,15.48,Mobile App,North,Pune,STORE-14,SP-113
+ORD-10694,2023-06-04,Completed,CUST-1025,Loyalty Member,PROD-295,Fitness Band,Sports,Reebok,159.76,1,0.25,119.82,62.08,57.74,Mobile App,West,Hyderabad,STORE-10,SP-112
+ORD-10695,2024-02-17,Completed,CUST-1127,Retail,PROD-212,Dress,Clothing,Zara,115.32,8,0.2,738.05,352.27,385.78,Online,North,Mumbai,STORE-19,SP-117
+ORD-10696,2023-09-02,Completed,CUST-1112,Loyalty Member,PROD-454,Smartwatch,Electronics,Samsung,558.1,10,0.2,4464.8,2446.61,2018.19,In-Store,West,Hyderabad,STORE-6,SP-150
+ORD-10697,2023-07-28,Cancelled,CUST-1244,Loyalty Member,PROD-256,Air Fryer,Home & Kitchen,Cuisinart,136.55,1,0.0,136.55,67.77,68.78,Mobile App,South,Bangalore,STORE-11,SP-143
+ORD-10698,2023-03-13,Returned,CUST-1171,Retail,PROD-190,Jeans,Clothing,Zara,181.98,3,0.0,545.94,336.58,209.36,In-Store,North,Bangalore,STORE-1,SP-138
+ORD-10699,2023-12-27,Completed,CUST-1290,Loyalty Member,PROD-248,Fitness Band,Sports,Nike,154.17,4,0.25,462.51,220.78,241.73,Online,Central,Bangalore,STORE-5,SP-149
+ORD-10700,2023-04-07,Completed,CUST-1186,Wholesale,PROD-106,Headphones,Electronics,Sony,788.4,6,0.1,4257.36,2621.9,1635.46,In-Store,East,Pune,STORE-17,SP-149
+ORD-10701,2024-11-10,Returned,CUST-1112,Loyalty Member,PROD-172,Science Textbook,Books,Penguin,17.15,9,0.0,154.35,75.16,79.19,In-Store,West,Mumbai,STORE-8,SP-136
+ORD-10702,2024-12-13,Completed,CUST-1278,Wholesale,PROD-369,Running Shoes,Sports,Puma,227.14,4,0.2,726.85,443.15,283.7,Online,East,Pune,STORE-11,SP-125
+ORD-10703,2024-08-26,Completed,CUST-1221,Wholesale,PROD-390,Running Shoes,Sports,Under Armour,69.31,10,0.15,589.13,387.97,201.16,In-Store,East,Delhi,STORE-1,SP-131
+ORD-10704,2024-12-02,Completed,CUST-1033,Wholesale,PROD-107,Sneakers,Clothing,Adidas,114.17,5,0.0,570.85,300.22,270.63,In-Store,North,Hyderabad,STORE-10,SP-137
+ORD-10705,2023-05-07,Completed,CUST-1179,Wholesale,PROD-357,Tablet,Electronics,Sony,206.62,6,0.0,1239.72,573.34,666.38,Mobile App,Central,Bangalore,STORE-3,SP-145
+ORD-10706,2023-10-05,Returned,CUST-1181,Retail,PROD-447,Jeans,Clothing,H&M,125.34,2,0.1,225.61,113.87,111.74,Mobile App,West,Kolkata,STORE-13,SP-106
+ORD-10707,2023-09-25,Completed,CUST-1102,Wholesale,PROD-169,Toaster,Home & Kitchen,Instant Pot,94.12,7,0.15,560.01,364.62,195.39,In-Store,Central,Hyderabad,STORE-10,SP-119
+ORD-10708,2023-03-29,Cancelled,CUST-1226,Loyalty Member,PROD-260,Toaster,Home & Kitchen,Dyson,231.96,7,0.2,1298.98,615.73,683.25,Mobile App,East,Ahmedabad,STORE-12,SP-127
+ORD-10709,2024-04-22,Returned,CUST-1045,Retail,PROD-414,Cycling Helmet,Sports,Reebok,22.89,9,0.0,206.01,142.02,63.99,In-Store,South,Pune,STORE-5,SP-139
+ORD-10710,2024-07-10,Completed,CUST-1236,Loyalty Member,PROD-335,Cookbook,Books,Penguin,38.99,7,0.0,272.93,150.31,122.62,Online,North,Mumbai,STORE-9,SP-141
+ORD-10711,2023-04-20,Completed,CUST-1062,Loyalty Member,PROD-399,Toaster,Home & Kitchen,Philips,334.12,10,0.25,2505.9,1560.29,945.61,Mobile App,Central,Mumbai,STORE-7,SP-133
+ORD-10712,2023-05-28,Completed,CUST-1248,Loyalty Member,PROD-452,Science Textbook,Books,HarperCollins,15.06,3,0.1,40.66,24.68,15.98,Online,North,Delhi,STORE-1,SP-109
+ORD-10713,2024-09-10,Cancelled,CUST-1227,Wholesale,PROD-128,Smartwatch,Electronics,Samsung,521.37,2,0.25,782.06,356.75,425.31,Online,East,Kolkata,STORE-16,SP-111
+ORD-10714,2023-08-29,Completed,CUST-1094,Retail,PROD-481,Cookbook,Books,Macmillan,35.66,10,0.0,356.6,199.01,157.59,Mobile App,South,Bangalore,STORE-17,SP-147
+ORD-10715,2024-12-17,Returned,CUST-1188,Loyalty Member,PROD-240,Self-Help Book,Books,Scholastic,26.62,5,0.0,133.1,91.81,41.29,In-Store,West,Delhi,STORE-15,SP-126
+ORD-10716,2024-03-11,Completed,CUST-1017,Loyalty Member,PROD-433,T-Shirt,Clothing,Zara,102.27,10,0.2,818.16,370.43,447.73,Mobile App,Central,Ahmedabad,STORE-2,SP-122
+ORD-10717,2023-05-23,Cancelled,CUST-1107,Wholesale,PROD-461,Cycling Helmet,Sports,Under Armour,17.6,3,0.15,44.88,25.81,19.07,Mobile App,West,Delhi,STORE-6,SP-141
+ORD-10718,2023-06-05,Completed,CUST-1201,Retail,PROD-430,Toaster,Home & Kitchen,Instant Pot,200.01,3,0.1,540.03,348.99,191.04,In-Store,West,Ahmedabad,STORE-20,SP-142
+ORD-10719,2023-07-04,Returned,CUST-1034,Retail,PROD-115,Biography,Books,Macmillan,16.67,6,0.15,85.02,50.68,34.34,Mobile App,South,Hyderabad,STORE-4,SP-142
+ORD-10720,2023-04-19,Completed,CUST-1196,Wholesale,PROD-132,Cycling Helmet,Sports,Under Armour,231.57,4,0.0,926.28,625.19,301.09,Online,Central,Chennai,STORE-4,SP-102
+ORD-10721,2023-03-16,Returned,CUST-1193,Retail,PROD-426,Running Shoes,Sports,Decathlon,194.92,1,0.0,194.92,103.36,91.56,Mobile App,Central,Hyderabad,STORE-7,SP-116
+ORD-10722,2024-05-17,Completed,CUST-1044,Loyalty Member,PROD-112,Running Shoes,Sports,Puma,72.34,3,0.2,173.62,113.45,60.17,Mobile App,North,Hyderabad,STORE-2,SP-108
+ORD-10723,2023-01-06,Cancelled,CUST-1254,Retail,PROD-206,Vacuum Cleaner,Home & Kitchen,Cuisinart,232.23,2,0.15,394.79,195.94,198.85,Mobile App,West,Pune,STORE-12,SP-139
+ORD-10724,2024-07-26,Completed,CUST-1264,Wholesale,PROD-151,T-Shirt,Clothing,H&M,96.95,7,0.0,678.65,401.96,276.69,Online,West,Hyderabad,STORE-2,SP-138
+ORD-10725,2024-07-07,Completed,CUST-1034,Retail,PROD-247,Blender,Home & Kitchen,Bosch,333.89,5,0.1,1502.5,822.78,679.72,Online,Central,Hyderabad,STORE-17,SP-139
+ORD-10726,2024-05-27,Completed,CUST-1015,Retail,PROD-273,Vacuum Cleaner,Home & Kitchen,Cuisinart,50.96,2,0.25,76.44,52.3,24.14,In-Store,East,Hyderabad,STORE-11,SP-148
+ORD-10727,2023-03-02,Completed,CUST-1288,Loyalty Member,PROD-459,Jeans,Clothing,Levi's,167.02,6,0.0,1002.12,509.98,492.14,Online,East,Delhi,STORE-14,SP-138
+ORD-10728,2024-09-19,Returned,CUST-1259,Retail,PROD-432,Smartwatch,Electronics,Dell,1430.58,5,0.0,7152.9,3404.89,3748.01,In-Store,West,Ahmedabad,STORE-10,SP-150
+ORD-10729,2023-08-22,Completed,CUST-1282,Wholesale,PROD-126,Laptop,Electronics,Samsung,1205.7,4,0.2,3858.24,2393.98,1464.26,In-Store,West,Bangalore,STORE-14,SP-144
+ORD-10730,2024-03-13,Completed,CUST-1223,Retail,PROD-221,Self-Help Book,Books,Penguin,24.71,10,0.15,210.04,112.99,97.05,Online,North,Mumbai,STORE-8,SP-126
+ORD-10731,2024-07-03,Completed,CUST-1224,Retail,PROD-244,Fiction Novel,Books,Penguin,44.3,4,0.0,177.2,83.13,94.07,Online,East,Pune,STORE-20,SP-141
+ORD-10732,2023-09-08,Cancelled,CUST-1105,Wholesale,PROD-461,Coffee Maker,Home & Kitchen,Cuisinart,177.19,2,0.0,354.38,166.24,188.14,Mobile App,East,Hyderabad,STORE-15,SP-145
+ORD-10733,2023-11-06,Cancelled,CUST-1257,Retail,PROD-127,Toaster,Home & Kitchen,Instant Pot,351.52,4,0.1,1265.47,670.34,595.13,In-Store,West,Ahmedabad,STORE-9,SP-105
+ORD-10734,2023-07-28,Completed,CUST-1018,Retail,PROD-457,Dress,Clothing,Adidas,74.89,9,0.05,640.31,307.79,332.52,In-Store,West,Delhi,STORE-1,SP-131
+ORD-10735,2023-02-04,Cancelled,CUST-1196,Wholesale,PROD-109,Air Fryer,Home & Kitchen,Cuisinart,172.15,2,0.0,344.3,178.96,165.34,In-Store,West,Ahmedabad,STORE-2,SP-114
+ORD-10736,2023-07-30,Completed,CUST-1013,Loyalty Member,PROD-486,Dumbbells,Sports,Reebok,166.76,5,0.0,833.8,488.1,345.7,In-Store,East,Hyderabad,STORE-1,SP-121
+ORD-10737,2024-09-28,Completed,CUST-1273,Wholesale,PROD-317,Cycling Helmet,Sports,Nike,245.11,9,0.2,1764.79,1214.38,550.41,Mobile App,Central,Chennai,STORE-6,SP-124
+ORD-10738,2024-04-23,Cancelled,CUST-1151,Wholesale,PROD-392,Jeans,Clothing,Nike,70.53,5,0.0,352.65,246.75,105.9,In-Store,North,Chennai,STORE-12,SP-117
+ORD-10739,2024-11-06,Completed,CUST-1227,Wholesale,PROD-108,Toaster,Home & Kitchen,Philips,75.99,10,0.15,645.91,425.65,220.26,In-Store,North,Ahmedabad,STORE-2,SP-122
+ORD-10740,2024-05-06,Cancelled,CUST-1160,Retail,PROD-325,Self-Help Book,Books,Scholastic,7.64,2,0.1,13.75,9.27,4.48,Online,East,Chennai,STORE-9,SP-131
+ORD-10741,2023-05-11,Completed,CUST-1094,Loyalty Member,PROD-359,Jeans,Clothing,Adidas,176.82,1,0.05,167.98,80.4,87.58,In-Store,Central,Pune,STORE-2,SP-135
+ORD-10742,2023-08-22,Completed,CUST-1055,Retail,PROD-359,Headphones,Electronics,Sony,220.95,6,0.0,1325.7,795.61,530.09,In-Store,North,Delhi,STORE-8,SP-113
+ORD-10743,2023-11-30,Completed,CUST-1184,Wholesale,PROD-308,Cookbook,Books,Scholastic,8.21,7,0.1,51.72,25.12,26.6,Mobile App,East,Ahmedabad,STORE-10,SP-139
+ORD-10744,2023-02-01,Completed,CUST-1160,Loyalty Member,PROD-466,Jacket,Clothing,Nike,72.36,3,0.0,217.08,103.45,113.63,Mobile App,Central,Pune,STORE-7,SP-124
+ORD-10745,2024-08-19,Completed,CUST-1289,Loyalty Member,PROD-394,Smartphone,Electronics,Dell,1191.4,2,0.0,2382.8,1643.31,739.49,Mobile App,Central,Kolkata,STORE-18,SP-146
+ORD-10746,2023-05-05,Completed,CUST-1294,Wholesale,PROD-224,Fiction Novel,Books,Macmillan,26.25,9,0.25,177.19,93.78,83.41,In-Store,South,Pune,STORE-8,SP-129
+ORD-10747,2023-11-19,Cancelled,CUST-1258,Retail,PROD-285,Smartphone,Electronics,Dell,1152.64,7,0.15,6858.21,3222.83,3635.38,Mobile App,West,Hyderabad,STORE-15,SP-150
+ORD-10748,2024-03-04,Completed,CUST-1133,Wholesale,PROD-274,Dress,Clothing,Adidas,186.63,4,0.2,597.22,369.4,227.82,In-Store,North,Delhi,STORE-14,SP-126
+ORD-10749,2024-06-01,Completed,CUST-1085,Retail,PROD-314,Dress,Clothing,H&M,133.87,4,0.0,535.48,358.29,177.19,In-Store,Central,Ahmedabad,STORE-4,SP-108
+ORD-10750,2023-02-04,Completed,CUST-1065,Wholesale,PROD-456,Yoga Mat,Sports,Puma,297.13,3,0.2,713.11,482.11,231.0,Mobile App,South,Chennai,STORE-4,SP-121
+ORD-10751,2023-12-11,Completed,CUST-1229,Wholesale,PROD-422,Biography,Books,Macmillan,9.85,1,0.0,9.85,6.25,3.6,In-Store,West,Chennai,STORE-16,SP-144
+ORD-10752,2023-05-18,Returned,CUST-1194,Wholesale,PROD-324,Dress,Clothing,Levi's,35.08,1,0.15,29.82,18.44,11.38,Online,Central,Chennai,STORE-4,SP-114
+ORD-10753,2023-11-01,Returned,CUST-1163,Retail,PROD-173,Running Shoes,Sports,Nike,175.78,9,0.2,1265.62,659.79,605.83,Online,South,Kolkata,STORE-17,SP-117
+ORD-10754,2024-08-11,Returned,CUST-1224,Retail,PROD-186,Cookbook,Books,Penguin,20.63,3,0.0,61.89,32.3,29.59,In-Store,East,Delhi,STORE-8,SP-142
+ORD-10755,2023-10-13,Completed,CUST-1276,Loyalty Member,PROD-199,T-Shirt,Clothing,Adidas,119.39,9,0.0,1074.51,490.88,583.63,Online,West,Mumbai,STORE-12,SP-113
+ORD-10756,2023-10-16,Completed,CUST-1227,Wholesale,PROD-352,Science Textbook,Books,Scholastic,28.44,8,0.1,204.77,139.14,65.63,In-Store,North,Bangalore,STORE-9,SP-146
+ORD-10757,2024-11-15,Cancelled,CUST-1171,Wholesale,PROD-332,Headphones,Electronics,Samsung,1167.56,4,0.0,4670.24,2483.54,2186.7,Mobile App,Central,Delhi,STORE-11,SP-102
+ORD-10758,2024-03-19,Completed,CUST-1125,Retail,PROD-400,Smartwatch,Electronics,Sony,447.52,9,0.0,4027.68,2768.21,1259.47,In-Store,South,Hyderabad,STORE-9,SP-130
+ORD-10759,2023-06-05,Completed,CUST-1001,Wholesale,PROD-134,Dumbbells,Sports,Reebok,95.54,4,0.0,382.16,262.81,119.35,In-Store,Central,Hyderabad,STORE-6,SP-102
+ORD-10760,2024-03-04,Completed,CUST-1153,Retail,PROD-249,Toaster,Home & Kitchen,Dyson,263.48,4,0.15,895.83,511.57,384.26,Mobile App,West,Ahmedabad,STORE-13,SP-138
+ORD-10761,2024-01-01,Returned,CUST-1166,Retail,PROD-439,Science Textbook,Books,Random House,9.34,2,0.1,16.81,9.33,7.48,In-Store,North,Bangalore,STORE-15,SP-120
+ORD-10762,2024-11-07,Completed,CUST-1014,Wholesale,PROD-237,Headphones,Electronics,Dell,1116.26,8,0.25,6697.56,4020.31,2677.25,Mobile App,South,Kolkata,STORE-2,SP-135
+ORD-10763,2023-11-27,Completed,CUST-1137,Wholesale,PROD-472,Air Fryer,Home & Kitchen,Dyson,174.81,8,0.2,1118.78,614.96,503.82,Online,East,Mumbai,STORE-10,SP-128
+ORD-10764,2024-02-24,Cancelled,CUST-1010,Loyalty Member,PROD-110,Dress,Clothing,Adidas,116.48,2,0.15,198.02,95.51,102.51,In-Store,North,Pune,STORE-12,SP-149
+ORD-10765,2024-07-20,Cancelled,CUST-1202,Loyalty Member,PROD-217,Laptop,Electronics,LG,473.6,9,0.05,4049.28,2819.53,1229.75,In-Store,South,Pune,STORE-11,SP-126
+ORD-10766,2023-08-09,Returned,CUST-1021,Retail,PROD-244,Self-Help Book,Books,Penguin,6.62,1,0.0,6.62,3.81,2.81,In-Store,North,Hyderabad,STORE-8,SP-102
+ORD-10767,2023-10-06,Cancelled,CUST-1212,Retail,PROD-107,Tablet,Electronics,Dell,370.55,5,0.0,1852.75,869.18,983.57,Mobile App,Central,Bangalore,STORE-4,SP-147
+ORD-10768,2024-08-25,Completed,CUST-1154,Wholesale,PROD-334,Dumbbells,Sports,Decathlon,259.9,6,0.2,1247.52,721.18,526.34,Online,North,Chennai,STORE-19,SP-130
+ORD-10769,2024-01-21,Cancelled,CUST-1259,Retail,PROD-295,Vacuum Cleaner,Home & Kitchen,Philips,112.23,7,0.1,707.05,403.61,303.44,Online,West,Kolkata,STORE-12,SP-148
+ORD-10770,2024-07-13,Returned,CUST-1189,Wholesale,PROD-388,Tablet,Electronics,Apple,951.24,1,0.2,760.99,489.17,271.82,Online,East,Pune,STORE-5,SP-140
+ORD-10771,2023-03-27,Returned,CUST-1242,Loyalty Member,PROD-470,Smartwatch,Electronics,Apple,469.99,8,0.05,3571.92,1682.28,1889.64,Mobile App,South,Mumbai,STORE-16,SP-116
+ORD-10772,2024-02-26,Completed,CUST-1107,Loyalty Member,PROD-350,Air Fryer,Home & Kitchen,Bosch,43.51,10,0.2,348.08,232.47,115.61,Mobile App,West,Pune,STORE-8,SP-120
+ORD-10773,2024-04-17,Completed,CUST-1192,Retail,PROD-487,Fitness Band,Sports,Decathlon,259.72,2,0.0,519.44,289.03,230.41,Online,South,Delhi,STORE-6,SP-112
+ORD-10774,2024-03-24,Cancelled,CUST-1214,Wholesale,PROD-104,Laptop,Electronics,Dell,843.74,9,0.25,5695.24,2762.0,2933.24,In-Store,North,Kolkata,STORE-10,SP-146
+ORD-10775,2024-11-23,Cancelled,CUST-1104,Loyalty Member,PROD-465,Toaster,Home & Kitchen,Instant Pot,257.59,6,0.0,1545.54,750.17,795.37,In-Store,Central,Chennai,STORE-16,SP-129
+ORD-10776,2023-08-04,Completed,CUST-1076,Wholesale,PROD-134,Coffee Maker,Home & Kitchen,Bosch,224.02,8,0.0,1792.16,948.81,843.35,Online,East,Hyderabad,STORE-7,SP-144
+ORD-10777,2023-04-07,Completed,CUST-1179,Loyalty Member,PROD-386,Science Textbook,Books,Random House,9.26,10,0.25,69.45,41.57,27.88,Online,East,Mumbai,STORE-7,SP-117
+ORD-10778,2023-10-19,Completed,CUST-1039,Loyalty Member,PROD-178,Fitness Band,Sports,Under Armour,119.67,7,0.1,753.92,445.02,308.9,Online,South,Chennai,STORE-6,SP-116
+ORD-10779,2024-07-31,Cancelled,CUST-1141,Loyalty Member,PROD-415,Smartphone,Electronics,LG,963.51,7,0.15,5732.88,3404.84,2328.04,Mobile App,West,Hyderabad,STORE-6,SP-100
+ORD-10780,2023-08-26,Completed,CUST-1039,Retail,PROD-170,T-Shirt,Clothing,Levi's,46.37,3,0.25,104.33,69.76,34.57,Mobile App,West,Kolkata,STORE-16,SP-120
+ORD-10781,2023-11-06,Completed,CUST-1159,Loyalty Member,PROD-262,Fiction Novel,Books,HarperCollins,30.21,7,0.2,169.18,106.0,63.18,Mobile App,North,Hyderabad,STORE-6,SP-140
+ORD-10782,2023-10-12,Returned,CUST-1178,Retail,PROD-112,Sneakers,Clothing,Levi's,99.5,5,0.0,497.5,293.26,204.24,In-Store,West,Pune,STORE-14,SP-113
+ORD-10783,2024-09-23,Cancelled,CUST-1099,Retail,PROD-400,Self-Help Book,Books,Scholastic,21.84,1,0.05,20.75,11.63,9.12,In-Store,East,Delhi,STORE-12,SP-116
+ORD-10784,2024-05-29,Completed,CUST-1140,Loyalty Member,PROD-129,Smartwatch,Electronics,Sony,243.59,5,0.25,913.46,502.01,411.45,Mobile App,North,Ahmedabad,STORE-20,SP-140
+ORD-10785,2024-04-10,Completed,CUST-1078,Loyalty Member,PROD-476,Dumbbells,Sports,Reebok,228.73,9,0.0,2058.57,946.01,1112.56,Online,South,Delhi,STORE-14,SP-107
+ORD-10786,2023-02-27,Completed,CUST-1008,Wholesale,PROD-444,Yoga Mat,Sports,Under Armour,42.78,9,0.1,346.52,241.13,105.39,In-Store,South,Pune,STORE-17,SP-100
+ORD-10787,2024-11-11,Completed,CUST-1088,Wholesale,PROD-122,Cycling Helmet,Sports,Nike,33.51,9,0.0,301.59,190.68,110.91,In-Store,Central,Hyderabad,STORE-17,SP-126
+ORD-10788,2023-06-27,Completed,CUST-1289,Wholesale,PROD-145,Headphones,Electronics,Sony,928.73,2,0.15,1578.84,894.51,684.33,Online,North,Bangalore,STORE-3,SP-111
+ORD-10789,2023-11-22,Completed,CUST-1157,Loyalty Member,PROD-428,Fiction Novel,Books,HarperCollins,40.49,4,0.15,137.67,77.8,59.87,Online,South,Chennai,STORE-2,SP-124
+ORD-10790,2024-12-23,Completed,CUST-1139,Retail,PROD-190,Coffee Maker,Home & Kitchen,Instant Pot,81.96,6,0.2,393.41,199.26,194.15,In-Store,East,Ahmedabad,STORE-9,SP-105
+ORD-10791,2024-05-16,Completed,CUST-1018,Loyalty Member,PROD-297,Toaster,Home & Kitchen,Instant Pot,159.08,9,0.25,1073.79,705.88,367.91,Online,Central,Hyderabad,STORE-14,SP-122
+ORD-10792,2024-10-23,Completed,CUST-1132,Retail,PROD-339,Coffee Maker,Home & Kitchen,Instant Pot,288.87,9,0.1,2339.85,1106.02,1233.83,In-Store,North,Delhi,STORE-17,SP-142
+ORD-10793,2024-10-08,Cancelled,CUST-1017,Wholesale,PROD-459,Sneakers,Clothing,Adidas,104.1,6,0.15,530.91,313.74,217.17,Online,East,Mumbai,STORE-6,SP-126
+ORD-10794,2024-05-01,Cancelled,CUST-1095,Retail,PROD-324,Air Fryer,Home & Kitchen,Philips,99.23,6,0.1,535.84,262.93,272.91,Mobile App,West,Kolkata,STORE-13,SP-130
+ORD-10795,2023-09-07,Completed,CUST-1259,Retail,PROD-315,Air Fryer,Home & Kitchen,Cuisinart,155.01,7,0.1,976.56,449.25,527.31,In-Store,East,Kolkata,STORE-19,SP-101
+ORD-10796,2023-06-17,Cancelled,CUST-1071,Retail,PROD-439,Self-Help Book,Books,Random House,44.9,9,0.05,383.89,264.07,119.82,In-Store,North,Delhi,STORE-10,SP-150
+ORD-10797,2023-05-25,Completed,CUST-1154,Wholesale,PROD-141,Vacuum Cleaner,Home & Kitchen,Dyson,91.18,1,0.0,91.18,45.6,45.58,Online,South,Hyderabad,STORE-14,SP-105
+ORD-10798,2023-09-08,Cancelled,CUST-1201,Loyalty Member,PROD-208,Dress,Clothing,Zara,20.89,3,0.15,53.27,25.3,27.97,In-Store,West,Ahmedabad,STORE-8,SP-148
+ORD-10799,2023-04-09,Completed,CUST-1217,Loyalty Member,PROD-301,Dumbbells,Sports,Under Armour,232.47,3,0.2,557.93,358.92,199.01,Mobile App,North,Pune,STORE-16,SP-142
+ORD-10800,2024-08-23,Cancelled,CUST-1000,Loyalty Member,PROD-406,Smartphone,Electronics,LG,431.61,4,0.15,1467.47,793.27,674.2,In-Store,North,Hyderabad,STORE-5,SP-131
+ORD-10801,2023-07-12,Returned,CUST-1077,Wholesale,PROD-259,Smartphone,Electronics,Sony,766.02,6,0.2,3676.9,2255.82,1421.08,In-Store,West,Mumbai,STORE-9,SP-126
+ORD-10802,2023-07-03,Completed,CUST-1207,Retail,PROD-182,Sneakers,Clothing,Levi's,170.16,8,0.0,1361.28,730.42,630.86,In-Store,South,Kolkata,STORE-15,SP-100
+ORD-10803,2024-05-12,Returned,CUST-1257,Wholesale,PROD-499,Cycling Helmet,Sports,Nike,101.34,5,0.0,506.7,304.48,202.22,In-Store,East,Pune,STORE-4,SP-150
+ORD-10804,2023-07-03,Cancelled,CUST-1132,Retail,PROD-363,Fitness Band,Sports,Reebok,263.04,2,0.0,526.08,237.65,288.43,Mobile App,West,Kolkata,STORE-2,SP-129
+ORD-10805,2023-10-16,Completed,CUST-1151,Retail,PROD-377,Laptop,Electronics,Dell,798.33,1,0.15,678.58,348.17,330.41,In-Store,South,Chennai,STORE-12,SP-126
+ORD-10806,2023-01-18,Completed,CUST-1272,Loyalty Member,PROD-302,Running Shoes,Sports,Under Armour,196.26,10,0.0,1962.6,1058.45,904.15,Online,South,Delhi,STORE-18,SP-106
+ORD-10807,2023-05-10,Completed,CUST-1268,Loyalty Member,PROD-334,Sneakers,Clothing,H&M,180.69,6,0.25,813.1,505.95,307.15,Online,North,Pune,STORE-12,SP-102
+ORD-10808,2023-05-31,Completed,CUST-1216,Wholesale,PROD-111,Fiction Novel,Books,Scholastic,28.07,2,0.15,47.72,32.54,15.18,Online,East,Delhi,STORE-14,SP-107
+ORD-10809,2023-07-16,Completed,CUST-1191,Loyalty Member,PROD-342,Cookbook,Books,Random House,32.7,9,0.05,279.58,174.34,105.24,Online,West,Chennai,STORE-6,SP-117
+ORD-10810,2024-05-28,Completed,CUST-1009,Wholesale,PROD-436,Smartwatch,Electronics,Dell,1382.67,5,0.1,6222.02,2807.77,3414.25,Online,East,Chennai,STORE-15,SP-138
+ORD-10811,2024-10-12,Completed,CUST-1235,Loyalty Member,PROD-315,Blender,Home & Kitchen,Bosch,113.19,6,0.05,645.18,300.61,344.57,Mobile App,Central,Pune,STORE-18,SP-124
+ORD-10812,2024-05-02,Returned,CUST-1107,Loyalty Member,PROD-457,Fiction Novel,Books,Random House,20.33,6,0.25,91.48,44.64,46.84,Online,West,Chennai,STORE-13,SP-102
+ORD-10813,2024-11-07,Cancelled,CUST-1189,Wholesale,PROD-249,Fiction Novel,Books,Scholastic,30.26,6,0.0,181.56,91.12,90.44,In-Store,West,Ahmedabad,STORE-1,SP-109
+ORD-10814,2024-10-01,Completed,CUST-1145,Loyalty Member,PROD-480,Self-Help Book,Books,Macmillan,20.82,7,0.2,116.59,81.49,35.1,In-Store,South,Kolkata,STORE-18,SP-108
+ORD-10815,2024-01-23,Completed,CUST-1081,Loyalty Member,PROD-305,Fiction Novel,Books,Penguin,22.81,4,0.0,91.24,54.08,37.16,Mobile App,West,Pune,STORE-7,SP-126
+ORD-10816,2024-09-05,Returned,CUST-1253,Wholesale,PROD-246,Air Fryer,Home & Kitchen,Instant Pot,263.2,6,0.2,1263.36,639.61,623.75,In-Store,South,Bangalore,STORE-13,SP-118
+ORD-10817,2023-01-04,Returned,CUST-1214,Wholesale,PROD-196,Cookbook,Books,Scholastic,34.53,2,0.2,55.25,32.88,22.37,Mobile App,North,Hyderabad,STORE-5,SP-139
+ORD-10818,2024-09-26,Completed,CUST-1085,Loyalty Member,PROD-420,Fiction Novel,Books,Macmillan,30.68,7,0.0,214.76,114.09,100.67,In-Store,North,Pune,STORE-1,SP-147
+ORD-10819,2024-09-07,Completed,CUST-1089,Wholesale,PROD-464,Fitness Band,Sports,Decathlon,261.08,3,0.25,587.43,318.54,268.89,Online,East,Bangalore,STORE-10,SP-104
+ORD-10820,2023-02-01,Completed,CUST-1236,Loyalty Member,PROD-428,Dress,Clothing,H&M,102.65,10,0.25,769.88,536.94,232.94,Online,Central,Pune,STORE-6,SP-115
+ORD-10821,2024-04-18,Completed,CUST-1213,Wholesale,PROD-466,Laptop,Electronics,Samsung,1086.63,7,0.25,5704.81,3796.79,1908.02,Mobile App,North,Mumbai,STORE-15,SP-130
+ORD-10822,2023-03-03,Completed,CUST-1053,Retail,PROD-234,Vacuum Cleaner,Home & Kitchen,Philips,164.45,9,0.25,1110.04,618.46,491.58,Mobile App,North,Bangalore,STORE-12,SP-126
+ORD-10823,2024-11-03,Completed,CUST-1234,Loyalty Member,PROD-351,Coffee Maker,Home & Kitchen,Bosch,324.35,4,0.1,1167.66,553.8,613.86,Online,East,Pune,STORE-10,SP-144
+ORD-10824,2024-03-31,Completed,CUST-1267,Wholesale,PROD-113,Vacuum Cleaner,Home & Kitchen,Instant Pot,240.25,10,0.0,2402.5,1538.39,864.11,Online,East,Pune,STORE-10,SP-119
+ORD-10825,2023-06-12,Completed,CUST-1075,Loyalty Member,PROD-249,Cookbook,Books,Scholastic,37.09,5,0.0,185.45,117.93,67.52,In-Store,East,Hyderabad,STORE-1,SP-113
+ORD-10826,2024-08-20,Completed,CUST-1176,Loyalty Member,PROD-179,Coffee Maker,Home & Kitchen,Cuisinart,34.46,6,0.2,165.41,94.16,71.25,Mobile App,Central,Pune,STORE-17,SP-123
+ORD-10827,2024-01-23,Completed,CUST-1175,Retail,PROD-258,Dumbbells,Sports,Decathlon,152.38,8,0.2,975.23,442.32,532.91,Online,South,Bangalore,STORE-9,SP-138
+ORD-10828,2023-05-03,Completed,CUST-1016,Wholesale,PROD-420,Jacket,Clothing,H&M,102.68,1,0.05,97.55,61.98,35.57,Online,East,Delhi,STORE-9,SP-135
+ORD-10829,2024-07-01,Completed,CUST-1125,Retail,PROD-453,Fiction Novel,Books,Penguin,25.1,9,0.05,214.6,109.7,104.9,Mobile App,West,Bangalore,STORE-2,SP-138
+ORD-10830,2023-09-30,Completed,CUST-1106,Retail,PROD-224,Cookbook,Books,Penguin,38.44,2,0.0,76.88,44.64,32.24,Mobile App,Central,Ahmedabad,STORE-15,SP-106
+ORD-10831,2024-07-03,Completed,CUST-1051,Loyalty Member,PROD-401,Headphones,Electronics,Samsung,455.35,2,0.25,683.03,321.6,361.43,Online,Central,Ahmedabad,STORE-10,SP-136
+ORD-10832,2023-01-10,Cancelled,CUST-1233,Retail,PROD-228,Science Textbook,Books,Penguin,37.4,8,0.05,284.24,169.76,114.48,In-Store,Central,Chennai,STORE-16,SP-140
+ORD-10833,2023-06-30,Completed,CUST-1174,Wholesale,PROD-447,Toaster,Home & Kitchen,Dyson,220.25,5,0.1,991.12,660.89,330.23,Mobile App,Central,Chennai,STORE-15,SP-107
+ORD-10834,2023-07-06,Completed,CUST-1033,Wholesale,PROD-444,Yoga Mat,Sports,Under Armour,269.61,9,0.25,1819.87,1044.51,775.36,In-Store,North,Ahmedabad,STORE-11,SP-140
+ORD-10835,2024-12-04,Completed,CUST-1163,Loyalty Member,PROD-341,Self-Help Book,Books,HarperCollins,40.05,4,0.05,152.19,80.17,72.02,Online,East,Hyderabad,STORE-19,SP-143
+ORD-10836,2023-06-08,Completed,CUST-1166,Loyalty Member,PROD-342,Coffee Maker,Home & Kitchen,Bosch,313.57,3,0.0,940.71,566.81,373.9,Mobile App,Central,Kolkata,STORE-9,SP-114
+ORD-10837,2023-09-27,Completed,CUST-1230,Wholesale,PROD-317,Running Shoes,Sports,Under Armour,56.32,6,0.15,287.23,188.8,98.43,Mobile App,West,Kolkata,STORE-1,SP-148
+ORD-10838,2024-02-18,Completed,CUST-1103,Retail,PROD-438,Tablet,Electronics,Sony,1039.53,3,0.25,2338.94,1501.04,837.9,Mobile App,East,Chennai,STORE-12,SP-101
+ORD-10839,2023-11-26,Returned,CUST-1140,Retail,PROD-138,Cycling Helmet,Sports,Under Armour,174.05,4,0.05,661.39,399.74,261.65,Online,South,Pune,STORE-16,SP-146
+ORD-10840,2024-08-30,Cancelled,CUST-1300,Wholesale,PROD-130,Yoga Mat,Sports,Reebok,211.02,8,0.05,1603.75,834.01,769.74,Online,North,Pune,STORE-9,SP-134
+ORD-10841,2024-01-14,Returned,CUST-1077,Retail,PROD-401,Running Shoes,Sports,Nike,149.47,2,0.15,254.1,176.42,77.68,In-Store,Central,Hyderabad,STORE-18,SP-105
+ORD-10842,2024-03-24,Completed,CUST-1034,Loyalty Member,PROD-464,Jacket,Clothing,Levi's,118.39,5,0.1,532.76,331.59,201.17,Mobile App,East,Pune,STORE-15,SP-147
+ORD-10843,2023-08-08,Completed,CUST-1130,Loyalty Member,PROD-482,Jacket,Clothing,H&M,60.98,6,0.15,311.0,155.42,155.58,Online,South,Delhi,STORE-14,SP-127
+ORD-10844,2024-02-10,Returned,CUST-1016,Loyalty Member,PROD-267,Yoga Mat,Sports,Decathlon,32.18,9,0.15,246.18,111.78,134.4,Mobile App,West,Chennai,STORE-19,SP-121
+ORD-10845,2024-10-11,Cancelled,CUST-1044,Loyalty Member,PROD-339,Laptop,Electronics,LG,319.79,9,0.0,2878.11,1677.77,1200.34,Mobile App,South,Delhi,STORE-14,SP-117
+ORD-10846,2024-04-21,Returned,CUST-1010,Wholesale,PROD-394,Dumbbells,Sports,Under Armour,35.81,10,0.15,304.38,171.52,132.86,In-Store,North,Kolkata,STORE-1,SP-100
+ORD-10847,2023-08-19,Completed,CUST-1294,Wholesale,PROD-466,Vacuum Cleaner,Home & Kitchen,Bosch,125.78,4,0.15,427.65,249.36,178.29,Mobile App,South,Hyderabad,STORE-5,SP-113
+ORD-10848,2023-11-12,Completed,CUST-1167,Wholesale,PROD-217,T-Shirt,Clothing,Nike,116.02,1,0.0,116.02,67.87,48.15,Mobile App,South,Hyderabad,STORE-10,SP-110
+ORD-10849,2024-03-10,Returned,CUST-1063,Wholesale,PROD-113,Coffee Maker,Home & Kitchen,Bosch,315.77,1,0.0,315.77,211.38,104.39,In-Store,South,Kolkata,STORE-2,SP-128
+ORD-10850,2024-03-25,Completed,CUST-1259,Loyalty Member,PROD-470,Dumbbells,Sports,Puma,234.73,10,0.0,2347.3,1110.77,1236.53,Mobile App,North,Bangalore,STORE-7,SP-107
+ORD-10851,2024-05-15,Completed,CUST-1244,Wholesale,PROD-360,Cookbook,Books,Random House,23.68,4,0.0,94.72,61.56,33.16,Online,West,Mumbai,STORE-1,SP-124
+ORD-10852,2024-03-06,Completed,CUST-1117,Loyalty Member,PROD-143,Yoga Mat,Sports,Under Armour,117.71,5,0.0,588.55,328.73,259.82,Mobile App,West,Ahmedabad,STORE-1,SP-117
+ORD-10853,2024-10-24,Completed,CUST-1071,Loyalty Member,PROD-340,Blender,Home & Kitchen,Bosch,343.54,3,0.0,1030.62,496.75,533.87,Online,North,Hyderabad,STORE-10,SP-123
+ORD-10854,2024-09-24,Completed,CUST-1186,Retail,PROD-183,Dumbbells,Sports,Reebok,64.14,9,0.0,577.26,366.84,210.42,Online,West,Hyderabad,STORE-10,SP-125
+ORD-10855,2024-10-02,Returned,CUST-1017,Loyalty Member,PROD-173,Air Fryer,Home & Kitchen,Cuisinart,148.8,1,0.15,126.48,57.82,68.66,In-Store,North,Kolkata,STORE-20,SP-146
+ORD-10856,2024-06-21,Completed,CUST-1057,Wholesale,PROD-337,Jeans,Clothing,Nike,22.69,4,0.0,90.76,50.37,40.39,In-Store,Central,Ahmedabad,STORE-5,SP-138
+ORD-10857,2024-10-14,Cancelled,CUST-1187,Loyalty Member,PROD-442,Headphones,Electronics,Dell,810.33,5,0.0,4051.65,2150.29,1901.36,Mobile App,North,Ahmedabad,STORE-16,SP-147
+ORD-10858,2024-08-07,Completed,CUST-1206,Wholesale,PROD-414,Jeans,Clothing,Adidas,112.65,3,0.05,321.05,197.38,123.67,Online,South,Hyderabad,STORE-9,SP-111
+ORD-10859,2024-11-06,Completed,CUST-1167,Wholesale,PROD-291,Air Fryer,Home & Kitchen,Dyson,277.29,9,0.1,2246.05,1437.41,808.64,Mobile App,South,Mumbai,STORE-13,SP-140
+ORD-10860,2023-02-19,Completed,CUST-1005,Loyalty Member,PROD-346,Jeans,Clothing,Nike,45.73,1,0.05,43.44,21.31,22.13,In-Store,East,Hyderabad,STORE-19,SP-125
+ORD-10861,2024-04-07,Cancelled,CUST-1172,Wholesale,PROD-195,Sneakers,Clothing,Levi's,67.3,8,0.0,538.4,342.55,195.85,In-Store,East,Ahmedabad,STORE-18,SP-129
+ORD-10862,2024-11-10,Cancelled,CUST-1064,Retail,PROD-216,Headphones,Electronics,LG,541.72,6,0.2,2600.26,1587.65,1012.61,In-Store,North,Delhi,STORE-18,SP-145
+ORD-10863,2023-10-30,Cancelled,CUST-1093,Wholesale,PROD-361,Jacket,Clothing,Zara,101.46,9,0.0,913.14,631.5,281.64,Online,South,Hyderabad,STORE-1,SP-112
+ORD-10864,2023-12-29,Completed,CUST-1276,Retail,PROD-455,Biography,Books,HarperCollins,30.33,9,0.0,272.97,177.45,95.52,Mobile App,South,Pune,STORE-6,SP-106
+ORD-10865,2024-11-27,Completed,CUST-1025,Wholesale,PROD-251,Dress,Clothing,Adidas,171.78,3,0.2,412.27,273.98,138.29,In-Store,Central,Kolkata,STORE-16,SP-129
+ORD-10866,2023-11-26,Cancelled,CUST-1034,Retail,PROD-486,Jacket,Clothing,Nike,33.48,9,0.1,271.19,136.19,135.0,In-Store,South,Bangalore,STORE-16,SP-110
+ORD-10867,2023-09-06,Completed,CUST-1115,Wholesale,PROD-171,Dumbbells,Sports,Reebok,126.43,4,0.05,480.43,316.4,164.03,In-Store,North,Bangalore,STORE-7,SP-128
+ORD-10868,2023-05-26,Cancelled,CUST-1241,Retail,PROD-438,Air Fryer,Home & Kitchen,Philips,265.6,9,0.1,2151.36,1250.07,901.29,In-Store,East,Delhi,STORE-18,SP-147
+ORD-10869,2024-09-16,Completed,CUST-1195,Wholesale,PROD-157,Dumbbells,Sports,Nike,265.86,6,0.1,1435.64,986.82,448.82,Mobile App,West,Kolkata,STORE-19,SP-110
+ORD-10870,2024-12-27,Returned,CUST-1221,Wholesale,PROD-129,Running Shoes,Sports,Puma,164.01,2,0.15,278.82,142.29,136.53,Mobile App,North,Chennai,STORE-9,SP-116
+ORD-10871,2024-10-17,Completed,CUST-1248,Retail,PROD-399,Cookbook,Books,Scholastic,35.01,5,0.15,148.79,70.05,78.74,In-Store,South,Kolkata,STORE-9,SP-106
+ORD-10872,2024-12-26,Completed,CUST-1050,Loyalty Member,PROD-148,Fitness Band,Sports,Decathlon,253.66,7,0.2,1420.5,654.18,766.32,Online,South,Pune,STORE-19,SP-143
+ORD-10873,2024-12-27,Returned,CUST-1235,Loyalty Member,PROD-367,Science Textbook,Books,Scholastic,37.32,1,0.15,31.72,19.41,12.31,Online,West,Kolkata,STORE-1,SP-113
+ORD-10874,2024-08-03,Completed,CUST-1183,Loyalty Member,PROD-276,T-Shirt,Clothing,Zara,37.78,7,0.0,264.46,167.21,97.25,In-Store,South,Chennai,STORE-15,SP-150
+ORD-10875,2023-02-18,Cancelled,CUST-1164,Loyalty Member,PROD-305,Vacuum Cleaner,Home & Kitchen,Instant Pot,314.39,3,0.05,896.01,528.3,367.71,In-Store,South,Ahmedabad,STORE-3,SP-121
+ORD-10876,2023-12-27,Completed,CUST-1207,Wholesale,PROD-418,Biography,Books,HarperCollins,19.24,5,0.0,96.2,65.28,30.92,In-Store,South,Kolkata,STORE-7,SP-116
+ORD-10877,2024-12-25,Completed,CUST-1008,Retail,PROD-197,Running Shoes,Sports,Under Armour,244.68,6,0.0,1468.08,1012.72,455.36,Mobile App,East,Chennai,STORE-18,SP-134
+ORD-10878,2023-07-02,Completed,CUST-1174,Loyalty Member,PROD-281,Fitness Band,Sports,Nike,71.61,2,0.2,114.58,75.97,38.61,In-Store,South,Kolkata,STORE-4,SP-147
+ORD-10879,2023-10-28,Completed,CUST-1280,Retail,PROD-441,Biography,Books,Penguin,19.57,4,0.25,58.71,38.55,20.16,In-Store,North,Ahmedabad,STORE-8,SP-144
+ORD-10880,2023-08-13,Completed,CUST-1010,Loyalty Member,PROD-347,Jeans,Clothing,H&M,136.62,4,0.0,546.48,247.61,298.87,In-Store,West,Hyderabad,STORE-14,SP-111
+ORD-10881,2024-06-15,Completed,CUST-1134,Wholesale,PROD-289,Science Textbook,Books,Macmillan,44.99,7,0.1,283.44,177.63,105.81,In-Store,South,Pune,STORE-18,SP-122
+ORD-10882,2023-03-20,Cancelled,CUST-1243,Loyalty Member,PROD-260,Jacket,Clothing,Adidas,163.2,10,0.0,1632.0,773.82,858.18,Online,Central,Hyderabad,STORE-12,SP-145
+ORD-10883,2024-12-19,Returned,CUST-1223,Retail,PROD-187,Self-Help Book,Books,Scholastic,17.11,1,0.25,12.83,7.76,5.07,Online,Central,Ahmedabad,STORE-18,SP-141
+ORD-10884,2023-02-28,Completed,CUST-1291,Wholesale,PROD-472,Vacuum Cleaner,Home & Kitchen,Bosch,53.6,6,0.0,321.6,221.48,100.12,Online,Central,Ahmedabad,STORE-14,SP-145
+ORD-10885,2023-05-17,Cancelled,CUST-1208,Retail,PROD-492,Dumbbells,Sports,Reebok,103.3,5,0.15,439.02,223.08,215.94,Mobile App,Central,Pune,STORE-1,SP-139
+ORD-10886,2023-02-24,Completed,CUST-1099,Retail,PROD-407,Toaster,Home & Kitchen,Philips,316.61,2,0.0,633.22,368.81,264.41,Online,South,Mumbai,STORE-16,SP-146
+ORD-10887,2023-05-03,Returned,CUST-1242,Retail,PROD-275,Blender,Home & Kitchen,Philips,380.07,10,0.2,3040.56,1980.1,1060.46,Online,North,Chennai,STORE-12,SP-111
+ORD-10888,2024-12-25,Completed,CUST-1041,Wholesale,PROD-331,Running Shoes,Sports,Reebok,40.86,5,0.2,163.44,81.74,81.7,Online,Central,Chennai,STORE-1,SP-138
+ORD-10889,2023-03-04,Returned,CUST-1156,Retail,PROD-390,Fiction Novel,Books,Random House,9.3,1,0.0,9.3,4.2,5.1,Mobile App,East,Delhi,STORE-6,SP-112
+ORD-10890,2024-10-13,Completed,CUST-1191,Loyalty Member,PROD-190,Science Textbook,Books,HarperCollins,29.08,6,0.0,174.48,116.56,57.92,In-Store,South,Bangalore,STORE-15,SP-101
+ORD-10891,2024-09-29,Completed,CUST-1265,Retail,PROD-151,Smartwatch,Electronics,Samsung,1249.37,5,0.1,5622.16,2681.45,2940.71,In-Store,South,Bangalore,STORE-20,SP-121
+ORD-10892,2024-04-10,Completed,CUST-1072,Retail,PROD-351,Science Textbook,Books,Scholastic,47.48,9,0.0,427.32,228.44,198.88,Online,West,Mumbai,STORE-12,SP-103
+ORD-10893,2024-05-06,Completed,CUST-1144,Wholesale,PROD-169,Fiction Novel,Books,Macmillan,9.09,6,0.2,43.63,27.89,15.74,In-Store,South,Chennai,STORE-14,SP-125
+ORD-10894,2024-03-21,Cancelled,CUST-1199,Wholesale,PROD-354,Yoga Mat,Sports,Reebok,21.79,2,0.15,37.04,21.87,15.17,In-Store,North,Mumbai,STORE-7,SP-105
+ORD-10895,2023-11-11,Completed,CUST-1155,Wholesale,PROD-196,Biography,Books,Macmillan,12.8,6,0.0,76.8,44.82,31.98,In-Store,Central,Mumbai,STORE-14,SP-147
+ORD-10896,2024-06-04,Completed,CUST-1113,Loyalty Member,PROD-263,Self-Help Book,Books,Macmillan,21.69,1,0.05,20.61,9.78,10.83,Online,South,Ahmedabad,STORE-7,SP-136
+ORD-10897,2024-10-17,Completed,CUST-1123,Loyalty Member,PROD-269,Fiction Novel,Books,Penguin,46.49,4,0.0,185.96,126.65,59.31,Online,West,Hyderabad,STORE-12,SP-125
+ORD-10898,2023-02-15,Completed,CUST-1104,Loyalty Member,PROD-477,Jeans,Clothing,Levi's,64.31,5,0.2,257.24,159.51,97.73,In-Store,West,Mumbai,STORE-14,SP-126
+ORD-10899,2024-01-22,Returned,CUST-1065,Loyalty Member,PROD-453,Coffee Maker,Home & Kitchen,Dyson,123.77,1,0.2,99.02,45.59,53.43,Online,North,Delhi,STORE-4,SP-110
+ORD-10900,2024-05-15,Completed,CUST-1145,Loyalty Member,PROD-233,Smartphone,Electronics,LG,625.59,5,0.2,2502.36,1304.23,1198.13,Online,North,Kolkata,STORE-7,SP-105
+ORD-10901,2024-07-22,Completed,CUST-1117,Retail,PROD-298,Dumbbells,Sports,Puma,162.69,1,0.25,122.02,69.52,52.5,Online,North,Delhi,STORE-8,SP-127
+ORD-10902,2024-09-22,Completed,CUST-1022,Loyalty Member,PROD-107,Vacuum Cleaner,Home & Kitchen,Bosch,193.55,1,0.05,183.87,118.07,65.8,Online,East,Chennai,STORE-6,SP-122
+ORD-10903,2024-04-18,Completed,CUST-1171,Loyalty Member,PROD-469,T-Shirt,Clothing,H&M,88.41,5,0.0,442.05,223.81,218.24,In-Store,North,Ahmedabad,STORE-3,SP-115
+ORD-10904,2024-09-08,Completed,CUST-1209,Loyalty Member,PROD-373,Cookbook,Books,Macmillan,12.25,9,0.15,93.71,43.5,50.21,Online,Central,Bangalore,STORE-11,SP-123
+ORD-10905,2023-02-09,Cancelled,CUST-1061,Retail,PROD-490,T-Shirt,Clothing,Adidas,21.06,1,0.0,21.06,13.76,7.3,Mobile App,North,Delhi,STORE-1,SP-141
+ORD-10906,2024-05-02,Completed,CUST-1251,Loyalty Member,PROD-228,Science Textbook,Books,Random House,35.85,7,0.25,188.21,127.52,60.69,In-Store,West,Ahmedabad,STORE-5,SP-129
+ORD-10907,2024-07-03,Completed,CUST-1188,Loyalty Member,PROD-110,Coffee Maker,Home & Kitchen,Bosch,136.14,3,0.2,326.74,228.65,98.09,In-Store,East,Bangalore,STORE-2,SP-129
+ORD-10908,2024-02-25,Returned,CUST-1213,Wholesale,PROD-475,Self-Help Book,Books,Scholastic,10.63,6,0.05,60.59,41.53,19.06,In-Store,West,Kolkata,STORE-15,SP-123
+ORD-10909,2023-12-12,Completed,CUST-1291,Retail,PROD-473,Vacuum Cleaner,Home & Kitchen,Bosch,297.62,4,0.05,1130.96,570.28,560.68,Mobile App,Central,Pune,STORE-15,SP-135
+ORD-10910,2024-02-23,Returned,CUST-1153,Loyalty Member,PROD-311,Air Fryer,Home & Kitchen,Bosch,175.35,8,0.0,1402.8,821.63,581.17,Online,South,Hyderabad,STORE-11,SP-135
+ORD-10911,2023-06-10,Returned,CUST-1290,Loyalty Member,PROD-188,Fitness Band,Sports,Reebok,66.39,8,0.0,531.12,331.15,199.97,In-Store,Central,Bangalore,STORE-13,SP-136
+ORD-10912,2023-07-22,Cancelled,CUST-1271,Loyalty Member,PROD-421,Sneakers,Clothing,Zara,104.34,3,0.25,234.76,124.2,110.56,Online,North,Delhi,STORE-3,SP-101
+ORD-10913,2023-01-09,Completed,CUST-1157,Retail,PROD-285,Headphones,Electronics,Samsung,607.28,6,0.05,3461.5,2201.15,1260.35,Mobile App,East,Ahmedabad,STORE-16,SP-121
+ORD-10914,2024-12-21,Completed,CUST-1083,Wholesale,PROD-160,Jacket,Clothing,Zara,38.27,9,0.0,344.43,232.56,111.87,Mobile App,Central,Kolkata,STORE-6,SP-135
+ORD-10915,2024-07-19,Completed,CUST-1069,Wholesale,PROD-342,Running Shoes,Sports,Puma,293.2,3,0.25,659.7,312.87,346.83,In-Store,West,Bangalore,STORE-1,SP-137
+ORD-10916,2024-12-05,Cancelled,CUST-1176,Wholesale,PROD-143,Vacuum Cleaner,Home & Kitchen,Cuisinart,241.61,8,0.0,1932.88,1338.66,594.22,In-Store,North,Bangalore,STORE-5,SP-139
+ORD-10917,2023-11-04,Completed,CUST-1181,Loyalty Member,PROD-353,Dumbbells,Sports,Nike,297.98,4,0.15,1013.13,529.96,483.17,Online,Central,Kolkata,STORE-6,SP-123
+ORD-10918,2023-09-16,Completed,CUST-1026,Loyalty Member,PROD-222,Dress,Clothing,Zara,196.77,1,0.25,147.58,78.16,69.42,Mobile App,East,Chennai,STORE-15,SP-127
+ORD-10919,2023-12-12,Cancelled,CUST-1005,Loyalty Member,PROD-393,Headphones,Electronics,Dell,1057.23,6,0.0,6343.38,3061.71,3281.67,Online,East,Kolkata,STORE-7,SP-130
+ORD-10920,2024-01-25,Returned,CUST-1208,Loyalty Member,PROD-275,Yoga Mat,Sports,Under Armour,213.6,6,0.15,1089.36,708.94,380.42,Online,East,Chennai,STORE-18,SP-112
+ORD-10921,2024-05-15,Completed,CUST-1011,Retail,PROD-490,Air Fryer,Home & Kitchen,Philips,367.94,2,0.15,625.5,416.19,209.31,Online,South,Delhi,STORE-6,SP-123
+ORD-10922,2023-03-08,Completed,CUST-1036,Retail,PROD-398,Dress,Clothing,Adidas,160.2,2,0.0,320.4,202.1,118.3,Mobile App,West,Pune,STORE-4,SP-139
+ORD-10923,2023-05-05,Completed,CUST-1001,Wholesale,PROD-451,Smartphone,Electronics,Apple,1393.4,2,0.0,2786.8,1317.95,1468.85,Online,South,Mumbai,STORE-3,SP-124
+ORD-10924,2023-11-25,Cancelled,CUST-1031,Wholesale,PROD-194,Self-Help Book,Books,Scholastic,41.79,8,0.0,334.32,189.66,144.66,Mobile App,North,Delhi,STORE-6,SP-112
+ORD-10925,2023-09-27,Completed,CUST-1116,Retail,PROD-302,Dress,Clothing,Levi's,195.09,2,0.0,390.18,193.94,196.24,Mobile App,Central,Chennai,STORE-20,SP-126
+ORD-10926,2024-06-02,Completed,CUST-1144,Retail,PROD-133,Coffee Maker,Home & Kitchen,Dyson,122.85,6,0.05,700.24,407.99,292.25,Online,North,Ahmedabad,STORE-12,SP-146
+ORD-10927,2023-03-03,Completed,CUST-1163,Loyalty Member,PROD-494,Science Textbook,Books,Penguin,35.33,8,0.0,282.64,196.23,86.41,In-Store,Central,Delhi,STORE-19,SP-116
+ORD-10928,2023-11-23,Completed,CUST-1116,Loyalty Member,PROD-187,Running Shoes,Sports,Reebok,120.58,5,0.25,452.17,238.91,213.26,Online,East,Kolkata,STORE-15,SP-129
+ORD-10929,2023-11-29,Completed,CUST-1071,Wholesale,PROD-295,Cycling Helmet,Sports,Reebok,143.87,3,0.2,345.29,191.6,153.69,Mobile App,South,Kolkata,STORE-12,SP-100
+ORD-10930,2024-03-20,Returned,CUST-1076,Wholesale,PROD-272,Jeans,Clothing,Levi's,190.29,4,0.0,761.16,345.64,415.52,Online,North,Ahmedabad,STORE-13,SP-110
+ORD-10931,2023-11-07,Completed,CUST-1249,Loyalty Member,PROD-130,Cookbook,Books,HarperCollins,13.55,10,0.25,101.62,56.73,44.89,In-Store,North,Delhi,STORE-11,SP-145
+ORD-10932,2024-05-03,Completed,CUST-1157,Loyalty Member,PROD-181,Cookbook,Books,HarperCollins,15.58,8,0.05,118.41,65.61,52.8,In-Store,East,Kolkata,STORE-20,SP-107
+ORD-10933,2024-09-05,Returned,CUST-1032,Retail,PROD-328,Dress,Clothing,Zara,81.4,6,0.0,488.4,264.9,223.5,In-Store,West,Hyderabad,STORE-7,SP-120
+ORD-10934,2024-12-05,Completed,CUST-1099,Retail,PROD-264,Jacket,Clothing,H&M,161.63,9,0.15,1236.47,734.84,501.63,Mobile App,Central,Hyderabad,STORE-19,SP-139
+ORD-10935,2023-08-31,Completed,CUST-1196,Retail,PROD-419,Sneakers,Clothing,Levi's,104.56,1,0.15,88.88,51.35,37.53,In-Store,North,Ahmedabad,STORE-15,SP-138
+ORD-10936,2023-09-30,Completed,CUST-1242,Retail,PROD-214,Tablet,Electronics,Dell,1210.66,5,0.0,6053.3,3274.51,2778.79,Mobile App,North,Pune,STORE-12,SP-139
+ORD-10937,2024-05-09,Cancelled,CUST-1102,Loyalty Member,PROD-196,Self-Help Book,Books,Random House,48.05,8,0.15,326.74,196.43,130.31,Mobile App,Central,Delhi,STORE-10,SP-146
+ORD-10938,2023-03-04,Completed,CUST-1152,Wholesale,PROD-204,Dress,Clothing,Levi's,70.84,7,0.2,396.7,248.0,148.7,Online,East,Mumbai,STORE-1,SP-141
+ORD-10939,2024-10-21,Cancelled,CUST-1080,Loyalty Member,PROD-327,Yoga Mat,Sports,Under Armour,147.51,3,0.25,331.9,201.29,130.61,In-Store,North,Chennai,STORE-15,SP-117
+ORD-10940,2023-07-22,Completed,CUST-1026,Wholesale,PROD-382,Science Textbook,Books,Random House,12.33,3,0.15,31.44,21.66,9.78,In-Store,East,Bangalore,STORE-11,SP-146
+ORD-10941,2024-01-20,Completed,CUST-1144,Wholesale,PROD-389,Fiction Novel,Books,Scholastic,34.08,7,0.0,238.56,126.83,111.73,Mobile App,North,Mumbai,STORE-5,SP-131
+ORD-10942,2023-03-07,Completed,CUST-1182,Wholesale,PROD-141,Smartphone,Electronics,Apple,332.93,3,0.05,948.85,448.77,500.08,In-Store,East,Delhi,STORE-16,SP-125
+ORD-10943,2024-07-12,Completed,CUST-1106,Wholesale,PROD-181,Smartwatch,Electronics,Dell,1034.36,7,0.0,7240.52,4250.36,2990.16,Online,East,Hyderabad,STORE-8,SP-103
+ORD-10944,2024-10-22,Completed,CUST-1119,Retail,PROD-170,Fiction Novel,Books,Penguin,33.93,4,0.25,101.79,46.88,54.91,Mobile App,East,Pune,STORE-13,SP-148
+ORD-10945,2024-10-11,Returned,CUST-1281,Retail,PROD-120,Yoga Mat,Sports,Decathlon,233.18,8,0.0,1865.44,1151.74,713.7,Online,Central,Mumbai,STORE-7,SP-114
+ORD-10946,2024-08-19,Completed,CUST-1203,Retail,PROD-177,Yoga Mat,Sports,Under Armour,215.02,10,0.15,1827.67,1055.09,772.58,Mobile App,North,Chennai,STORE-9,SP-135
+ORD-10947,2024-01-19,Completed,CUST-1133,Wholesale,PROD-161,Science Textbook,Books,HarperCollins,42.57,10,0.1,383.13,204.45,178.68,Mobile App,East,Ahmedabad,STORE-1,SP-128
+ORD-10948,2024-09-09,Completed,CUST-1102,Loyalty Member,PROD-476,Science Textbook,Books,HarperCollins,13.32,1,0.2,10.66,6.94,3.72,Mobile App,East,Hyderabad,STORE-19,SP-119
+ORD-10949,2024-01-05,Completed,CUST-1006,Retail,PROD-192,Yoga Mat,Sports,Puma,176.55,5,0.05,838.61,484.53,354.08,In-Store,South,Ahmedabad,STORE-13,SP-146
+ORD-10950,2023-12-02,Completed,CUST-1127,Retail,PROD-415,Cycling Helmet,Sports,Decathlon,229.85,8,0.25,1379.1,813.96,565.14,Online,North,Mumbai,STORE-20,SP-103
+ORD-10951,2023-01-12,Completed,CUST-1110,Loyalty Member,PROD-197,Blender,Home & Kitchen,Instant Pot,194.67,10,0.0,1946.7,923.34,1023.36,In-Store,East,Delhi,STORE-9,SP-126
+ORD-10952,2024-10-31,Completed,CUST-1061,Loyalty Member,PROD-481,Headphones,Electronics,Samsung,1368.08,5,0.0,6840.4,3527.47,3312.93,Mobile App,North,Ahmedabad,STORE-6,SP-100
+ORD-10953,2023-04-26,Cancelled,CUST-1245,Retail,PROD-474,Smartphone,Electronics,Dell,1330.73,10,0.1,11976.57,6198.08,5778.49,Mobile App,South,Hyderabad,STORE-3,SP-125
+ORD-10954,2024-11-25,Completed,CUST-1295,Retail,PROD-436,Yoga Mat,Sports,Nike,156.77,8,0.2,1003.33,495.4,507.93,Online,East,Chennai,STORE-16,SP-112
+ORD-10955,2023-10-01,Completed,CUST-1288,Wholesale,PROD-386,Headphones,Electronics,Apple,505.26,8,0.0,4042.08,2825.25,1216.83,Mobile App,West,Hyderabad,STORE-2,SP-118
+ORD-10956,2024-01-08,Completed,CUST-1282,Loyalty Member,PROD-174,Smartwatch,Electronics,Sony,793.13,8,0.0,6345.04,3447.37,2897.67,In-Store,East,Kolkata,STORE-6,SP-137
+ORD-10957,2024-02-16,Returned,CUST-1184,Wholesale,PROD-144,Vacuum Cleaner,Home & Kitchen,Instant Pot,313.91,3,0.25,706.3,437.15,269.15,Mobile App,East,Bangalore,STORE-11,SP-122
+ORD-10958,2024-10-22,Completed,CUST-1174,Loyalty Member,PROD-423,Cycling Helmet,Sports,Decathlon,260.61,3,0.0,781.83,418.95,362.88,Mobile App,South,Bangalore,STORE-7,SP-144
+ORD-10959,2024-02-10,Cancelled,CUST-1002,Wholesale,PROD-381,Tablet,Electronics,Samsung,1487.66,9,0.0,13388.94,7764.14,5624.8,Mobile App,South,Hyderabad,STORE-11,SP-131
+ORD-10960,2023-04-30,Completed,CUST-1208,Loyalty Member,PROD-484,Air Fryer,Home & Kitchen,Cuisinart,376.66,9,0.2,2711.95,1368.91,1343.04,Online,South,Ahmedabad,STORE-5,SP-144
+ORD-10961,2023-07-12,Returned,CUST-1155,Retail,PROD-377,Smartwatch,Electronics,Samsung,843.76,2,0.1,1518.77,775.27,743.5,Mobile App,North,Hyderabad,STORE-1,SP-101
+ORD-10962,2023-02-01,Completed,CUST-1216,Wholesale,PROD-438,Blender,Home & Kitchen,Bosch,98.71,2,0.0,197.42,101.35,96.07,In-Store,North,Chennai,STORE-11,SP-124
+ORD-10963,2024-01-19,Completed,CUST-1255,Wholesale,PROD-279,Jacket,Clothing,H&M,131.47,8,0.0,1051.76,651.86,399.9,Online,East,Ahmedabad,STORE-13,SP-148
+ORD-10964,2024-07-05,Returned,CUST-1019,Wholesale,PROD-488,Tablet,Electronics,LG,1006.3,6,0.25,4528.35,3163.78,1364.57,Online,West,Chennai,STORE-18,SP-105
+ORD-10965,2023-03-26,Returned,CUST-1017,Wholesale,PROD-258,T-Shirt,Clothing,H&M,88.37,6,0.05,503.71,302.68,201.03,Mobile App,West,Hyderabad,STORE-20,SP-126
+ORD-10966,2023-04-08,Completed,CUST-1237,Wholesale,PROD-456,Smartphone,Electronics,LG,1321.53,1,0.25,991.15,463.14,528.01,Mobile App,West,Mumbai,STORE-9,SP-137
+ORD-10967,2023-05-01,Cancelled,CUST-1169,Wholesale,PROD-156,Science Textbook,Books,HarperCollins,45.6,5,0.0,228.0,104.87,123.13,Mobile App,South,Delhi,STORE-7,SP-130
+ORD-10968,2024-05-12,Completed,CUST-1114,Wholesale,PROD-449,T-Shirt,Clothing,H&M,159.63,3,0.2,383.11,176.6,206.51,Mobile App,West,Hyderabad,STORE-15,SP-144
+ORD-10969,2023-04-29,Completed,CUST-1220,Retail,PROD-462,Smartphone,Electronics,Apple,371.6,10,0.0,3716.0,2079.19,1636.81,Mobile App,East,Delhi,STORE-14,SP-130
+ORD-10970,2023-02-04,Completed,CUST-1243,Wholesale,PROD-359,Vacuum Cleaner,Home & Kitchen,Cuisinart,289.76,2,0.0,579.52,273.42,306.1,Online,South,Delhi,STORE-1,SP-110
+ORD-10971,2023-03-30,Returned,CUST-1034,Loyalty Member,PROD-194,Self-Help Book,Books,HarperCollins,25.07,9,0.15,191.79,113.03,78.76,Mobile App,West,Delhi,STORE-18,SP-102
+ORD-10972,2023-08-26,Cancelled,CUST-1006,Retail,PROD-368,Jeans,Clothing,Zara,43.98,7,0.0,307.86,167.16,140.7,Mobile App,East,Mumbai,STORE-10,SP-108
+ORD-10973,2023-11-24,Completed,CUST-1088,Wholesale,PROD-383,Sneakers,Clothing,Adidas,53.96,8,0.25,323.76,184.44,139.32,Mobile App,Central,Delhi,STORE-5,SP-142
+ORD-10974,2023-05-11,Returned,CUST-1185,Retail,PROD-234,Self-Help Book,Books,Penguin,26.5,2,0.0,53.0,27.12,25.88,In-Store,North,Kolkata,STORE-2,SP-120
+ORD-10975,2024-02-09,Completed,CUST-1245,Loyalty Member,PROD-360,Smartphone,Electronics,Sony,708.01,10,0.05,6726.1,4285.55,2440.55,In-Store,South,Hyderabad,STORE-20,SP-133
+ORD-10976,2023-10-22,Completed,CUST-1020,Wholesale,PROD-242,Yoga Mat,Sports,Reebok,185.95,7,0.0,1301.65,768.52,533.13,In-Store,East,Ahmedabad,STORE-11,SP-119
+ORD-10977,2024-07-02,Cancelled,CUST-1286,Loyalty Member,PROD-409,Cookbook,Books,Random House,43.49,8,0.25,260.94,142.61,118.33,Mobile App,Central,Bangalore,STORE-16,SP-121
+ORD-10978,2023-04-04,Completed,CUST-1147,Loyalty Member,PROD-362,Running Shoes,Sports,Decathlon,162.34,2,0.1,292.21,177.45,114.76,Online,East,Pune,STORE-8,SP-136
+ORD-10979,2023-07-15,Cancelled,CUST-1217,Loyalty Member,PROD-437,Air Fryer,Home & Kitchen,Bosch,335.52,9,0.2,2415.74,1255.29,1160.45,Online,Central,Bangalore,STORE-10,SP-112
+ORD-10980,2024-12-04,Completed,CUST-1126,Retail,PROD-406,Toaster,Home & Kitchen,Cuisinart,148.82,8,0.0,1190.56,570.64,619.92,Mobile App,East,Bangalore,STORE-16,SP-123
+ORD-10981,2023-09-09,Cancelled,CUST-1036,Wholesale,PROD-163,Cycling Helmet,Sports,Under Armour,280.76,8,0.15,1909.17,928.97,980.2,In-Store,Central,Kolkata,STORE-1,SP-104
+ORD-10982,2023-07-13,Returned,CUST-1101,Wholesale,PROD-126,Vacuum Cleaner,Home & Kitchen,Dyson,375.86,9,0.1,3044.47,1759.03,1285.44,In-Store,West,Delhi,STORE-16,SP-127
+ORD-10983,2024-02-01,Completed,CUST-1142,Retail,PROD-380,Blender,Home & Kitchen,Bosch,97.01,6,0.0,582.06,267.9,314.16,Mobile App,East,Bangalore,STORE-4,SP-147
+ORD-10984,2024-12-04,Completed,CUST-1141,Wholesale,PROD-320,Dumbbells,Sports,Nike,269.02,10,0.0,2690.2,1217.22,1472.98,Online,South,Hyderabad,STORE-20,SP-138
+ORD-10985,2024-08-07,Completed,CUST-1112,Retail,PROD-296,Toaster,Home & Kitchen,Instant Pot,341.08,3,0.0,1023.24,602.1,421.14,Online,Central,Mumbai,STORE-6,SP-105
+ORD-10986,2024-08-07,Returned,CUST-1084,Retail,PROD-212,Cookbook,Books,Scholastic,10.61,4,0.2,33.95,17.15,16.8,In-Store,North,Mumbai,STORE-8,SP-142
+ORD-10987,2023-11-12,Completed,CUST-1209,Loyalty Member,PROD-327,Fitness Band,Sports,Decathlon,257.13,8,0.05,1954.19,992.82,961.37,In-Store,South,Kolkata,STORE-20,SP-148
+ORD-10988,2024-01-25,Cancelled,CUST-1175,Wholesale,PROD-110,Smartwatch,Electronics,Sony,466.67,8,0.2,2986.69,1933.57,1053.12,In-Store,Central,Kolkata,STORE-15,SP-138
+ORD-10989,2023-07-30,Completed,CUST-1111,Wholesale,PROD-280,Coffee Maker,Home & Kitchen,Philips,252.35,7,0.0,1766.45,1142.92,623.53,In-Store,East,Hyderabad,STORE-10,SP-114
+ORD-10990,2024-01-24,Completed,CUST-1231,Loyalty Member,PROD-111,Science Textbook,Books,Penguin,35.89,10,0.05,340.95,208.45,132.5,In-Store,Central,Pune,STORE-12,SP-124
+ORD-10991,2023-01-21,Completed,CUST-1137,Wholesale,PROD-233,Cycling Helmet,Sports,Reebok,274.12,2,0.2,438.59,225.32,213.27,In-Store,South,Bangalore,STORE-8,SP-137
+ORD-10992,2024-10-22,Completed,CUST-1046,Loyalty Member,PROD-181,Biography,Books,Macmillan,41.46,1,0.2,33.17,17.95,15.22,Online,Central,Mumbai,STORE-9,SP-105
+ORD-10993,2024-06-21,Completed,CUST-1117,Wholesale,PROD-259,Vacuum Cleaner,Home & Kitchen,Bosch,138.47,7,0.1,872.36,582.52,289.84,Online,Central,Delhi,STORE-8,SP-105
+ORD-10994,2024-09-27,Completed,CUST-1008,Retail,PROD-408,Smartwatch,Electronics,Apple,574.72,8,0.2,3678.21,2478.12,1200.09,Mobile App,North,Delhi,STORE-4,SP-117
+ORD-10995,2023-07-03,Completed,CUST-1125,Retail,PROD-266,Fiction Novel,Books,Scholastic,29.9,6,0.0,179.4,87.58,91.82,Online,East,Mumbai,STORE-17,SP-132
+ORD-10996,2023-02-28,Cancelled,CUST-1188,Loyalty Member,PROD-500,Dumbbells,Sports,Puma,28.78,3,0.0,86.34,44.07,42.27,In-Store,West,Hyderabad,STORE-15,SP-111
+ORD-10997,2024-12-28,Completed,CUST-1000,Wholesale,PROD-335,Smartphone,Electronics,Apple,1032.18,1,0.0,1032.18,718.1,314.08,Mobile App,West,Kolkata,STORE-18,SP-134
+ORD-10998,2024-02-18,Cancelled,CUST-1208,Retail,PROD-357,Science Textbook,Books,Macmillan,20.93,10,0.2,167.44,106.81,60.63,In-Store,South,Mumbai,STORE-7,SP-104
+ORD-10999,2024-09-06,Completed,CUST-1012,Wholesale,PROD-349,Air Fryer,Home & Kitchen,Philips,253.63,7,0.2,1420.33,772.64,647.69,Online,North,Hyderabad,STORE-14,SP-149
